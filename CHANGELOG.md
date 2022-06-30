@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Minimal descriptions and links for the five pilots
 
 ### Changed
-- none
+- Updated the IDMS project with its README inline
 
 ### Removed
 - none

@@ -12,3 +12,7 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+
+plugins:  
+  # https://github.com/mondeja/mkdocs-include-markdown-plugin
+  - include-markdown
