@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Community health files (CONTRIBUTORS, CHANGELOG)
 - Mkdocs config and directory structure
+- Minimal descriptions and links for the five pilots
 
 ### Changed
 - none
