@@ -1,0 +1,14 @@
+site_name: ReCoDE Home
+theme:
+  # recommend leaving this as is
+  name: material
+
+  # change as appropriate
+  palette:
+    primary: blue grey
+    accent: green
+
+  # SPA behaviour
+  features:
+    - navigation.instant
+    - navigation.top
