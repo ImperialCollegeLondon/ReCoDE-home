@@ -4,8 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## [Unreleased]
 
+
+### Added
+
+  
+### Changed
+
+
+### Removed
+
+## [0.0.1] - 2022-07-01
 ### Added
 - Community health files (CONTRIBUTORS, CHANGELOG)
 - Mkdocs config and directory structure
@@ -19,5 +29,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rearrange content on project pages for better searches
 - Add some more detail to the CONTRIBUTORS file
 
-### Removed
-- none
+[Unreleased]: https://github.com/ImperialCollegeLondon/ReCoDE-home/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/ImperialCollegeLondon/ReCoDE-home/releases/tag/v0.0.1
