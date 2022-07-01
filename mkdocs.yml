@@ -14,6 +14,10 @@ theme:
     - navigation.instant
     - navigation.top
 
-plugins:  
-  # https://github.com/mondeja/mkdocs-include-markdown-plugin
-  - include-markdown
+plugins:
+  - include-markdown # https://github.com/mondeja/mkdocs-include-markdown-plugin
+  - search
+  - tags
+
+markdown_extensions:
+  - meta
