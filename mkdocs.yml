@@ -2,6 +2,7 @@ site_name: ReCoDE Home
 theme:
   # recommend leaving this as is
   name: material
+  favicon: favicon.png
 
   # change as appropriate
   palette:
