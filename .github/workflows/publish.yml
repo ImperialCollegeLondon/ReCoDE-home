@@ -1,15 +1,20 @@
-name: publish 
+name: publish
 on:
   push:
     branches:
       - main
 jobs:
   deploy:
+    name: Deploy Mkdocs to gh-pages branch
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Install Python
+        uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material mkdocs-include-markdown-plugin
-      - run: mkdocs gh-deploy --force
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Deploy Mkdocs
+        run: mkdocs gh-deploy --force
