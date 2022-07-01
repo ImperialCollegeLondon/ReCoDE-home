@@ -5,7 +5,7 @@ tags:
   - TDD
   - Optimisation
 ---
-# Markov Chain Monte Carlo for fun and profit
+# Implementing Markov Chain Monte Carlo and Ising model
 
 **Markov Chain Monte Carlo to showcase best practices in developing scientific software, developed by Tom Hodson.**
 
