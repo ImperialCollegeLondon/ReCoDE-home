@@ -1,3 +1,10 @@
+---
+title: Transmission
+tags:
+  - R
+  - Stan
+---
+
 # IDMS
 
 **Bayesian inference for SARS-CoV-2 transmission modelling, using Stan**

@@ -1,3 +1,11 @@
+---
+title: Sequencing
+tags:
+  - Python
+  - Nextflow
+  - Docker
+---
+
 # RNA Sequencing
 
 **a pipeline for processing large volumes of biological data**

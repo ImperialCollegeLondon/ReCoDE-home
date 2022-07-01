@@ -1,4 +1,12 @@
-# Markov Chain Monte Carlo
+---
+title: Sampling
+tags:
+  - Python
+  - TDD
+  - Optimise
+---
+
+# Markov Chain Monte Carlo Sampler
 
 **using random numbers to do all the things**
 

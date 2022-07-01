@@ -1,3 +1,11 @@
+---
+title: Perceptions
+tags:
+  - Python
+  - pyTorch
+  - Machine Learning
+---
+
 # Perceptions
 
 **PyTorch implementation for end-to-end training of a deep learning model**
