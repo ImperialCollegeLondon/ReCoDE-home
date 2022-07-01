@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated the IDMS project with its README inline
 - Rearrange content on project pages for better searches
+- Add some more detail to the CONTRIBUTORS file
 
 ### Removed
 - none
