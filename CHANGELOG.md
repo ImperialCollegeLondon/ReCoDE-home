@@ -10,9 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Community health files (CONTRIBUTORS, CHANGELOG)
 - Mkdocs config and directory structure
 - Minimal descriptions and links for the five pilots
+- Imperial favicon
+- Ability to add tags to project pages
+- Search bar for content and tag searches
 
 ### Changed
 - Updated the IDMS project with its README inline
+- Rearrange content on project pages for better searches
 
 ### Removed
 - none
