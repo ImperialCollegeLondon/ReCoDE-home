@@ -19,5 +19,5 @@ Rather this project is primarily designed to showcase the tools and practices av
 
 ## Link to material
 
-The full source code for this project is on [GitHub](https://github.com/TomHodson/ReCoDE_MCMCFF).
-Start working through the material using the [README](https://github.com/TomHodson/ReCoDE_MCMCFF#-%EF%B8%8F---markov-chain-monte-carlo-for-fun-and-profit)
+Start working through the material using the online [Documentation](https://recode-mcmcff.readthedocs.io/).
+The full source code for this project is on [GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_MCMCFF/).
