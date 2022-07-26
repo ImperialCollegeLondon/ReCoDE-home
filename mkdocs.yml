@@ -3,7 +3,7 @@ theme:
   # recommend leaving this as is
   name: material
   favicon: favicon.png
-
+  
   # change as appropriate
   palette:
     primary: blue grey
@@ -13,11 +13,18 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+    - navigation.indexes
 
 plugins:
   - include-markdown # https://github.com/mondeja/mkdocs-include-markdown-plugin
   - search
   - tags
+  - literate-nav
 
 markdown_extensions:
   - meta
+
+nav:
+  - Exemplars:
+    - exemplars/index.md
+    - exemplars/*.md
