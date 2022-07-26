@@ -26,5 +26,5 @@ In this project, we will cover the foundations of Convolutional Neural Networks 
 
 ## Link to material
 
+Start working through the material using the online [Documentation](https://imperialcollegelondon.github.io/recode-perceptions/).
 The full source code for this project is on [GitHub](https://github.com/ImperialCollegeLondon/recode-perceptions/).
-Start working through the material using the [README](https://github.com/ImperialCollegeLondon/recode-perceptions/#pytorch-implementation-for-end-to-end-training-of-a-deep-learning-model)
