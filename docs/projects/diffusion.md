@@ -28,5 +28,5 @@ This project aims to provide examples of:
 
 ## Link to material
 
+Start working through the material using the online [Documentation](https://imperialcollegelondon.github.io/ReCoDE_Diffusion_Code/).
 The full source code for this project is on [GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_Diffusion_Code).
-Start working through the material using the [README](https://github.com/ImperialCollegeLondon/ReCoDE_Diffusion_Code#recode-diffusion-code)
