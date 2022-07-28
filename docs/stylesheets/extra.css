@@ -1,0 +1,57 @@
+/* Organisers Grid */
+/* Three columns side by side */
+.column_org {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+
+/* Add some shadows to create a card effect */
+.card_org {
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+
+/* Exemplars Grid */
+
+/* Two columns side by side */
+.column_ex {
+    float: left;
+    width: 50%;
+    margin-bottom: 24px;
+    padding: 0 8px;
+    height: 100%;
+    justify-content: space-around;
+  }
+
+/* Add some shadows to create a card effect */
+.card_ex {
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    outline-style:groove;
+    outline-color:rgb(68, 173, 138);
+    width:  300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 8px;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+}
+
+/* Website Colour Scheme
+[data-md-color-scheme="imperial"] {
+  --md-primary-fg-color:        #EE0F0F;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+} */
+ /* HomePage */
+.bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
