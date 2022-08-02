@@ -31,5 +31,5 @@ We will write scripts, using bash and the R programming language, that can execu
 
 ## Link to material
 
+Start working through the material using the online [Documentation](https://imperialcollegelondon.github.io/ReCoDE_rnaseq_pipeline/).
 The full source code for this project is on [GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline).
-Start working through the material using the [README](https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline#recode-rna-seq)
