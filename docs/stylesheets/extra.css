@@ -13,6 +13,38 @@
     text-align: center;
 }
 
+.container_org img {
+  width:  428px;
+  height: 286px;
+}
+
+/* Authors Grid */
+/* Four columns side by side */
+.column_aut {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  justify-content: space-around;
+}
+
+/* Add some shadows to create a card effect */
+.card_aut {
+  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width:  200px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 8px;
+  /* justify-content:space-between; */
+  align-items: center;
+  text-align: center;
+}
+
+.container_aut img {
+  width:  200px;
+  height: 200px;
+}
 
 /* Exemplars Grid */
 
@@ -32,7 +64,7 @@
     outline-style:groove;
     outline-color:rgb(68, 173, 138);
     width:  300px;
-    height: 400px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     padding: 0 8px;
@@ -41,12 +73,17 @@
     text-align: center;
 }
 
+.tools_ex{
+  margin-bottom:-10px;
+}
+
 /* Website Colour Scheme
 [data-md-color-scheme="imperial"] {
   --md-primary-fg-color:        #EE0F0F;
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
 } */
+
  /* HomePage */
 .bg {
   position: fixed; 
