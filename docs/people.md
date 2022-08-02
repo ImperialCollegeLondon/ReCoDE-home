@@ -10,7 +10,7 @@
         </h3>
         <div class="container_org">
             <a href="https://www.imperial.ac.uk/people/k.michalickova">
-                <img src="/organisers_photo/kmichalickova.jpeg" alt="Katerina Michalickova" style="width:100%">
+                <img src="organisers_photo/kmichalickova.jpeg" alt="Katerina Michalickova" style="width:100%">
             </a>
         </div>
         </div>
@@ -23,7 +23,7 @@
         </h3>
         <div class="container_org">
             <a href="https://www.imperial.ac.uk/people/jeremy.cohen">
-                <img src="/organisers_photo/jcohen.jpeg" alt="Jeremy Cohen" style="width:100%">
+                <img src="organisers_photo/jcohen.jpeg" alt="Jeremy Cohen" style="width:100%">
             </a>
         </div>
         </div>
@@ -36,7 +36,7 @@
         </h3>
         <div class="container_org">
             <a href="https://uk.linkedin.com/in/jay-deslauriers?trk=public_profile_browsemap">
-                <img src="/organisers_photo/jdeslauriers.jpeg" alt="James Deslauriers" style="width:428px;height:286px;">
+                <img src="organisers_photo/jdeslauriers.jpeg" alt="James Deslauriers" style="width:428px;height:286px;">
             </a>
         </div>
         </div>
@@ -49,7 +49,7 @@
         </h3>
         <div class="container_org">
             <a href="https://www.imperial.ac.uk/people/j.gao">
-                <img src="/organisers_photo/jgao.jpeg" alt="Liam (Jianliang) Gao" style="width:100%">
+                <img src="organisers_photo/jgao.jpeg" alt="Liam (Jianliang) Gao" style="width:100%">
             </a>
         </div>
         </div>
@@ -62,7 +62,7 @@
         </h3>
         <div class="container_org">
             <a href="https://www.imperial.ac.uk/people/c.cooling10">
-                <img src="/organisers_photo/ccooling.jpeg" alt="Chris Cooling" style="width:100%">
+                <img src="organisers_photo/ccooling.jpeg" alt="Chris Cooling" style="width:100%">
             </a>
         </div>
         </div>
@@ -75,7 +75,7 @@
         </h3>
         <div class="container_org">
             <a href="https://www.imperial.ac.uk/people/j.pinney">
-                <img src="/organisers_photo/jpinney.jpeg" alt="John Pinney" style="width:100%">
+                <img src="organisers_photo/jpinney.jpeg" alt="John Pinney" style="width:100%">
             </a>
         </div>
         </div>

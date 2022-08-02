@@ -11,7 +11,7 @@ hide:
       <h3>
        <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline.git">RNA-sequencing Analysis</a>
       </h3>
-            <img src="/exemplar_images/rna_seq.png" alt="RNA-sequencing Analysis" style="height:65%;object-fit:contain;">
+            <img src="exemplar_images/rna_seq.png" alt="RNA-sequencing Analysis" style="height:65%;object-fit:contain;">
             <p><strong>Language/Tools:</strong> R, bash, Conda, Nextflow</p>
     </div>
   </div>
