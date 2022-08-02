@@ -1,5 +1,7 @@
 ---
 title: ReCoDE Exemplars
+hide:
+- toc
 ---
 
 <!-- RNA-sequencing Analysis -->
