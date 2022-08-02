@@ -13,6 +13,7 @@ hide:
       </h3>
             <img src="../exemplar_images/rna_seq.png" alt="RNA-sequencing Analysis" style="height:65%;object-fit:contain;">
             <p><strong>Language/Tools:</strong> R, bash, Conda, Nextflow</p>
+            <p><strong>Author:</strong>Jack Gisby</p>
     </div>
   </div>
 </div>
