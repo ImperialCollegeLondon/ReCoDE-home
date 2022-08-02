@@ -32,11 +32,11 @@
     <div class="column_org">
         <div class="card_org">
         <h3>
-            <a href = "mailto: j.deslauriers@imperial.ac.uk">James Deslauriers</a>
+            <a href = "mailto: j.deslauriers@imperial.ac.uk">Jay Deslauriers</a>
         </h3>
         <div class="container_org">
-            <a href="https://uk.linkedin.com/in/jay-deslauriers?trk=public_profile_browsemap">
-                <img src="../organisers_photo/jdeslauriers.jpeg" alt="James Deslauriers" style="width:428px;height:286px;">
+            <a href="https://www.imperial.ac.uk/people/j.deslauriers">
+                <img src="../organisers_photo/jdeslauriers.jpeg" alt="Jay Deslauriers" style="width:428px;height:286px;">
             </a>
         </div>
         </div>
