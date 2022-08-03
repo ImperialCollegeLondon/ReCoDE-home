@@ -85,16 +85,16 @@
 === "Authors"
 
     <div class="row_aut">
-        <div class="column_aut">
-            <div class="card_aut">
-            <h3>
-            <a href = "mailto: bethan.cracknell-daniels19@imperial.ac.uk">Bethan C Daniels</a>
-            </h3>
-                <div class="container_aut">
-                    <img src="/authors_photo/bdaniels.png" alt="Bethan Cracknell Daniels" style="width:100%">
-                </div>
+    <div class="column_aut">
+        <div class="card_aut">
+        <h3>
+        <a href = "mailto: bethan.cracknell-daniels19@imperial.ac.uk">Bethan C Daniels</a>
+        </h3>
+            <div class="container_aut">
+                <img src="/authors_photo/bdaniels.png" alt="Bethan Cracknell Daniels" style="width:100%">
             </div>
         </div>
+    </div>
 
 
     <div class="column_aut">
@@ -107,7 +107,6 @@
             </div>
         </div>
     </div>
-    </div>
 
     <div class="column_aut">
         <div class="card_aut">
@@ -116,6 +115,17 @@
         </h3>
             <div class="container_aut">
                 <img src="/authors_photo/thodson.jpeg" alt="Tom Hodson" style="width:100%">
+            </div>
+        </div>
+    </div>
+
+    <div class="column_aut">
+        <div class="card_aut">
+        <h3>
+        <a href = "mailto: j.trainor20@imperial.ac.uk">Jack Trainor</a>
+        </h3>
+            <div class="container_aut">
+                <img src="/authors_photo/jtrainor.jpg" alt="Jack Trainor" style="width:100%">
             </div>
         </div>
     </div>

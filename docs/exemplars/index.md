@@ -41,7 +41,7 @@ hide:
       <h3>
        <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_Diffusion_Code.git">1-dimensional neutron diffusion solver</a>
       </h3>
-            <img src="https://www.vectorstock.com/royalty-free-vector/to-be-announced-rubber-stamp-vector-13489191" alt="diffusion" style="height:65%;object-fit:contain;">
+            <img src="/exemplar_images/diffusion.png" alt="diffusion" style="height:65%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> Fortran, OOP</p>
             <p><strong>Author:</strong>Jack Trainor</p>
     </div>

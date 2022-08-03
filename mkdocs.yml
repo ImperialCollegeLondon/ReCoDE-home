@@ -59,10 +59,10 @@ extra_css:
 
 # Plugins
 plugins:
-  - include-markdown # https://github.com/mondeja/mkdocs-include-markdown-plugin
+  # - include-markdown # https://github.com/mondeja/mkdocs-include-markdown-plugin
   - search
   - tags
-  - literate-nav
+  # - literate-nav
   - minify:
       minify_html: true
 
