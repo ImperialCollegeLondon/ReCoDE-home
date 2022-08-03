@@ -108,7 +108,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: homepage.md
+  - Home: index.md
   - About: about.md
   - Getting started: getting-started.md
   - Exemplars: 
@@ -116,4 +116,4 @@ nav:
     - exemplars/*.md
   - People: people.md
   - Contact: contact.md
-  - License: license.md
+  - Licence: licence.md
