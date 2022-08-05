@@ -80,7 +80,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.details
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      url_download: true
   - pymdownx.emoji:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       emoji_index: !!python/name:materialx.emoji.twemoji
