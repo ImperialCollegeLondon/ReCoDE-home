@@ -39,9 +39,6 @@
   height: 200px;
 }
 
-<<<<<<< HEAD
-/* Exemplars */
-=======
 /* Student Shapers Grid */
 /* Four columns side by side */
 .column_ss {
@@ -81,7 +78,6 @@
     height: 100%;
     justify-content: space-around;
   }
->>>>>>> 53241fa (Added jbhaskaran jgisby contacts)
 
 /* Add some shadows to create a card effect */
 .card_ex {
