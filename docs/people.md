@@ -94,11 +94,20 @@ hide:
             </div>
         </div>
         <div class="card_aut">
-        <h3>
-        <a href = "mailto: t.hodson18@imperial.ac.uk">Tom Hodson</a>
-        </h3>
-        <div class="container_aut">
-            <img src="../assets/img/authors/thodson.jpeg" alt="Tom Hodson">
-            <p><strong>Markov Chain Monte Carlo for fun</strong></p>
+            <h3>
+            <a href = "mailto: t.hodson18@imperial.ac.uk">Tom Hodson</a>
+            </h3>
+            <div class="container_aut">
+                <img src="../assets/img/authors/thodson.jpeg" alt="Tom Hodson">
+                <p><strong>Markov Chain Monte Carlo for fun</strong></p>
+            </div>
+        </div>
+        <div class="card_aut">
+            <h3>
+            <a href = "mailto: j.trainor20@imperial.ac.uk">Jack Trainor</a>
+            </h3>
+            <div class="container_aut">
+                <img src="../assets/img/authors/jtrainor.jpg" alt="Jack Trainor">
+            </div>
         </div>
     </div>

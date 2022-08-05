@@ -32,7 +32,7 @@ hide:
       <h3>
        <a href = "https://imperialcollegelondon.github.io/ReCoDE_Diffusion_Code/">1-dimensional neutron diffusion solver</a>
       </h3>
-            <img src="../assets/img/exemplars/diffusion.png" alt="diffusion" style="height:85%;object-fit:contain;">
+            <img src="../assets/img/exemplars/diffusion.png" alt="diffusion" style="height:55%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> Fortran, OOP</p>
             <p><strong>Author:</strong>Jack Trainor</p>
     </div>
