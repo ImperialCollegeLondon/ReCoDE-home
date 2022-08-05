@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-## Welcome to ReCoDE - Research Computing and Data Science exemplars for learning
+## Welcome to ReCoDE - **Re**search **Co**mputing and **D**ata Science **E**xemplars for learning
 
 **Reasonably-sized research computing exemplars with rich learning annotation for doctoral students and researchers who are embarking on a project with a significant computational aspects.**
 
