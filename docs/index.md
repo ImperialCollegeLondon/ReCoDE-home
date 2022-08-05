@@ -1,4 +1,10 @@
-Welcome to ReCoDE! 
+---
+hide:
+  - toc
+  - navigation
+---
+
+## Welcome to ReCoDE! 
 
 Research Computing and Data Science Exemplars (ReCODE) project is a collection of high-quality research computing and data science exemplars. It is a pilot project from [Graduate School Research Computing and Data Science (RCDS)](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/) team and is funded by the [Imperial Excellence Fund for Learning and Teaching innovation](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-education/the-excellence-fund-for-learning-and-teaching-innovation/). 
 
