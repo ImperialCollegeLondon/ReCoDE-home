@@ -2,6 +2,7 @@
 title: ReCoDE Exemplars
 hide:
 - toc
+- navigation
 search:
   exclude: true
 ---
