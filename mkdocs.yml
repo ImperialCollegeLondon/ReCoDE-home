@@ -12,18 +12,15 @@ theme:
     - 404.html
   
   # change as appropriate
+
   palette:
     - scheme: default
-      primary: teal
-      accent: green
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: white
-      accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
 
   # SPA behaviour
@@ -109,7 +106,6 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - About: about.md
   - Getting started: getting-started.md
   - Exemplars: 
     - exemplars/index.md
