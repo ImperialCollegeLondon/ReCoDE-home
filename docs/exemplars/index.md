@@ -2,6 +2,8 @@
 title: ReCoDE Exemplars
 hide:
 - toc
+search:
+  exclude: true
 ---
 
 <!-- RNA-sequencing Analysis -->
