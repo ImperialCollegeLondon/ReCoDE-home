@@ -14,4 +14,6 @@ Explore technical design decisions, good sofware engineering practices and scale
 
 This resource was created by PhD students in collaboration with [StudentShapers](https://www.imperial.ac.uk/students/studentshapers/), teaching staff and [Research Software Engineers](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
 
+Get started with our [Exemplars](exemplars/index.md).
+
 
