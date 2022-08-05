@@ -81,6 +81,7 @@ hide:
             </h3>
             <div class="container_aut">
                 <img src="../assets/img/authors/bdaniels.png" alt="Bethan Cracknell Daniels">
+            <p><strong>Transmission Modelling</strong></p>
             </div>
         </div>
         <div class="card_aut">
@@ -89,6 +90,7 @@ hide:
             </h3>
             <div class="container_aut">
                 <img src="../assets/img/authors/emuller.jpg" alt="Emily S Muller">
+            <p><strong>Perceptions</strong></p>
             </div>
         </div>
         <div class="card_aut">
@@ -97,5 +99,6 @@ hide:
         </h3>
         <div class="container_aut">
             <img src="../assets/img/authors/thodson.jpeg" alt="Tom Hodson">
+            <p><strong>Markov Chain Monte Carlo for fun</strong></p>
         </div>
     </div>
