@@ -13,8 +13,7 @@ Research Computing and Data Science Exemplars (ReCoDE) resource is a collection 
 ### Aim
 The ReCoDE project (Research Computing and Data Science Exemplars) aims to gather exemplars of high-quality research computing and data science projects from various disciplines that demonstrate research software best practices and various tacit skills essential to managing a larger project. We are starting with a five-project pilot. If successful, the ReCoDE pilot will be funded for additional 35 exemplars.
 
-__ReCoDE exemplars__:
-
+### ReCoDE exemplars:
 * Are developed by students for students and research community.
 * Solve representative disciplinary problems that will help students bridge the gap between the Graduate School’s RCDS courses and embarking on their own research projects with substantial code development aspects.
 * Serve primarily as a learning resource. The code and documentation are enriched with details outlining stepwise development and organisational decisions. Each step starts with the author's rationale, design strategy. The annotation is presented in engaging ways including text,images and storyboards.
