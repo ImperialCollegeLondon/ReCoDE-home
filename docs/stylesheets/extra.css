@@ -14,7 +14,7 @@
 }
 
 .container_org img {
-  width:  428px;
+  width:  auto;
   height: 286px;
 }
 
@@ -30,18 +30,12 @@
 /* Add some shadows to create a card effect */
 .card_aut {
   box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
-  width:  200px;
-  height: 300px;
-  display: flex;
-  flex-direction: column;
-  padding: 0 8px;
-  /* justify-content:space-between; */
-  align-items: center;
   text-align: center;
+  padding: 10px;
 }
 
 .container_aut img {
-  width:  200px;
+  width:  auto;
   height: 200px;
 }
 
