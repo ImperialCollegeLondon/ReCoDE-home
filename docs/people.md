@@ -114,3 +114,43 @@ search:
             </div>
         </div>
     </div>
+
+    <div class="column_aut">
+        <div class="card_aut">
+        <h3>
+        <a href = "mailto: j.gisby20@imperial.ac.uk">Jack Gisby</a>
+        </h3>
+            <div class="container_aut">
+                <img src="/authors_photo/jgisby.jpg" alt="Jack Gisby" style="width:100%">
+                <p><strong>RNA Sequencing</strong></p>
+            </div>
+        </div>
+    </div>
+    </div>
+
+=== "Student Shapers"
+
+    <div class="row_ss">
+    <div class="column_ss">
+        <div class="card_ss">
+        <h3>
+        <a href = "mailto: jb2521@ic.ac.uk">Jahnavi Bhaskaran</a>
+        </h3>
+            <div class="container_ss">
+                <img src="/studentshapers_photo/jbhaskaran.JPG" alt="Jahnavi Bhaskaran" style="width:100%">
+            </div>
+        </div>
+    </div>
+
+
+    <div class="column_ss">
+        <div class="card_ss">
+        <h3>
+        <a href = "mailto: ioannis.nikiteas17@imperial.ac.uk">Giannis Nikiteas</a>
+        </h3>
+            <div class="container_ss">
+                <img src="../studentshapers_photo/gnikiteas.jpg" alt="Giannis Nikiteas" style="width:100%">
+            </div>
+        </div>
+    </div>
+    </div>

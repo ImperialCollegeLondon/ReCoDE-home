@@ -39,7 +39,49 @@
   height: 200px;
 }
 
+<<<<<<< HEAD
 /* Exemplars */
+=======
+/* Student Shapers Grid */
+/* Four columns side by side */
+.column_ss {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  justify-content: space-around;
+}
+
+/* Add some shadows to create a card effect */
+.card_ss {
+  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width:  200px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 8px;
+  /* justify-content:space-between; */
+  align-items: center;
+  text-align: center;
+}
+
+.container_ss img {
+  width:  200px;
+  height: 200px;
+}
+
+/* Exemplars Grid */
+
+/* Two columns side by side */
+.column_ex {
+    float: left;
+    width: 50%;
+    margin-bottom: 24px;
+    padding: 0 8px;
+    height: 100%;
+    justify-content: space-around;
+  }
+>>>>>>> 53241fa (Added jbhaskaran jgisby contacts)
 
 /* Add some shadows to create a card effect */
 .card_ex {
