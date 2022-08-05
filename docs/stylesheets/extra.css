@@ -1,7 +1,7 @@
 /* Grid layout */
 .grid-container {
   display: grid;
-  column-gap: 14%;
+  column-gap: 18%;
   row-gap: 5%;
   grid-template-columns: repeat(auto-fit, minmax(40px, 250px) );
 }

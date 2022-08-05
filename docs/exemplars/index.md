@@ -10,7 +10,7 @@ hide:
       <h3>
        <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline.git">RNA-sequencing Analysis</a>
       </h3>
-            <img src="../assets/img/exemplars/rna_seq.png" alt="RNA-sequencing Analysis" style="height:65%;object-fit:contain;">
+            <img src="../assets/img/exemplars/rnaseq.png" alt="RNA-sequencing Analysis" style="height:60%;object-fit:contain;">
             <p><strong>Language/Tools:</strong> R, bash, Conda, Nextflow</p>
             <p><strong>Author:</strong>Jack Gisby</p>
     </div>
