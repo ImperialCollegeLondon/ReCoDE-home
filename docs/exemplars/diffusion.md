@@ -1,5 +1,5 @@
 ---
-title: Diffusion
+title: Neutron Diffusion Solver
 tags:
   - Fortran
   - OOP

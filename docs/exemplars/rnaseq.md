@@ -1,5 +1,5 @@
 ---
-title: Sequencing
+title: RNA-Sequencing Analysis
 tags:
   - Python
   - R

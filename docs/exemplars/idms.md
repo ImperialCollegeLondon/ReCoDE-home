@@ -1,5 +1,5 @@
 ---
-title: Transmission
+title: Transmission Modelling
 tags:
   - R
   - Stan

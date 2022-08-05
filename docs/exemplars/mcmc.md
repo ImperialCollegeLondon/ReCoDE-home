@@ -1,5 +1,5 @@
 ---
-title: Sampling
+title: Markov Chain Monte Carlo
 tags:
   - Python
   - TDD

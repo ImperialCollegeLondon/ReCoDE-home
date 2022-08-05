@@ -1,5 +1,5 @@
 ---
-title: Perceptions
+title: PyTorch for end-to-end training of a deep learning model
 tags:
   - Python
   - pyTorch
