@@ -8,7 +8,7 @@ hide:
 <div class="grid-container">
     <div class="card_ex">
       <h3>
-       <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline.git">RNA-sequencing Analysis</a>
+       <a href = "https://imperialcollegelondon.github.io/ReCoDE_rnaseq_pipeline/">RNA-sequencing Analysis</a>
       </h3>
             <img src="../assets/img/exemplars/rnaseq.png" alt="RNA-sequencing Analysis" style="height:60%;object-fit:contain;">
             <p><strong>Language/Tools:</strong> R, bash, Conda, Nextflow</p>
@@ -30,7 +30,7 @@ hide:
 
     <div class="card_ex">
       <h3>
-       <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_Diffusion_Code.git">1-dimensional neutron diffusion solver</a>
+       <a href = "https://imperialcollegelondon.github.io/ReCoDE_Diffusion_Code/">1-dimensional neutron diffusion solver</a>
       </h3>
             <img src="../assets/img/exemplars/diffusion.png" alt="diffusion" style="height:85%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> Fortran, OOP</p>
@@ -41,7 +41,7 @@ hide:
 
     <div class="card_ex">
       <h3>
-       <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_MCMCFF.git">Markov Chain Monte Carlo for fun and profit</a>
+       <a href = "https://recode-mcmcff.readthedocs.io/en/latest/">Markov Chain Monte Carlo for fun and profit</a>
       </h3>
             <img src="../assets/img/exemplars/mcmc.png" alt="MCMC" style="height:55%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> Python, TDD, Optimisation</p>
@@ -52,7 +52,7 @@ hide:
 
     <div class="card_ex">
       <h3>
-       <a href = "https://github.com/ImperialCollegeLondon/recode-perceptions.git">PyTorch implementation for end-to-end training of a deep learning model</a>
+       <a href = "https://imperialcollegelondon.github.io/recode-perceptions/">PyTorch implementation for end-to-end training of a deep learning model</a>
       </h3>
             <img src="../assets/img/exemplars/perceptions.png" alt="perceptions" style="height:45%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> Python, pyTorch, Machine Learning</p>
