@@ -16,17 +16,11 @@ search:
       <h3>
         <a href = "https://imperialcollegelondon.github.io/ReCoDE_rnaseq_pipeline">RNA-sequencing Analysis</a>
       </h3>
-<<<<<<< HEAD
       <a href = "https://imperialcollegelondon.github.io/ReCoDE_rnaseq_pipeline" style="height:60%">
         <img src="../assets/img/exemplars/rnaseq.png" alt="RNA-sequencing Analysis" style="height:100%">
       </a>
       <a href = "../tags"><strong>Language/Tools:</strong> R, bash, Conda, Nextflow</a>
       <a href = "../people"><strong>Author:</strong> Jack Gisby</a>
-=======
-            <img src="../exemplar_images/rnaseq.png" alt="RNA-sequencing Analysis" style="height:60%;object-fit:contain;">
-            <p class="tools_ex"><strong>Language/Tools:</strong> R, bash, Conda, Nextflow</p>
-            <p><strong>Author:</strong>Jack Gisby</p>
->>>>>>> 53241fa (Added jbhaskaran jgisby contacts)
     </div>
 
 <!-- Bayesian inference for SARS-CoV-2 transmission modelling -->
