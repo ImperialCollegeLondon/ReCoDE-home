@@ -109,7 +109,6 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - About: about.md
   - Getting started: getting-started.md
   - Exemplars: 
     - exemplars/index.md
