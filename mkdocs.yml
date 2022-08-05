@@ -58,7 +58,8 @@ extra_css:
 plugins:
   - include-markdown # https://github.com/mondeja/mkdocs-include-markdown-plugin
   - search
-  - tags
+  - tags:
+      tags_file: tags.md
   - literate-nav
   - minify:
       minify_html: true
@@ -111,6 +112,7 @@ nav:
   - Exemplars: 
     - exemplars/index.md
     - exemplars/*.md
+  - Topics: tags.md
   - People: people.md
   - Contact: contact.md
   - Licence: licence.md
