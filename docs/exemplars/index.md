@@ -10,7 +10,7 @@ hide:
       <h3>
        <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline.git">RNA-sequencing Analysis</a>
       </h3>
-            <img src="../exemplar_images/rna_seq.png" alt="RNA-sequencing Analysis" style="height:65%;object-fit:contain;">
+            <img src="../assets/img/exemplars/rna_seq.png" alt="RNA-sequencing Analysis" style="height:65%;object-fit:contain;">
             <p><strong>Language/Tools:</strong> R, bash, Conda, Nextflow</p>
             <p><strong>Author:</strong>Jack Gisby</p>
     </div>
@@ -21,7 +21,7 @@ hide:
       <h3>
        <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_IDMS.git">Bayesian inference for SARS-CoV-2 transmission modelling</a>
       </h3>
-            <img src="../exemplar_images/idms.png" alt="IDMS" style="height:65%;object-fit:contain;">
+            <img src="../assets/img/exemplars/idms.png" alt="IDMS" style="height:65%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> R, Stan</p>
             <p><strong>Author:</strong>Bethan C Daniels</p>
     </div>
@@ -43,7 +43,7 @@ hide:
       <h3>
        <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_MCMCFF.git">Markov Chain Monte Carlo for fun and profit</a>
       </h3>
-            <img src="../exemplar_images/mcmc.png" alt="MCMC" style="height:55%;object-fit:contain;">
+            <img src="../assets/img/exemplars/mcmc.png" alt="MCMC" style="height:55%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> Python, TDD, Optimisation</p>
             <p><strong>Author:</strong>Tom Hodson</p>
     </div>
@@ -54,7 +54,7 @@ hide:
       <h3>
        <a href = "https://github.com/ImperialCollegeLondon/recode-perceptions.git">PyTorch implementation for end-to-end training of a deep learning model</a>
       </h3>
-            <img src="../exemplar_images/perceptions.png" alt="perceptions" style="height:45%;object-fit:contain;">
+            <img src="../assets/img/exemplars/perceptions.png" alt="perceptions" style="height:45%;object-fit:contain;">
             <p class="tools_ex"><strong>Language/Tools:</strong> Python, pyTorch, Machine Learning</p>
             <p><strong>Author:</strong>Emily Muller</p>
     </div>

@@ -16,7 +16,7 @@ hide:
             </h3>
             <div class="container_org">
                 <a href="https://www.imperial.ac.uk/people/k.michalickova">
-                    <img src="../organisers_photo/kmichalickova.jpeg" alt="Katerina Michalickova">
+                    <img src="../assets/img/organisers/kmichalickova.jpeg" alt="Katerina Michalickova">
                 </a>
             </div>
         </div>
@@ -26,7 +26,7 @@ hide:
             </h3>
             <div class="container_org">
                 <a href="https://www.imperial.ac.uk/people/jeremy.cohen">
-                    <img src="../organisers_photo/jcohen.jpeg" alt="Jeremy Cohen">
+                    <img src="../assets/img/organisers/jcohen.jpeg" alt="Jeremy Cohen">
                 </a>
             </div>
         </div>
@@ -36,7 +36,7 @@ hide:
             </h3>
             <div class="container_org">
                 <a href="https://uk.linkedin.com/in/jay-deslauriers?trk=public_profile_browsemap">
-                    <img src="../organisers_photo/jdeslauriers.jpeg" alt="James Deslauriers">
+                    <img src="../assets/img/organisers/jdeslauriers.jpeg" alt="James Deslauriers">
                 </a>
             </div>
         </div>
@@ -46,7 +46,7 @@ hide:
             </h3>
             <div class="container_org">
                 <a href="https://www.imperial.ac.uk/people/j.gao">
-                    <img src="../organisers_photo/jgao.jpeg" alt="Liam (Jianliang) Gao">
+                    <img src="../assets/img/organisers/jgao.jpeg" alt="Liam (Jianliang) Gao">
                 </a>
             </div>
         </div>
@@ -56,7 +56,7 @@ hide:
             </h3>
             <div class="container_org">
                 <a href="https://www.imperial.ac.uk/people/c.cooling10">
-                    <img src="../organisers_photo/ccooling.jpeg" alt="Chris Cooling">
+                    <img src="../assets/img/organisers/ccooling.jpeg" alt="Chris Cooling">
                 </a>
             </div>
         </div>
@@ -66,7 +66,7 @@ hide:
             </h3>
             <div class="container_org">
                 <a href="https://www.imperial.ac.uk/people/j.pinney">
-                    <img src="../organisers_photo/jpinney.jpeg" alt="John Pinney">
+                    <img src="../assets/img/organisers/jpinney.jpeg" alt="John Pinney">
                 </a>
             </div>
             </div>
@@ -80,7 +80,7 @@ hide:
             <a href = "mailto: bethan.cracknell-daniels19@imperial.ac.uk">Bethan C Daniels</a>
             </h3>
             <div class="container_aut">
-                <img src="../authors_photo/bdaniels.png" alt="Bethan Cracknell Daniels">
+                <img src="../assets/img/authors/bdaniels.png" alt="Bethan Cracknell Daniels">
             </div>
         </div>
         <div class="card_aut">
@@ -88,7 +88,7 @@ hide:
             <a href = "mailto: emily.muller@imperial.ac.uk">Emily S Muller</a>
             </h3>
             <div class="container_aut">
-                <img src="../authors_photo/emuller.jpg" alt="Emily S Muller">
+                <img src="../assets/img/authors/emuller.jpg" alt="Emily S Muller">
             </div>
         </div>
         <div class="card_aut">
@@ -96,6 +96,6 @@ hide:
         <a href = "mailto: t.hodson18@imperial.ac.uk">Tom Hodson</a>
         </h3>
         <div class="container_aut">
-            <img src="../authors_photo/thodson.jpeg" alt="Tom Hodson">
+            <img src="../assets/img/authors/thodson.jpeg" alt="Tom Hodson">
         </div>
     </div>
