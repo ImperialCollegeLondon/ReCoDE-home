@@ -14,21 +14,21 @@ search:
     <div class="grid-container">
         <div class="card_org">
             <h3>
-            <a href = "mailto: k.michalickova@imperial.ac.uk">Katerina Michalickova</a>
-            </h3>
-            <div class="container_org">
-                <a href="https://www.imperial.ac.uk/people/k.michalickova">
-                    <img src="../assets/img/organisers/kmichalickova.jpeg" alt="Katerina Michalickova">
-                </a>
-            </div>
-        </div>
-        <div class="card_org">
-            <h3>
                 <a href = "mailto: jeremy.cohen@imperial.ac.uk">Jeremy Cohen</a>
             </h3>
             <div class="container_org">
                 <a href="https://www.imperial.ac.uk/people/jeremy.cohen">
                     <img src="../assets/img/organisers/jcohen.jpeg" alt="Jeremy Cohen">
+                </a>
+            </div>
+        </div>
+        <div class="card_org">
+            <h3>
+                <a href = "mailto: c.cooling10@imperial.ac.uk">Chris Cooling</a>
+            </h3>
+            <div class="container_org">
+                <a href="https://www.imperial.ac.uk/people/c.cooling10">
+                    <img src="../assets/img/organisers/ccooling.jpeg" alt="Chris Cooling">
                 </a>
             </div>
         </div>
@@ -54,11 +54,11 @@ search:
         </div>
         <div class="card_org">
             <h3>
-                <a href = "mailto: c.cooling10@imperial.ac.uk">Chris Cooling</a>
+            <a href = "mailto: k.michalickova@imperial.ac.uk">Katerina Michalickova</a>
             </h3>
             <div class="container_org">
-                <a href="https://www.imperial.ac.uk/people/c.cooling10">
-                    <img src="../assets/img/organisers/ccooling.jpeg" alt="Chris Cooling">
+                <a href="https://www.imperial.ac.uk/people/k.michalickova">
+                    <img src="../assets/img/organisers/kmichalickova.jpeg" alt="Katerina Michalickova">
                 </a>
             </div>
         </div>
@@ -88,20 +88,20 @@ search:
         </div>
         <div class="card_aut">
             <h3>
-            <a href = "mailto: emily.muller@imperial.ac.uk">Emily S Muller</a>
-            </h3>
-            <div class="container_aut">
-                <img src="../assets/img/authors/emuller.jpg" alt="Emily S Muller">
-            <p><strong>Perceptions</strong></p>
-            </div>
-        </div>
-        <div class="card_aut">
-            <h3>
             <a href = "mailto: t.hodson18@imperial.ac.uk">Tom Hodson</a>
             </h3>
             <div class="container_aut">
                 <img src="../assets/img/authors/thodson.jpeg" alt="Tom Hodson">
                 <p><strong>Markov Chain Monte Carlo</strong></p>
+            </div>
+        </div>
+        <div class="card_aut">
+            <h3>
+            <a href = "mailto: emily.muller@imperial.ac.uk">Emily S Muller</a>
+            </h3>
+            <div class="container_aut">
+                <img src="../assets/img/authors/emuller.jpg" alt="Emily S Muller">
+            <p><strong>Perceptions</strong></p>
             </div>
         </div>
         <div class="card_aut">
