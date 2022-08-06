@@ -4,6 +4,7 @@ theme:
   # recommend leaving this as is
   name: material
   favicon: favicon.png
+  custom_dir: overrides
 
   language: en
 

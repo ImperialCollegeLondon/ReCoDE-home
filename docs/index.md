@@ -4,9 +4,10 @@ hide:
   - navigation
 search:
   exclude: true
+template: home.html
 ---
 
-## Welcome to ReCoDE - Research Computing and Data Science Exemplars for Learning and Teaching
+<h1 style="text-align:center;">Welcome to ReCoDE - Research Computing and Data Science Exemplars for Learning and Teaching</h1>
 
 **A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.**
 
