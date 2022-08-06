@@ -9,7 +9,7 @@ search:
 # Team
 
 
-=== "Organisers"
+=== "Project Coordinators"
 
     <div class="grid-container">
         <div class="card_org">
