@@ -113,19 +113,15 @@ search:
                 <p><strong>Neutron Diffusion</strong></p>
             </div>
         </div>
-    </div>
-
-    <div class="column_aut">
         <div class="card_aut">
         <h3>
         <a href = "mailto: j.gisby20@imperial.ac.uk">Jack Gisby</a>
         </h3>
             <div class="container_aut">
-                <img src="/authors_photo/jgisby.jpg" alt="Jack Gisby" style="width:100%">
+                <img src="../assets/img/authors/jgisby.jpg" alt="Jack Gisby">
                 <p><strong>RNA Sequencing</strong></p>
             </div>
         </div>
-    </div>
     </div>
 
 === "Student Shapers"
