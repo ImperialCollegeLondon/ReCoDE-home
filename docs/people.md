@@ -126,27 +126,21 @@ search:
 
 === "Student Shapers"
 
-    <div class="row_ss">
-    <div class="column_ss">
+    <div class="grid-container">
         <div class="card_ss">
         <h3>
         <a href = "mailto: jb2521@ic.ac.uk">Jahnavi Bhaskaran</a>
         </h3>
             <div class="container_ss">
-                <img src="/studentshapers_photo/jbhaskaran.JPG" alt="Jahnavi Bhaskaran" style="width:100%">
+                <img src="../assets/img/studentshapers/jbhaskaran.JPG" alt="Jahnavi Bhaskaran" style="width:100%">
             </div>
         </div>
-    </div>
-
-
-    <div class="column_ss">
         <div class="card_ss">
         <h3>
         <a href = "mailto: ioannis.nikiteas17@imperial.ac.uk">Giannis Nikiteas</a>
         </h3>
             <div class="container_ss">
-                <img src="../studentshapers_photo/gnikiteas.jpg" alt="Giannis Nikiteas" style="width:100%">
+                <img src="../assets/img/studentshapers/gnikiteas.jpeg" alt="Giannis Nikiteas" style="width:100%">
             </div>
         </div>
-    </div>
     </div>
