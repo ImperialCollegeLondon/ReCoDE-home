@@ -7,6 +7,12 @@ tags:
   - Nextflow
   - Docker
 ---
+<div id="overlay">
+  <div id="overlay-text">
+  Redirecting to exemplar docs...
+  </div>
+</div>
+
 
 <meta http-equiv="refresh" content="0; url=https://imperialcollegelondon.github.io/ReCoDE_rnaseq_pipeline/" />
 

@@ -5,6 +5,12 @@ tags:
   - TDD
   - Optimisation
 ---
+<div id="overlay">
+  <div id="overlay-text">
+  Redirecting to exemplar docs...
+  </div>
+</div>
+
 
 <meta http-equiv="refresh" content="0; url=https://recode-mcmcff.readthedocs.io/en/latest/" />
 
