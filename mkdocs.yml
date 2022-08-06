@@ -31,6 +31,7 @@ theme:
     - navigation.indexes
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - search.highlight
     - search.share
