@@ -11,7 +11,7 @@ tags:
 </div>
 
 
-<meta http-equiv="refresh" content="0; url=https://github.com/ImperialCollegeLondon/ReCoDE_IDMS" />
+<meta http-equiv="refresh" content="0; url=https://imperialcollegelondon.github.io/ReCoDE_IDMS" />
 
 
 --8<-- "https://raw.githubusercontent.com/ImperialCollegeLondon/ReCoDE_IDMS/main/README.md"
