@@ -1,20 +1,22 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
 {% import "partials/language.html" as lang with context %}
 <style>
-.container {
-  display: flex;
-}
-
-.section {
-  flex: 1; /*grow*/
-  border: 1px solid;
-}
-
-@media (max-width: 768px) { /*breakpoint*/
   .container {
-    flex-direction: column;
+    display: flex;
   }
-}
-</style>
+  
+  .section {
+    flex: 1; /*grow*/
+  }
+
+  @media (max-width: 768px) { /*breakpoint*/
+    .container {
+      flex-direction: column;
+    }
+  }
+  </style>
 
 <!doctype html>
 <html lang="{{ lang.t('language') }}" class="no-js">
@@ -137,7 +139,64 @@
       {% include "partials/header.html" %}
     {% endblock %}
     <div class="md-container" data-md-component="container">
+      {% block hero %}
+      <div class="container">
+        <div class="section">
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              {% block content %}
+                {% include "partials/content.html" %}
+              {% endblock %}
+            </article>
+            {% include "partials/javascripts/content.html" %}
+          </div>
+        </div>
+        <div class="section"><img src="assets/img/research_computing.jpg" style="max-width:100%;height:120%;
+          object-fit:cover;border-left: 1px solid;"></div>
+      </div>
+      {% endblock %}
+      {% block tabs %}
+        {% if not "navigation.tabs.sticky" in features %}
+          {% if "navigation.tabs" in features %}
+            {% include "partials/tabs.html" %}
+          {% endif %}
+        {% endif %}
+      {% endblock %}
       <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          {% block site_nav %}
+            {% if nav %}
+              {% if page.meta and page.meta.hide %}
+                {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+              {% endif %}
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" {{ hidden }}>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    {% include "partials/nav.html" %}
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+            {% if not "toc.integrate" in features %}
+              {% if page.meta and page.meta.hide %}
+                {% set hidden = "hidden" if "toc" in page.meta.hide %}
+              {% endif %}
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    {% include "partials/toc.html" %}
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+          {% endblock %}
+        </div>
+        {% if "navigation.top" in features %}
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            {% include ".icons/material/arrow-up.svg" %}
+            {{ lang.t('top.title') }}
+          </a>
+        {% endif %}
       </main>
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -182,22 +241,5 @@
         <script src="{{ path | url }}"></script>
       {% endfor %}
     {% endblock %}
-
-    <div class="container">
-      <div class="section"><img src="assets/img/group_computing_low.jpg" style="max-width:100%;height:100%;
-        object-fit:cover;"></div>
-      <div class="section">
-        <div class="md-content" data-md-component="content">
-          <article class="md-content__inner md-typeset">
-            {% block content %}
-              {% include "partials/content.html" %}
-            {% endblock %}
-          </article>
-          {% include "partials/javascripts/content.html" %}
-        </div>
-      </div>
-      <div class="section"><img src="assets/img/research_computing_low.jpg" style="max-width:100%;height:100%;
-        object-fit:cover;"></div>
-    </div>
   </body>
 </html>
