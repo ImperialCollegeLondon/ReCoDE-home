@@ -9,7 +9,7 @@ search:
 ---
 
 <!-- RNA-sequencing Analysis -->
-<div class="grid-container">
+<div class="grid-container" style="justify-items:center;">
     <div class="card_ex">
       <a href = "https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline" style="display:inline;margin-bottom:-50px;margin-right:-310px;">
         <img src="../assets/img/github.png" alt="RNA Sequencing GitHub" style="width:75%;padding:4px;">
