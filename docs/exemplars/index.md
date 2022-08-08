@@ -3,6 +3,7 @@ title: ReCoDE Exemplars
 hide:
 - toc
 - navigation
+- footer
 search:
   exclude: true
 ---
