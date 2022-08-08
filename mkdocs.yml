@@ -1,19 +1,13 @@
 site_name: ReCoDE Home
 
 theme:
-  # recommend leaving this as is
   name: material
   favicon: favicon.png
+  logo: favicon.png
   custom_dir: overrides
-
-  language: en
-
-# Static files
-  static_templates:
-    - 404.html
-  
-  # change as appropriate
-
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     - scheme: default
       toggle:
@@ -38,11 +32,9 @@ theme:
     - search.suggest
     - toc.follow
 
-  font:
-    text: Roboto
-    code: Roboto Mono
-
-  logo: favicon.png
+  # Static files
+  static_templates:
+    - 404.html
 
 # Customization
 extra:
@@ -58,7 +50,7 @@ extra_css:
 
 # Plugins
 plugins:
-  - include-markdown # https://github.com/mondeja/mkdocs-include-markdown-plugin
+  - include-markdown
   - search
   - tags:
       tags_file: tags.md
@@ -68,44 +60,13 @@ plugins:
 
 # Extensions
 markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
   - meta
-  - md_in_html
   - toc:
       permalink: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.details
   - pymdownx.snippets:
       url_download: true
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
-  # - pymdownx.highlight:
-  #     anchor_linenums: true
-  # - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.smartsymbols
-  # - pymdownx.magiclink:
-  #     repo_url_shorthand: true
-  #     user: squidfunk # change to ReCoDE
-  #     repo: mkdocs-material # change to ReCoDE
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
 
 # Page tree
 nav:
