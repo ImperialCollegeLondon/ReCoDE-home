@@ -25,23 +25,8 @@ search:
       width: 90%;
     }
   }
-
-  .gs-corner {
-    position: absolute;
-    width: 160px;
-    max-width: 50%;
-    bottom: 156px; 
-    left: 0px;
-  }
-
-  @media (max-width: 720px) {
-    .gs-corner {
-      bottom: 184px;
-    }
-  }
 </style>
 
-<img class="gs-corner" src="../assets/img/gs_banner.png"/>
 <img class="gs-float" src="../assets/img/gs_banner.jpeg"/>
 ## Welcome to ReCoDE! 
 
