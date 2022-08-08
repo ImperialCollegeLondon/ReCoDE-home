@@ -1,4 +1,8 @@
 /* Grid layout */
+.md-content {
+  --md-typeset-a-color: #1f76e0;
+}
+
 .grid-container {
   display: grid;
   column-gap: 18%;
