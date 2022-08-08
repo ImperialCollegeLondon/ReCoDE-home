@@ -9,11 +9,33 @@
   
   .section {
     flex: 1; /*grow*/
+    height: 115%;
+  }
+  
+  @media (max-height: 650px) {
+    .section {
+      height: 100%
+    }
   }
 
-  @media (max-width: 768px) { /*breakpoint*/
+  @media (max-width: 1100px) {
+    .section {
+      height: 110%
+    }
+  }
+
+  @media (max-width: 950px) {
+    .section {
+      height: 100%
+    }
+  }
+
+  @media (max-width: 800px) {
     .container {
       flex-direction: column;
+    }
+    .section {
+      height: 100%
     }
   }
   </style>
@@ -141,6 +163,8 @@
     <div class="md-container" data-md-component="container">
       {% block hero %}
       <div class="container">
+        <div class="section"><img src="assets/img/group_computing.jpg" style="max-width:100%;height:inherit;
+          object-fit:cover;object-position:70%;border-right: 1px solid;"></div>
         <div class="section">
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
@@ -151,8 +175,6 @@
             {% include "partials/javascripts/content.html" %}
           </div>
         </div>
-        <div class="section"><img src="assets/img/research_computing.jpg" style="max-width:100%;height:120%;
-          object-fit:cover;border-left: 1px solid;"></div>
       </div>
       {% endblock %}
       {% block tabs %}
