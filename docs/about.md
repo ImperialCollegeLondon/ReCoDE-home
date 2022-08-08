@@ -6,28 +6,6 @@ search:
   exclude: true
 ---
 
-<style>
-  .gs-float {
-    position: absolute;
-    width: 220px;
-    right: 50px;
-    top: 70px;
-    outline: 2px solid black;
-  }
-
-  @media (max-width: 520px) {
-    .gs-float {
-      position: relative;
-      right: 0px;
-      top: 0px;
-      display: flex;
-      justify-content: center;
-      width: 90%;
-    }
-  }
-</style>
-
-<img class="gs-float" src="../assets/img/gs_banner.jpeg"/>
 ## Welcome to ReCoDE! 
 
 ReCoDE is a collection of high-quality research computing and data science exemplars with learning annotation. It is a pilot project coordinated by the [Graduate School Research Computing and Data Science (RCDS)](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/) team that is funded by the [Imperial Excellence Fund for Learning and Teaching Innovation](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-education/the-excellence-fund-for-learning-and-teaching-innovation/). 
