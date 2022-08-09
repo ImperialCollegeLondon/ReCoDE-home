@@ -11,8 +11,13 @@ template: home.html
 
 **A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.**
 
-Explore technical design decisions, good sofware engineering practices and scale up your research with High Performance Computing. Learn a range of other skills needed to make a transition from theoretical learning to applying technical knowledge to your own project. Research computing practice is the main focus, scientific aspects in all exemplars are intended to be accessible to all.
+ReCoDE exemplars will enable you to:
+- Examine project organisation
+- Explore technical design decisions
+- Study good sofware engineering practices 
+- Grasp scaling up with High Performance Computing 
+- Learn a range of skills essential to make a transition from theory to practice
 
-This resource was created by PhD students in collaboration with [StudentShapers](https://www.imperial.ac.uk/students/studentshapers/), teaching staff and [Research Software Engineers](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
+This resource was created by doctoral students, [StudentShapers](https://www.imperial.ac.uk/students/studentshapers/) in collaboration with staff from the [Graduate School](https://www.imperial.ac.uk/study/pg/graduate-school/) and [Department of Computing](https://www.imperial.ac.uk/computing), and [Research Software Engineers](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
 
 Get started with our [Exemplars](exemplars/index.md).
