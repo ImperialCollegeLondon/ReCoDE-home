@@ -143,3 +143,8 @@ search:
             </div>
             </div>
         </div>
+
+=== "Research Software Engineers"
+
+    The ReCoDE Project was supported by a group of Imperial College RSEs. You can read about
+    Research Software Engineering at Imperial at the following [link](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
