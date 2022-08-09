@@ -19,7 +19,6 @@ Get started with our [Exemplars](exemplars/index.md).
 
 <p align="center" width="50px">
 <a href="https://www.imperial.ac.uk/study/pg/graduate-school/">
-  <img width="150px" style="margin-bottom:-15px;outline:2px solid black; outline-offset: 1px" src="assets/img/gs_banner.jpeg" />
+  <img width="60%" style="margin-bottom:-15px;" src="assets/img/gs_banner.png" />
 </a>
-  <figcaption align="center">The Graduate School</figcaption>
 </p>
