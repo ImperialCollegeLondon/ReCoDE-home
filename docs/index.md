@@ -12,6 +12,7 @@ template: home.html
 **A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.**
 
 ReCoDE exemplars will enable you to:
+
 * Examine project organisation
 * Explore technical design decisions
 * Study good sofware engineering practices 
