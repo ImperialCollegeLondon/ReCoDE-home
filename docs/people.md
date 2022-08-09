@@ -107,7 +107,7 @@ search:
                 <a href = "mailto: j.deslauriers@imperial.ac.uk">Jay Deslauriers</a>
             </h3>
             <div class="container_people">
-                <a href="https://uk.linkedin.com/in/jay-deslauriers?trk=public_profile_browsemap">
+                <a href="https://www.imperial.ac.uk/people/j.deslauriers">
                     <img src="../assets/img/organisers/jdeslauriers.jpeg" alt="James Deslauriers">
                 </a>
             </div>
