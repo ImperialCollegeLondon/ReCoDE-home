@@ -1,8 +1,11 @@
 ---
 title: Neutron Diffusion Solver
 tags:
+  - Nuclear Physics
   - Fortran
-  - OOP
+  - Object Oriented Programming
+  - CMake
+  - PETSc
 ---
 <div id="overlay">
   <div id="overlay-text">

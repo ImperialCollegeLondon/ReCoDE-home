@@ -3,6 +3,8 @@ title: Transmission Modelling
 tags:
   - R
   - Stan
+  - Unit Testing
+  - Epidemiology
 ---
 <div id="overlay">
   <div id="overlay-text">

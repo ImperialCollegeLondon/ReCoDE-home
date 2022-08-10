@@ -2,8 +2,10 @@
 title: Markov Chain Monte Carlo
 tags:
   - Python
-  - TDD
+  - Unit Testing
   - Optimisation
+  - Statistics
+  - Physics
 ---
 <div id="overlay">
   <div id="overlay-text">

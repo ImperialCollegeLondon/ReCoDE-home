@@ -3,7 +3,10 @@ title: PyTorch for end-to-end training of a deep learning model
 tags:
   - Python
   - pyTorch
+  - Tensorflow
+  - Computer Vision
   - Machine Learning
+  - HPC
 ---
 <div id="overlay">
   <div id="overlay-text">
