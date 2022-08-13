@@ -172,8 +172,8 @@
           {% endif %}
         {% endif %}
       {% endblock %}
-      <main class="md-main" data-md-component="main" style="display:none;">
-        <div class="md-main__inner md-grid">
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid" style="margin:0;">
           {% block site_nav %}
             {% if nav %}
               {% if page.meta and page.meta.hide %}
