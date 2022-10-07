@@ -28,7 +28,7 @@ search:
 <img class="gs-about" src="../assets/img/gs_banner.png"/>
 ## Welcome to ReCoDE! 
 
-ReCoDE is a collection of high-quality research computing and data science exemplars with learning annotation. It is a pilot project coordinated by the [Graduate School Research Computing and Data Science (RCDS)](https://github.com/ImperialCollegeLondon/ReCoDE-home/edit/main/docs/index.md) team that is funded by the [Imperial Excellence Fund for Learning and Teaching Innovation](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-education/the-excellence-fund-for-learning-and-teaching-innovation/). 
+ReCoDE is a collection of high-quality research computing and data science exemplars with learning annotation. It is a pilot project coordinated by the [Graduate School Research Computing and Data Science (RCDS)](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/) team that is funded by the [Imperial Excellence Fund for Learning and Teaching Innovation](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-education/the-excellence-fund-for-learning-and-teaching-innovation/). 
 
 ### Aim
 So far, ReCoDE has gathered a small set of exemplars of high-quality research computing and data science projects from various disciplines. The exemplars demonstrate research software best practices and various tacit skills essential to managing a larger computational science project. We have started with a trial group of five projects and aim to extend this with an additional 35 exemplars, subject to further funding.
