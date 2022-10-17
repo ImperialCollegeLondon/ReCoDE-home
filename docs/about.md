@@ -37,7 +37,7 @@ So far, ReCoDE has gathered a small set of exemplars of high-quality research co
 * Are developed by students for students and the research community.
 * Solve representative disciplinary problems that will help students bridge the gap between the Graduate School’s RCDS courses and their own research projects.
 * Provide both a learning and teaching resource. The code and documentation are enriched with details outlining stepwise development and organisational decisions. Each step starts with the author's rationale and design strategy. Annotations are presented in engaging ways including text, images and storyboards.
-* Demonstrate software engineering best practices - each exemplar was developed in collaboration with [Imperial's Research Software Engineering team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
+* Demonstrate software engineering best practices - each exemplar was developed in collaboration with [Imperial's Research Software Engineering team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering-consultancy/).
 * Are substantial enough to demonstrate a solution to a significant problem, but concise enough to be digestible. 
 
 <br>
