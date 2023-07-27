@@ -8,6 +8,22 @@ search:
   exclude: true
 ---
 
+<!-- Euler-Maruyama Method -->
+<div class="grid-container" style="justify-items:center;">
+    <div class="card_ex">
+      <a href = "https://github.com/ImperialCollegeLondon/ReCoDe-Euler-Maruyama" style="display:inline;margin-bottom:-50px;margin-right:-310px;">
+        <img src="../assets/img/github.png" alt="Euler-Maruyama GitHub" style="width:75%;padding:4px;">
+      </a>
+      <h3>
+        <a href = "https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama">Solving SDEs with the Euler-Maruyama Method</a>
+      </h3>
+      <a href = "https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama" style="height:60%">
+        <img src="../assets/img/exemplars/rnaseq.png" alt="Euler-Maruyama Method" style="height:100%">
+      </a>
+      <a href = "../tags"><strong>Language/Tools:</strong> Python, NumPy, Matplotlib</a>
+      <a href = "../people"><strong>Author:</strong> Antonio Malpica-Morales</a>
+    </div>
+
 <!-- RNA-sequencing Analysis -->
 <div class="grid-container" style="justify-items:center;">
     <div class="card_ex">
