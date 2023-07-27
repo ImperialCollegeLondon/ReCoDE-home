@@ -8,8 +8,9 @@ search:
   exclude: true
 ---
 
-<!-- Euler-Maruyama Method -->
+
 <div class="grid-container" style="justify-items:center;">
+<!-- Euler-Maruyama Method -->
     <div class="card_ex">
       <a href = "https://github.com/ImperialCollegeLondon/ReCoDe-Euler-Maruyama" style="display:inline;margin-bottom:-50px;margin-right:-310px;">
         <img src="../assets/img/github.png" alt="Euler-Maruyama GitHub" style="width:75%;padding:4px;">
@@ -22,6 +23,21 @@ search:
       </a>
       <a href = "../tags"><strong>Language/Tools:</strong> Python, NumPy, Matplotlib</a>
       <a href = "../people"><strong>Author:</strong> Antonio Malpica-Morales</a>
+    </div>
+
+<!-- Python GUI -->
+    <div class="card_ex">
+      <a href = "https://github.com/ImperialCollegeLondon/ReCoDE-PythonGUI" style="display:inline;margin-bottom:-50px;margin-right:-310px;">
+        <img src="../assets/img/github.png" alt="Python GUI GitHub" style="width:75%;padding:4px;">
+      </a>
+      <h3>
+        <a href = "https://imperialcollegelondon.github.io/ReCoDE-PythonGUI">Multi-channel Python GUI</a>
+      </h3>
+      <a href = "https://imperialcollegelondon.github.io/ReCoDe-PythonGUI" style="height:60%">
+        <img src="../assets/img/exemplars/pythongui.jpg" alt="Multi-channel Python GUI" style="width:90%">
+      </a>
+      <a href = "../tags"><strong>Language/Tools:</strong> Python, NumPy, GUI</a>
+      <a href = "../people"><strong>Author:</strong> Shuaixun Wang</a>
     </div>
 
 <!-- RNA-sequencing Analysis -->
