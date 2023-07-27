@@ -18,7 +18,7 @@ search:
         <a href = "https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama">Solving SDEs with the Euler-Maruyama Method</a>
       </h3>
       <a href = "https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama" style="height:60%">
-        <img src="../assets/img/exemplars/rnaseq.png" alt="Euler-Maruyama Method" style="height:100%">
+        <img src="../assets/img/exemplars/eulermaruyama.png" alt="Euler-Maruyama Method" style="width:90%">
       </a>
       <a href = "../tags"><strong>Language/Tools:</strong> Python, NumPy, Matplotlib</a>
       <a href = "../people"><strong>Author:</strong> Antonio Malpica-Morales</a>
