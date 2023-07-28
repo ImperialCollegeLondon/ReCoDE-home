@@ -17,11 +17,36 @@
     box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
     text-align: center;
 }
+/* Authors Grid */
+.container_people {
+  position: relative;
+  height: 240px; /* Increased total height to accommodate buffer around the image */
+}
+
+.container_people::before {
+  content: "";
+  display: block;
+  height: 180px; /* Reduced height to provide buffer around the image */
+}
+
+.container_people::after {
+  content: "";
+  display: block;
+  height: 20px; /* Bottom buffer remains the same */
+}
 
 .container_people img {
-  width:  auto;
-  height: 200px;
+  max-width: 90%; /* Reduced max-width to provide buffer on left and right */
+  max-height: 90%;
+  position: absolute; 
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%);
+  height: auto;
+  width: auto;
 }
+
+
 
 
 /* Exemplars Grid */
