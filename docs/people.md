@@ -38,8 +38,14 @@ search:
             </div>
             <p><strong>Markov Chain Monte Carlo</strong></p>
         </div>
-                <p><strong>Markov Chain Monte Carlo</strong></p>
+        <div class="card_people">
+        <h3>
+        <a href = "mailto: a.malpica-morales21@imperial.ac.uk">Antonio Malpica-Morales</a>
+        </h3>
+            <div class="container_people">
+                <img src="../assets/img/authors/amalpica-morales.jpg" alt="Antonio Malpica-Morales">
             </div>
+            <p><strong>SDEs with Euler-Maruyama</strong></p>
         </div>
         <div class="card_people">
             <h3>
