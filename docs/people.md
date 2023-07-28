@@ -17,8 +17,17 @@ search:
             </h3>
             <div class="container_people">
                 <img src="../assets/img/authors/bdaniels.png" alt="Bethan Cracknell Daniels">
-            <p><strong>Transmission Modelling</strong></p>
             </div>
+            <p><strong>Transmission Modelling</strong></p>
+        </div>
+        <div class="card_people">
+        <h3>
+        <a href = "mailto: j.gisby20@imperial.ac.uk">Jack Gisby</a>
+        </h3>
+            <div class="container_people">
+                <img src="../assets/img/authors/jgisby.jpg" alt="Jack Gisby">
+            </div>
+            <p><strong>RNA Sequencing</strong></p>
         </div>
         <div class="card_people">
             <h3>
@@ -26,6 +35,9 @@ search:
             </h3>
             <div class="container_people">
                 <img src="../assets/img/authors/thodson.jpeg" alt="Tom Hodson">
+            </div>
+            <p><strong>Markov Chain Monte Carlo</strong></p>
+        </div>
                 <p><strong>Markov Chain Monte Carlo</strong></p>
             </div>
         </div>
@@ -35,8 +47,8 @@ search:
             </h3>
             <div class="container_people">
                 <img src="../assets/img/authors/emuller.jpg" alt="Emily S Muller">
-            <p><strong>Perceptions</strong></p>
             </div>
+            <p><strong>Perceptions</strong></p>
         </div>
         <div class="card_people">
             <h3>
@@ -44,17 +56,8 @@ search:
             </h3>
             <div class="container_people">
                 <img src="../assets/img/authors/jtrainor.jpg" alt="Jack Trainor">
-                <p><strong>Neutron Diffusion</strong></p>
             </div>
-        </div>
-        <div class="card_people">
-        <h3>
-        <a href = "mailto: j.gisby20@imperial.ac.uk">Jack Gisby</a>
-        </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/jgisby.jpg" alt="Jack Gisby">
-                <p><strong>RNA Sequencing</strong></p>
-            </div>
+            <p><strong>Neutron Diffusion</strong></p>
         </div>
     </div>
 
