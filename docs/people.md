@@ -58,6 +58,15 @@ search:
         </div>
         <div class="card_people">
             <h3>
+            <a href = "mailto: e.ogbomo21@imperial.ac.uk">Egheosa Ogbomo</a>
+            </h3>
+            <div class="container_people">
+                <img src="../assets/img/authors/eogbomo.jpg" alt="Egheosa Ogbomo">
+            </div>
+            <p><strong>AI for Patents</strong></p>
+        </div>
+        <div class="card_people">
+            <h3>
             <a href = "mailto: j.trainor20@imperial.ac.uk">Jack Trainor</a>
             </h3>
             <div class="container_people">
