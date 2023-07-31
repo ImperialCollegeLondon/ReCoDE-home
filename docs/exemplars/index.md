@@ -10,6 +10,21 @@ search:
 
 
 <div class="grid-container" style="justify-items:center;">
+<!-- AI for Patents -->
+    <div class="card_ex">
+      <a href = "https://github.com/ImperialCollegeLondon/ReCoDE-AIForPatents" style="display:inline;margin-bottom:-50px;margin-right:-310px;">
+        <img src="../assets/img/github.png" alt="AI for Patents" style="width:75%;padding:4px;">
+      </a>
+      <h3>
+        <a href = "https://imperialcollegelondon.github.io/ReCoDE-AIForPatents">Binary Classification of Patent Texts</a>
+      </h3>
+      <a href = "https://imperialcollegelondon.github.io/ReCoDE-AIForPatents" style="height:60%">
+        <img src="../assets/img/exemplars/aiforpatents.png" alt="AI for Patents" style="width:95%">
+      </a>
+      <a href = "../tags"><strong>Language/Tools:</strong> Python, Tensorflow, Sci-kit Learn</a>
+      <a href = "../people"><strong>Author:</strong> Egheosa Ogbomo</a>
+    </div>
+
 <!-- Euler-Maruyama Method -->
     <div class="card_ex">
       <a href = "https://github.com/ImperialCollegeLondon/ReCoDe-Euler-Maruyama" style="display:inline;margin-bottom:-50px;margin-right:-310px;">
