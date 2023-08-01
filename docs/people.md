@@ -74,6 +74,15 @@ search:
             </div>
             <p><strong>Neutron Diffusion</strong></p>
         </div>
+        <div class="card_people">
+            <h3>
+            <a href = "mailto: shuaixun.wang20@imperial.ac.uk">Shuaixun Wang</a>
+            </h3>
+            <div class="container_people">
+                <img src="../assets/img/authors/swang.png" alt="Shuaixun Wang">
+            </div>
+            <p><strong>Multi-channel Python GUI</strong></p>
+        </div>
     </div>
 
 === "Student Shapers"
