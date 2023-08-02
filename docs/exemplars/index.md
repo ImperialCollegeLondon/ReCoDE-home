@@ -25,6 +25,21 @@ search:
       <a href = "../people"><strong>Author:</strong> Egheosa Ogbomo</a>
     </div>
 
+<!-- CNNs for Cosmic Dawn -->
+    <div class="card_ex">
+      <a href = "https://github.com/ImperialCollegeLondon/ReCoDE-FirstDawn" style="display:inline;margin-bottom:-50px;margin-right:-310px;">
+        <img src="../assets/img/github.png" alt="CNNs for Cosmic Dawn" style="width:75%;padding:4px;">
+      </a>
+      <h3>
+        <a href = "https://imperialcollegelondon.github.io/ReCoDE-FirstDawn">CNNs for the Cosmic Dawn</a>
+      </h3>
+      <a href = "https://imperialcollegelondon.github.io/ReCoDE-FirstDawn" style="height:60%">
+        <img src="../assets/img/exemplars/cosmicdawn.png" alt="CNNs for Cosmic Dawn" style="width:95%">
+      </a>
+      <a href = "../tags"><strong>Language/Tools:</strong> Python, Tensorflow, Sci-kit Learn</a>
+      <a href = "../people"><strong>Author:</strong> Kimeel Sooknunan</a>
+    </div>
+
 <!-- Euler-Maruyama Method -->
     <div class="card_ex">
       <a href = "https://github.com/ImperialCollegeLondon/ReCoDe-Euler-Maruyama" style="display:inline;margin-bottom:-50px;margin-right:-310px;">

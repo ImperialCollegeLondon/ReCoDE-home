@@ -65,6 +65,15 @@ search:
             </div>
             <p><strong>AI for Patents</strong></p>
         </div>
+            <div class="card_people">
+            <h3>
+            <a href = "mailto: k.sooknunan19@imperial.ac.uk">Kimeel Sooknunan</a>
+            </h3>
+            <div class="container_people">
+                <img src="../assets/img/authors/ksooknunan.png" alt="Kimeel Sooknunan">
+            </div>
+            <p><strong>CNNs for Cosmic Dawn</strong></p>
+        </div>
         <div class="card_people">
             <h3>
             <a href = "mailto: j.trainor20@imperial.ac.uk">Jack Trainor</a>
