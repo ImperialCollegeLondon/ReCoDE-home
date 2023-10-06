@@ -1,3 +1,31 @@
+---
+hide:
+  - toc
+  - navigation
+search:
+  exclude: true
+---
+<style>
+  .gs-about {
+    position: relative;
+    width: 350px;
+    left: 70%;
+    margin-top: -10%;
+    margin-bottom: -4%;
+  }
+
+  @media (max-width: 720px) {
+    .gs-about {
+      position: relative;
+      width: 90%;
+      left: 5%;
+      margin-top: -5%;
+    }
+  }
+
+</style>
+
+<img class="gs-about" src="../assets/img/gs_banner.png"/>
 # Contribute an exemplar to ReCoDE
 
 ## Who can contribute 
