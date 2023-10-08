@@ -68,13 +68,13 @@ You will work as a GTA receiving the higher rate pay (£34.08/hour). The project
 It is very important that you complete your work at an even pace. The RCDS staff and RSEs will not be able to accommodate last-minute contributions.
 
 ## A commmon scenario
-Often, students pitch a project that they have already worked on before. That is absolutely fine - you can use an existing code. You will use the allocated time to refactor, annotate and experiment with media.
+Often, students pitch a project that they have already worked on before. That is absolutely fine - you can reuse an existing code if the license permits. You will use the allocated time to refactor, annotate and experiment with media.
 
 ## Working with GitHub
 Your exemplar will be stored in a GitHub repository within the Imperial College organisation. The name will follow the template ReCoDE-name-of-project. We usually present the repository using MkDocs, so you will start with a template repository that is MkDocs-ready. **TBA GitHub info**.
 
 ## Register your interest
-Please fill out this form to pitch an exemplar.
+Please fill out this [form](https://forms.office.com/e/AhqJEu2wt3) to pitch an exemplar.
 
 ## Questions?
-Please email to [Katerina Michalickova](mailto:k.michalickova@imperial.ac.uk).
+Please email [Katerina Michalickova](mailto:k.michalickova@imperial.ac.uk).
