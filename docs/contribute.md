@@ -1,17 +1,27 @@
 ---
 hide:
-  - toc
   - navigation
+  - title
 search:
   exclude: true
 ---
+
 <style>
   .gs-about {
     position: relative;
     width: 350px;
-    left: 70%;
+    left: 60%;
     margin-top: -10%;
     margin-bottom: -4%;
+  }
+
+  @media (max-width: 1024px) {
+    .gs-about {
+      position: relative;
+      width: 30%;
+      left: 0%;
+      margin-top: -5%;
+    }
   }
 
   @media (max-width: 720px) {
@@ -25,8 +35,9 @@ search:
 
 </style>
 
-<img class="gs-about" src="../assets/img/gs_banner.png"/>
 # Contribute an exemplar to ReCoDE
+
+<img class="gs-about" src="../assets/img/gs_banner.png"/>
 
 ## Who can contribute 
 Doctoral or experienced master's students who are eligible to work as GTAs at Imperial. If you are a fellow or staff, please contact us directly.
@@ -35,21 +46,21 @@ Doctoral or experienced master's students who are eligible to work as GTAs at Im
 ## What is a ReCoDE exemplar
 Think back to when you were a new postgraduate student. You were embarking on your MSc, MRes or PhD studies that were going to involve the use of research computing and data science. Your undergraduate study programme included some programming and you may have taken a few extra courses here and there. At this point, it was also very unlikely that you had completed a larger programming project. You were about to embark on one as part of your degree - an undertaking that would involve synthesis of your programming, data science and general computing knowledge plus the fundamentals of good software engineering practice... and many other skills that you did not even know about.
 
-**ReCoDE aims to bridge the gap between classroom education and tackling a large degree project with research computing components. ReCoDE exemplars are reasonably-sized end-to-end research computing or data science projects that contain programming code accompanied by a rich annotation for learning. The annotation explains common practices behind solving a particular task, decision-making broken into digestible steps, and good software engineering practices.**
+!!! info 
 
-**Think about what would have helped you when you were at this point of your learning trajectory!**
+    ReCoDE aims to bridge the gap between classroom education and tackling a large degree project with research computing components. ReCoDE exemplars are reasonably-sized end-to-end research computing or data science projects that contain programming code accompanied by a rich annotation for learning. The annotation explains common practices behind solving a particular task, decision-making broken into digestible steps, and good software engineering practices.
+
+    **Think about what would have helped you when you were at this point of your learning trajectory!**
 
 ## Good exemplars
 
 ### Topic
-ReCoDe covers all disciplines that are taught at Imperial. Exemplars should be either centered around a method (deep learning, solving ODEs, implementing a mathematical mode etc.) or solving a problem (variant calling using single-cell sequencing or dataset analysis). Whatever it is, it should be something representative of a discipline - for example, it was taught during your undergraduate studies or it pops up in many postgraduate projects. Another way to think about this is to imagine a project that every new doctoral student in your lab should study before they start on their own.
+ReCoDE covers all disciplines that are taught at Imperial. Exemplars should be either centered around a method (deep learning, solving ODEs, implementing a mathematical mode etc.) or solving a problem (variant calling using single-cell sequencing or dataset analysis). Whatever it is, it should be something representative of a discipline - for example, it was taught during your undergraduate studies or it pops up in many postgraduate projects. Another way to think about this is to imagine a project that every new doctoral student in your lab should study before they start on their own.
 
 We reserve the right to decide if your suggestion fits into what we are trying to accomplish with ReCoDE - a variety of representative projects and also a variety of programming languages and tools. Please have a look at the existing [Exemplars](https://imperialcollegelondon.github.io/ReCoDE-home/exemplars/) to get inspired.
 
 ### Size
 We are looking for fairly concise projects. The code should not exceed several hundred lines. We have found out the hard way that creating a comprehensive annotation for a large project can get out of hand quickly. A new student should be able to get through the exemplar in one week - anything longer may be somewhat daunting and demotivating.
-
-
 
 ## Essential elements of an exemplar
 
