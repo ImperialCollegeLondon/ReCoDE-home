@@ -13,6 +13,14 @@ search:
     margin-top: -10%;
     margin-bottom: -4%;
   }
+  @media (max-width: 1024px) {
+    .gs-about {
+      position: relative;
+      width: 40%;
+      left: 30%;
+      margin-top: -5%;
+    }
+  }
 
   @media (max-width: 720px) {
     .gs-about {
