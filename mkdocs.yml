@@ -81,5 +81,6 @@ nav:
     - exemplars/*.md
   - Topics: tags.md
   - People: people.md
+  - Contributing: contribute.md
   - Contact: contact.md
   - Licence: licence.md
