@@ -152,7 +152,7 @@ If your exemplar includes Jupyter Notebooks, place these in the `notebooks/` dir
 
 #### Markdown
 
-Your site is themed by [Mkdocs Material](https://squidfunk.github.io/mkdocs-material/).
+Any other files should be authored in Markdown and placed into `docs/`. Your site is themed by [Mkdocs Material](https://squidfunk.github.io/mkdocs-material/).
 The [documentation](https://squidfunk.github.io/mkdocs-material/reference/) is
 excellent and should provide a good starting point for enchancing your Markdown.
 
