@@ -60,6 +60,9 @@ plugins:
 
 # Extensions
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - meta
   - toc:
       permalink: true
