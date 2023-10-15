@@ -6,12 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-
 ### Added
+- New page on how to become a contributor/how-to contribute
 
-  
 ### Changed
+- All dependencies updated
 
+### Removed
+
+## [0.1.0] - 2023-08-02
+### Added
+- New examplars from Antonio, Egheosa, Kimeel, Shuaixun
+
+### Changed
+- GS, RCDS, RSE links fixed
 
 ### Removed
 
