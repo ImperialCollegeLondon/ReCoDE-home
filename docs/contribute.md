@@ -165,7 +165,7 @@ excellent and should provide a good starting point for enchancing your Markdown.
 ## Local MkDocs Development
 
 After cloning your repository, you can install all the necessary dependencies into your environment
-(preferably a virtual one) and serve the site locally at 127.0.0.1:8000 with these two commands:
+(preferably a virtual one) and serve the site locally at http://127.0.0.1:8000 with these two commands:
 
 ```bash
 pip install -r requirements.txt
