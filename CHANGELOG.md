@@ -7,19 +7,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- New page on how to become a contributor/how-to contribute
+
+### Changed
+
+### Removed
+
+
+## [1.0.0] - 2023-10-16
+
+### Added
+- New page on how to become a contributor
+- New page on how to develop an exemplar
 
 ### Changed
 - All dependencies updated
 
 ### Removed
 
-## [0.1.0] - 2023-08-02
+## [0.2.0] - 2023-08-02
 ### Added
 - New examplars from Antonio, Egheosa, Kimeel, Shuaixun
 
 ### Changed
 - GS, RCDS, RSE links fixed
+
+### Removed
+
+## [0.1.1] - 2022-10-17
+### Added
+
+### Changed
+- Update web address for the RSE Team
+
+### Removed
+
+## [0.1.0] - 2022-08-15
+### Added
+- Add exemplar and people card grids
+- Better search instructions
+- Static homepage image
+
+### Changed
+- Links updated
+- Minor fixes
 
 ### Removed
 
@@ -37,5 +67,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rearrange content on project pages for better searches
 - Add some more detail to the CONTRIBUTORS file
 
-[Unreleased]: https://github.com/ImperialCollegeLondon/ReCoDE-home/compare/v0.0.1...HEAD
+
+[Unreleased]: https://github.com/ImperialCollegeLondon/ReCoDE-home/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/ImperialCollegeLondon/ReCoDE-home/compare/v0.2.0...v1.0.0
+[0.2.0]: https://github.com/ImperialCollegeLondon/ReCoDE-home/compare/v0.1.1...v0.2.0
+[0.1.1]: https://github.com/ImperialCollegeLondon/ReCoDE-home/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/ImperialCollegeLondon/ReCoDE-home/compare/v0.0.1...v0.1.0
 [0.0.1]: https://github.com/ImperialCollegeLondon/ReCoDE-home/releases/tag/v0.0.1
