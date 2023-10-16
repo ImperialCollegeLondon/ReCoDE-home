@@ -66,10 +66,10 @@ We are looking for fairly concise projects. The code should not exceed several h
 
 * code in a comprehensive GitHub repository
 * annotation in markdown including:
-   * step-by-step explanations
-   * reasoning including good and bad decisions
-   * links to suitable external materials
-   * images/videos/storyboards... and anything creative
+    * step-by-step explanations
+    * reasoning including good and bad decisions
+    * links to suitable external materials
+    * images/videos/storyboards... and anything creative
 
 !!! abstract ""
 
@@ -87,7 +87,9 @@ It is very important that you complete your work at an even pace. The RCDS staff
     Often, students pitch a project that they have already worked on before. That is absolutely fine - you can reuse an existing code if the license permits. You will use the allocated time to refactor, annotate and experiment with media.
 
 ## Register your interest
-Please fill out this [form](https://forms.office.com/e/AhqJEu2wt3) to pitch an exemplar.
 
-## Questions?
-Please email [Katerina Michalickova](mailto:k.michalickova@imperial.ac.uk).
+[Pitch an exemplar here](https://forms.office.com/e/AhqJEu2wt3){ .md-button .md-button--primary }
+
+If you have any questions, please email Katerina Michalickova below.
+
+[Email :fontawesome-solid-paper-plane:](mailto:k.michalickova@imperial.ac.uk){ .md-button }
