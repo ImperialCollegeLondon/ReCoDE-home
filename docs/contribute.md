@@ -71,15 +71,20 @@ We are looking for fairly concise projects. The code should not exceed several h
    * links to suitable external materials
    * images/videos/storyboards... and anything creative
 
-As a rule of thumb, working on the code is only half of the story. Work on the annotation should take at least 50% of the time. **Do not be afraid to be personal - this will make ReCoDE more relatable.**
+!!! abstract ""
+
+    As a rule of thumb, working on the code is only half of the story. Work on the annotation should take at least 50% of the time. 
+    
+    **Do not be afraid to be personal - this will make ReCoDE more relatable.**
 
 ## Terms of collaboration with [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/)
 You will work as a GTA receiving the higher rate pay (£34.08/hour). The project has to be completed within 45 hours evenly spread over three months. You will have regular meetings with the RCDS staff (who will oversee the overall progress and learning annotation) and [research software engineers](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) (RSEs - who will oversee the technical quality of the code). The software engineering oversight may sound a bit intimidating - do not worry the engineers are here to help and this will be a great personalised learning opportunity for you.
 
 It is very important that you complete your work at an even pace. The RCDS staff and RSEs will not be able to accommodate last-minute contributions.
 
-## A commmon scenario
-Often, students pitch a project that they have already worked on before. That is absolutely fine - you can reuse an existing code if the license permits. You will use the allocated time to refactor, annotate and experiment with media.
+!!! example "A commmon scenario"
+
+    Often, students pitch a project that they have already worked on before. That is absolutely fine - you can reuse an existing code if the license permits. You will use the allocated time to refactor, annotate and experiment with media.
 
 ## Register your interest
 Please fill out this [form](https://forms.office.com/e/AhqJEu2wt3) to pitch an exemplar.
