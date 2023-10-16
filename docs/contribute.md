@@ -66,10 +66,10 @@ We are looking for fairly concise projects. The code should not exceed several h
 
 * code in a comprehensive GitHub repository
 * annotation in markdown including:
-    * step-by-step explanations
-    * reasoning including good and bad decisions
-    * links to suitable external materials
-    * images/videos/storyboards... and anything creative
+  * step-by-step explanations
+  * reasoning including good and bad decisions
+  * links to suitable external materials
+  * images/videos/storyboards... and anything creative
 
 !!! abstract ""
 
