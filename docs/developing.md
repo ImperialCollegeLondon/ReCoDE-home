@@ -101,7 +101,7 @@ You are now ready to start developing your exemplar. The template includes the f
 
 ### Jupyter Notebooks
 
-If your exemplar includes Jupyter Notebooks, place these in the `notebooks/` directory. If additional packages are required, please add these to `requirements.txt`, below the requirements already there. If your Notebooks contain images, please place them within the same directory, for example at `notebooks/img`.
+If your exemplar includes Jupyter Notebooks, place these in the `notebooks/` directory. If additional packages are required, please add these to `requirements.txt`, below the requirements already there. If your Notebooks contain images, please place them in a new directory in `notebooks/` for example at `notebooks/img/my_image.png`.
 
 ### Markdown
 
@@ -112,7 +112,7 @@ excellent and should provide a good starting point for enchancing your Markdown.
 !!! tip Ordering files
     
     You may find it helpful to prefix your files with a number, to ensure the correct ordering of
-    your Markdown and Notebook files. (e.g. `01-Intro.md`)
+    your Markdown and Notebook files. (e.g. `01-Intro.md`, `02-FirstSteps.ipynb`)
 
 
 ## Local MkDocs Development
