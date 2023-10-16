@@ -96,7 +96,7 @@ Please follow the steps at the [following link](https://www.imperial.ac.uk/admin
 
 ### Use the template
 
-Navigate to the following GitHub repository, which contains the template for all ReCoDE projects. Click the big green **Use this template** button to set up your own repository.
+Navigate to the [following GitHub repository](https://github.com/ImperialCollegeLondon/ReCoDE-exemplar-template), which contains the template for all ReCoDE projects. Click the big green **Use this template** button to set up your own repository.
 
 ![Use this template button](assets/img/github/use-this-template.png)
 
