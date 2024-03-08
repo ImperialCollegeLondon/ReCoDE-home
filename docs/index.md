@@ -21,6 +21,6 @@ ReCoDE exemplars will enable you to:
 * Learn a range of skills essential to make a transition from theory to practice
 <br/><br/>
 
-This resource was created by doctoral students, [StudentShapers](https://www.imperial.ac.uk/students/studentshapers/) in collaboration with staff from the [Graduate School](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/), [Department of Computing](https://www.imperial.ac.uk/computing), and [Research Software Engineering central team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering-consultancy/).
+This resource was created by doctoral students, [StudentShapers](https://www.imperial.ac.uk/students/studentshapers/) in collaboration with staff from the [Graduate School](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/), [Department of Computing](https://www.imperial.ac.uk/computing), and [Research Software Engineering central team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/).
 
 Get started with our [Exemplars](exemplars/index.md).
