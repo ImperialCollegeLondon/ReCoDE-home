@@ -4,23 +4,43 @@ hide:
   - navigation
 search:
   exclude: true
-template: home.html
 ---
+<style>
+            body {
+                background-image: url('../../assets/img/group_computing.png');
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-size: cover;
+                background-attachment: fixed;
+            }
+            </style>
 
-<h1 style="text-align:center;">Welcome to ReCoDE - Research Computing and Data Science Exemplars for Learning and Teaching</h1>
 
-**A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.**
+<div style="background-color: #f8f8f0; padding: 20px; margin: 20px;border-radius: 10px;">
+<h1 style="text-align:center;"><strong>Welcome to ReCoDE</strong></h1>
+<h2 style="text-align:center;">Research Computing and Data Science Exemplars for Learning and Teaching</h2>
+
+<strong>A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.</strong>
 <br/><br/>
 
 ReCoDE exemplars will enable you to:
 
-* Examine project organisation
-* Explore technical design decisions
-* Study good sofware engineering practices 
-* Grasp scaling up with High Performance Computing 
-* Learn a range of skills essential to make a transition from theory to practice
+<ul>
+    <li>Examine project organisation</li>
+    <li>Explore technical design decisions</li>
+    <li>Study good software engineering practices</li>
+    <li>Grasp scaling up with High Performance Computing</li>
+    <li>Learn a range of skills essential to make a transition from theory to practice</li>
+</ul>
+
 <br/><br/>
 
-This resource was created by doctoral students, [StudentShapers](https://www.imperial.ac.uk/students/studentshapers/) in collaboration with staff from the [Graduate School](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/), [Department of Computing](https://www.imperial.ac.uk/computing), and [Research Software Engineering central team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/).
-
-Get started with our [Exemplars](exemplars/index.md).
+<p>
+  This resource was created by doctoral students, 
+  <a href="https://www.imperial.ac.uk/students/studentshapers/">StudentShapers</a> in collaboration with staff from the 
+  <a href="https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/">Graduate School</a>, 
+  <a href="https://www.imperial.ac.uk/computing">Department of Computing</a>, and 
+  <a href="https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/">Research Software Engineering central team</a>.
+</p>
+Get started with our <a href="exemplars/">Exemplars</a>.
+</div>

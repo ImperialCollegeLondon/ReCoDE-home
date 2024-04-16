@@ -4,7 +4,6 @@ theme:
   name: material
   favicon: favicon.png
   logo: favicon.png
-  custom_dir: overrides
   font:
     text: Roboto
     code: Roboto Mono
