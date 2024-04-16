@@ -7,7 +7,7 @@ search:
 ---
 <style>
             body {
-                background-image: url('../../assets/img/group_computing.png');
+                background-image: url('assets/img/group_computing.png');
                 background-repeat: no-repeat;
                 background-position: center center;
                 background-size: cover;
