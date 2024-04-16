@@ -16,7 +16,7 @@ search:
             </style>
 
 
-<div style="background-color: #f8f8f0; padding: 20px; margin: 20px;border-radius: 10px;">
+<div style="background-color: rgba(250, 250, 250, 0.80); padding: 20px; margin: 20px;border-radius: 10px;">
 <h1 style="text-align:center;"><strong>Welcome to ReCoDE</strong></h1>
 <h2 style="text-align:center;">Research Computing and Data Science Exemplars for Learning and Teaching</h2>
 
