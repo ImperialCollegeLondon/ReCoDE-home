@@ -10,175 +10,170 @@ search:
 
 === "Authors"
 
-    <div class="grid-container">
-        <div class="card_people">
-            <h3>
-            <a href = "mailto: bethan.cracknell-daniels19@imperial.ac.uk">Bethan C Daniels</a>
-            </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/bdaniels.png" alt="Bethan Cracknell Daniels">
-            </div>
-            <p><strong>Transmission Modelling</strong></p>
-        </div>
-        <div class="card_people">
-        <h3>
-        <a href = "mailto: j.gisby20@imperial.ac.uk">Jack Gisby</a>
-        </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/jgisby.jpg" alt="Jack Gisby">
-            </div>
-            <p><strong>RNA Sequencing</strong></p>
-        </div>
-        <div class="card_people">
-            <h3>
-            <a href = "mailto: t.hodson18@imperial.ac.uk">Tom Hodson</a>
-            </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/thodson.jpeg" alt="Tom Hodson">
-            </div>
-            <p><strong>Markov Chain Monte Carlo</strong></p>
-        </div>
-        <div class="card_people">
-        <h3>
-        <a href = "mailto: a.malpica-morales21@imperial.ac.uk">Antonio Malpica-Morales</a>
-        </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/amalpica-morales.jpg" alt="Antonio Malpica-Morales">
-            </div>
-            <p><strong>SDEs with Euler-Maruyama</strong></p>
-        </div>
-        <div class="card_people">
-            <h3>
-            <a href = "mailto: emily.muller@imperial.ac.uk">Emily S Muller</a>
-            </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/emuller.jpg" alt="Emily S Muller">
-            </div>
-            <p><strong>Perceptions</strong></p>
-        </div>
-        <div class="card_people">
-            <h3>
-            <a href = "mailto: e.ogbomo21@imperial.ac.uk">Egheosa Ogbomo</a>
-            </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/eogbomo.jpg" alt="Egheosa Ogbomo">
-            </div>
-            <p><strong>AI for Patents</strong></p>
-        </div>
-            <div class="card_people">
-            <h3>
-            <a href = "mailto: k.sooknunan19@imperial.ac.uk">Kimeel Sooknunan</a>
-            </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/ksooknunan.png" alt="Kimeel Sooknunan">
-            </div>
-            <p><strong>CNNs for Cosmic Dawn</strong></p>
-        </div>
-        <div class="card_people">
-            <h3>
-            <a href = "mailto: j.trainor20@imperial.ac.uk">Jack Trainor</a>
-            </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/jtrainor.jpg" alt="Jack Trainor">
-            </div>
-            <p><strong>Neutron Diffusion</strong></p>
-        </div>
-        <div class="card_people">
-            <h3>
-            <a href = "mailto: shuaixun.wang20@imperial.ac.uk">Shuaixun Wang</a>
-            </h3>
-            <div class="container_people">
-                <img src="../assets/img/authors/swang.png" alt="Shuaixun Wang">
-            </div>
-            <p><strong>Multi-channel Python GUI</strong></p>
-        </div>
+    <div class="grid cards" markdown>
+
+    -  __Bethan C Daniels__
+        [:octicons-mail-24:](mailto: bethan.cracknell-daniels19@imperial.ac.uk)
+
+        ---
+        
+        ![Bethan](../assets/img/authors/bdaniels.png){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Transmission Modelling__
+
+    -  __Jack Gisby__
+        [:octicons-mail-24:](mailto: j.gisby20@imperial.ac.uk)
+
+        ---
+        
+        ![Jack](../assets/img/authors/jgisby.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: RNA Sequencing__   
+
+    -  __Tom Hodson__
+        [:octicons-mail-24:](mailto: t.hodson18@imperial.ac.uk)
+
+        ---
+        
+        ![Tom](../assets/img/authors/thodson.jpeg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Markov Chain Monte Carlo__
+
+    -  __Antonio Malpica-Morales__
+        [:octicons-mail-24:](mailto: a.malpica-morales21@imperial.ac.uk)
+
+        ---
+        
+        ![Antonio](../assets/img/authors/amalpica-morales.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: SDEs with Euler-Maruyama__
+
+    -  __Emily Muller__
+        [:octicons-mail-24:](mailto: emily.muller@imperial.ac.uk)
+
+        ---
+        
+        ![Emily](../assets/img/authors/emuller.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Perceptions__
+
+    -  __Egheosa Ogbomo__
+        [:octicons-mail-24:](mailto: e.ogbomo21@imperial.ac.uk)
+
+        ---
+        
+        ![Egheosa](../assets/img/authors/eogbomo.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: AI for Patents__
+
+    -  __Kimeel Sooknunan__
+        [:octicons-mail-24:](mailto: k.sooknunan19@imperial.ac.uk)
+
+        ---
+        
+        ![Kimeel](../assets/img/authors/ksooknunan.png){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: CNNs for Cosmic Dawn__
+
+    -  __Jack Trainor__
+        [:octicons-mail-24:](mailto: j.trainor20@imperial.ac.uk)
+
+        ---
+        
+        ![Kimeel](../assets/img/authors/jtrainor.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Neutron Diffusion__
+
+    -  __Shuaixun Wang__
+        [:octicons-mail-24:](mailto: shuaixun.wang20@imperial.ac.uk)
+
+        ---
+        
+        ![Shuaixun](../assets/img/authors/swang.png){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Multi-channel Python GUI__
+      
     </div>
 
 === "Student Shapers"
 
-    <div class="grid-container">
-        <div class="card_people">
-        <h3>
-        <a href = "mailto: jb2521@ic.ac.uk">Jahnavi Bhaskaran</a>
-        </h3>
-            <div class="container_people">
-                <img src="../assets/img/studentshapers/jbhaskaran.JPG" alt="Jahnavi Bhaskaran">
-            </div>
-        </div>
-        <div class="card_people">
-        <h3>
-        <a href = "mailto: ioannis.nikiteas17@imperial.ac.uk">Giannis Nikiteas</a>
-        </h3>
-            <div class="container_people">
-                <img src="../assets/img/studentshapers/gnikiteas.jpeg" alt="Giannis Nikiteas">
-            </div>
-        </div>
+    <div class="grid cards" markdown>
+
+    -  __Jahnavi Bhaskaran__
+        [:octicons-mail-24:](mailto: j.bhaskaran21@lms.mrc.ac.uk)
+
+        ---
+        
+        ![Jahnavi](../assets/img/studentshapers/jbhaskaran.JPG){: style="max-height:225px;"}
+
+
+    -  __Giannis Nikiteas__
+        [:octicons-mail-24:](mailto: ioannis.nikiteas17@imperial.ac.uk)
+
+        ---
+        
+        ![Giannis](../assets/img/studentshapers/gnikiteas.jpeg){: style="max-height:225px;"}
+
     </div>
 
 === "Project Coordinators"
 
-    <div class="grid-container">
-        <div class="card_people">
-            <h3>
-                <a href = "mailto: jeremy.cohen@imperial.ac.uk">Jeremy Cohen</a>
-            </h3>
-            <div class="container_people">
-                <a href="https://www.imperial.ac.uk/people/jeremy.cohen">
-                    <img src="../assets/img/organisers/jcohen.jpeg" alt="Jeremy Cohen">
-                </a>
-            </div>
-        </div>
-        <div class="card_people">
-            <h3>
-                <a href = "mailto: c.cooling10@imperial.ac.uk">Chris Cooling</a>
-            </h3>
-            <div class="container_people">
-                <a href="https://www.imperial.ac.uk/people/c.cooling10">
-                    <img src="../assets/img/organisers/ccooling.jpeg" alt="Chris Cooling">
-                </a>
-            </div>
-        </div>
-        <div class="card_people">
-            <h3>
-                <a href = "mailto: j.deslauriers@imperial.ac.uk">Jay Deslauriers</a>
-            </h3>
-            <div class="container_people">
-                <a href="https://www.imperial.ac.uk/people/j.deslauriers">
-                    <img src="../assets/img/organisers/jdeslauriers.jpeg" alt="James Deslauriers">
-                </a>
-            </div>
-        </div>
-        <div class="card_people">
-            <h3>
-                <a href = "mailto: j.gao@imperial.ac.uk">Liam (Jianliang) Gao</a>
-            </h3>
-            <div class="container_people">
-                <a href="https://www.imperial.ac.uk/people/j.gao">
-                    <img src="../assets/img/organisers/jgao.jpeg" alt="Liam (Jianliang) Gao">
-                </a>
-            </div>
-        </div>
-        <div class="card_people">
-            <h3>
-            <a href = "mailto: k.michalickova@imperial.ac.uk">Katerina Michalickova</a>
-            </h3>
-            <div class="container_people">
-                <a href="https://www.imperial.ac.uk/people/k.michalickova">
-                    <img src="../assets/img/organisers/kmichalickova.jpeg" alt="Katerina Michalickova">
-                </a>
-            </div>
-        </div>
-        <div class="card_people">
-            <h3>
-                <a href = "mailto: j.pinney@imperial.ac.uk">John Pinney</a>
-            </h3>
-            <div class="container_people">
-                <a href="https://www.imperial.ac.uk/people/j.pinney">
-                    <img src="../assets/img/organisers/jpinney.jpeg" alt="John Pinney">
-                </a>
-            </div>
-            </div>
-        </div>
+    <div class="grid cards" markdown>
+
+    -  __Jeremy Cohen__
+        [:octicons-mail-24:](mailto: jeremy.cohen@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/jeremy.cohen)
+
+        ---
+        
+        ![Jeremy](../assets/img/organisers/jcohen.jpeg){: style="max-height:225px;"}
+
+
+    -  __Chris Cooling__
+        [:octicons-mail-24:](mailto: c.cooling10@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/c.cooling10)
+
+        ---
+        
+        ![Chris](../assets/img/organisers/ccooling.jpeg){: style="max-height:225px;"}
+
+
+    -  __Jay DesLauriers__
+        [:octicons-mail-24:](mailto: j.deslauriers@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/j.deslauriers)
+
+        ---
+        
+        ![Jay](../assets/img/organisers/jdeslauriers.jpeg){: style="max-height:225px;"}
+
+
+    -  __Liam (Jianliang) Gao__
+        [:octicons-mail-24:](mailto: j.gao@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/j.gao)
+
+        ---
+        
+        ![Liam](../assets/img/organisers/jgao.jpeg){: style="max-height:225px;"}
+
+
+    -  __Katerina Michalickova__
+        [:octicons-mail-24:](mailto: k.michalickova@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/k.michalickova)
+
+        ---
+        
+        ![Katerina](../assets/img/organisers/kmichalickova.jpeg){: style="max-height:225px;"}
+
+
+    -  __John Pinney__
+        [:octicons-mail-24:](mailto: j.pinney@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/j.pinney)
+
+        ---
+        
+        ![John](../assets/img/organisers/jpinney.jpeg){: style="max-height:225px;"}
+
+    </div>
 
 === "Research Software Engineers"
 
