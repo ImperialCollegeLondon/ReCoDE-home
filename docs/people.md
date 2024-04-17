@@ -30,6 +30,15 @@ search:
 
         __:octicons-beaker-24: Transmission Modelling__
 
+    -  __Georgios Efstathiou__
+        [:octicons-mail-24:](mailto: georgios.efstathiou20@imperial.ac.uk)
+
+        ---
+        
+        ![Georgios](../assets/img/authors/gefstathiou.png){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: SPH Solver for 2D Navier-Stokes__
+
     -  __Jack Gisby__
         [:octicons-mail-24:](mailto: j.gisby20@imperial.ac.uk)
 
