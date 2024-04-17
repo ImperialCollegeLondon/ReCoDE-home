@@ -24,6 +24,19 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-DeepLearning-Best-Practices)</small>
 
+-  <big>__SPH Solver for 2D Navier-Stokes__</big>
+    <br>Georgios Efstathiou
+
+    ---
+    
+    ![SPH Navier-Stokes](../assets/img/exemplars/sphnavierstokes.gif)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-SPH-solver-2D-NS/)</big>
+
+    [:octicons-tag-24: Python, C++, Boost](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-SPH-solver-2D-NS/)</small>
+
 -  <big>__Binary Classification of Patent Texts__</big>
     <br>Egheosa Ogbomo
 
