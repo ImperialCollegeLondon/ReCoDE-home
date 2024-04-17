@@ -10,7 +10,7 @@ search:
 
 <div class="grid cards" markdown>
 
--  __Binary Classification of Patent Texts__
+-  <big>__Binary Classification of Patent Texts__</big>
     <br>Egheosa Ogbomo
 
     ---
@@ -23,7 +23,7 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-AIForPatents)</small>
 
--  __CNNs for the Cosmic Dawn__
+-  <big>__CNNs for the Cosmic Dawn__</big>
     <br>Kimeel Sooknunan
 
     ---
@@ -37,7 +37,7 @@ search:
 
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-FirstDawn)</small>
 
--  __Solving SDEs with Euler-Maruyama__
+-  <big>__Solving SDEs with Euler-Maruyama__</big>
     <br>Antonio Malpica-Morales
 
     ---
@@ -50,7 +50,7 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDe-Euler-Maruyama)</small>
 
--  __Multi-channel Python GUI__
+-  <big>__Multi-channel Python GUI__</big>
     <br>Shuaixun Wang
 
     ---
@@ -63,7 +63,7 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-PythonGUI)</small>
 
--  __RNA Sequencing Analysis__
+-  <big>__RNA Sequencing Analysis__</big>
     <br>Jack Gisby
 
     ---
@@ -76,7 +76,7 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline)</small>
 
--  __Bayesian Inference for SARS-CoV-2 Transmission Modelling__
+-  <big>__Bayesian Inference for SARS-CoV-2 Transmission Modelling__</big>
     <br>Bethan C Daniels
 
     ---
@@ -89,7 +89,7 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_IDMS)</small>
 
--  __1-Dimensional Neutron Diffusion Solver__
+-  <big>__1-Dimensional Neutron Diffusion Solver__</big>
     <br>Jack Trainor
 
     ---
@@ -103,7 +103,7 @@ search:
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_Diffusion_Code)</small>
 
 
--  __Markov Chain Monte Carlo for fun and profit__
+-  <big>__Markov Chain Monte Carlo for fun and profit__</big>
     <br>Tom Hodson
 
     ---
@@ -116,7 +116,7 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_MCMCFF)</small>
 
--  __PyTorch for end-to-end training of a deep learning model__
+-  <big>__PyTorch for end-to-end training of a deep learning model__</big>
     <br>Emily Muller
 
     ---
