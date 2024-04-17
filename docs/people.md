@@ -12,6 +12,15 @@ search:
 
     <div class="grid cards" markdown>
 
+    -  __Antoni Bigata Casademunt__
+        [:octicons-mail-24:](mailto: a.bigata-casademunt22@imperial.ac.uk)
+
+        ---
+        
+        ![Antoni](../assets/img/authors/abigata.png){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Deep Learning Best Practices__
+
     -  __Bethan C Daniels__
         [:octicons-mail-24:](mailto: bethan.cracknell-daniels19@imperial.ac.uk)
 
