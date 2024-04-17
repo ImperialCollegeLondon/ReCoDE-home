@@ -10,6 +10,20 @@ search:
 
 <div class="grid cards" markdown>
 
+
+-  <big>__Deep Learning Best Practices__</big>
+    <br>Antoni Bigata Casademunt
+
+    ---
+    
+    ![Deep Learning](../assets/img/exemplars/deeplearning.png)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-DeepLearning-Best-Practices/)</big>
+
+    [:octicons-tag-24: Python, PyTorch, Machine Learning](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-DeepLearning-Best-Practices)</small>
+
 -  <big>__Binary Classification of Patent Texts__</big>
     <br>Egheosa Ogbomo
 
