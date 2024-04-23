@@ -37,6 +37,19 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-SPH-solver-2D-NS/)</small>
 
+-  <big>__Hidden Markov Models for the discovery of behavioural states__</big>
+    <br>Laurence Blackhurst
+
+    ---
+    
+    ![SPH Navier-Stokes](../assets/img/exemplars/hiddenmarkov.png)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-HMMs-for-the-discovery-of-behavioural-states)</big>
+
+    [:octicons-tag-24: Python, Pandas, Machine Learning](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-HMMs-for-the-discovery-of-behavioural-states)</small>
+
 -  <big>__Binary Classification of Patent Texts__</big>
     <br>Egheosa Ogbomo
 
