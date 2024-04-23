@@ -12,6 +12,15 @@ search:
 
     <div class="grid cards" markdown>
 
+    -  __Laurence Blackhurst__
+        [:octicons-mail-24:](mailto: l.blackhurst19@imperial.ac.uk)
+
+        ---
+        
+        ![Laurence](../assets/img/authors/lblackhurst.jpeg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Hidden Markov Models__
+
     -  __Antoni Bigata Casademunt__
         [:octicons-mail-24:](mailto: a.bigata-casademunt22@imperial.ac.uk)
 
