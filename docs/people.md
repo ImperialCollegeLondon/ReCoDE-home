@@ -93,6 +93,15 @@ search:
 
         __:octicons-beaker-24: AI for Patents__
 
+    -  __Benjamin Scharpf__
+        [:octicons-mail-24:](mailto: b.scharpf19@imperial.ac.uk)
+
+        ---
+        
+        ![Benjamin](../assets/img/authors/bscharpf.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Decoding Market Signals__
+
     -  __Kimeel Sooknunan__
         [:octicons-mail-24:](mailto: k.sooknunan19@imperial.ac.uk)
 
