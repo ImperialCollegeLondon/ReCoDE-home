@@ -42,13 +42,26 @@ search:
 
     ---
     
-    ![SPH Navier-Stokes](../assets/img/exemplars/hiddenmarkov.png)
+    ![Hidden Markov](../assets/img/exemplars/hiddenmarkov.png)
 
     <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-HMMs-for-the-discovery-of-behavioural-states)</big>
 
     [:octicons-tag-24: Python, Pandas, Machine Learning](../tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-HMMs-for-the-discovery-of-behavioural-states)</small>
+
+-  <big>__Decoding Market Signals__</big>
+    <br>Benjamin Scharpf
+
+    ---
+    
+    ![Decoding Market Signals](../assets/img/exemplars/decodingmarketsignals.png)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-DecodingMarketSignals)</big>
+
+    [:octicons-tag-24: Finance, Pandas, Logistic Regression](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-DecodingMarketSignals)</small>
 
 -  <big>__Binary Classification of Patent Texts__</big>
     <br>Egheosa Ogbomo
