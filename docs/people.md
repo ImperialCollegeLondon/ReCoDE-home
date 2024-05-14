@@ -213,5 +213,62 @@ search:
 
 === "Research Software Engineers"
 
-    The ReCoDE Project was supported by a group of Imperial College RSEs. You can read about
-    Research Software Engineering at Imperial at the following [link](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/).
+    <div class="grid cards" markdown>
+
+    -  __Diego Alonso Alvarez__
+        [:octicons-mail-24:](mailto: d.alonso-alvarez@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/d.alonso-alvarez)
+
+        ---
+        
+        ![Diego](../assets/img/rse/diego.png){: style="max-height:225px;"}
+
+    -  __Christopher Cave-Ayland__
+        [:octicons-mail-24:](mailto: c.cave-ayland@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/c.cave-ayland)
+
+        ---
+        
+        ![Chris](../assets/img/rse/chris.png){: style="max-height:225px;"}
+
+    -  __Daniel Cummins__
+        [:octicons-mail-24:](mailto: daniel.cummins17@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/daniel.cummins17)
+
+        ---
+        
+        ![Daniel](../assets/img/rse/daniel.png){: style="max-height:225px;"}
+
+    -  __Adrian D'Alessandro__
+        [:octicons-mail-24:](mailto: a.dalessandro@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/a.dalessandro)
+
+        ---
+        
+        ![Adrian](../assets/img/rse/adrian.png){: style="max-height:225px;"}
+
+    -  __Alexander Dewar__
+        [:octicons-mail-24:](mailto: a.dewar@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/a.dewar)
+
+        ---
+        
+        ![Dewar](../assets/img/rse/dewar.png){: style="max-height:225px;"}
+
+    -  __James Turner__
+        [:octicons-mail-24:](mailto: james.turner@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/james.turner)
+
+        ---
+        
+        ![James](../assets/img/rse/james.png){: style="max-height:225px;"}
+
+    -  __Ryan Smith__
+        [:octicons-mail-24:](mailto: ryan.smith@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/ryan.smith)
+
+        ---
+        
+        ![Ryan](../assets/img/rse/ryan.png){: style="max-height:225px;"}
+
+    </div>
