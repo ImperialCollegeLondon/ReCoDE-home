@@ -225,7 +225,6 @@ search:
 
     -  __Christopher Cave-Ayland__
         [:octicons-mail-24:](mailto: c.cave-ayland@imperial.ac.uk)
-        [:octicons-organization-24:](https://www.imperial.ac.uk/people/c.cave-ayland)
 
         ---
         
