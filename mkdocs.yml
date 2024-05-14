@@ -87,6 +87,7 @@ nav:
     - exemplars/index.md
     - exemplars/*.md
   - Topics: tags.md
+  - Coming Soon: coming-soon.md
   - People: people.md
   - Contributing: contribute.md
   - Developing: developing.md
