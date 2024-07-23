@@ -24,6 +24,19 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-SurvivalAnalysis/)</small>
 
+-  <big>__Hand-eye Calibration of Medical Robots__</big>
+    <br>Zejian Cui
+
+    ---
+    
+    ![Hand-eye Calibration](../assets/img/exemplars/handeyecalib.jpeg)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-HandEyeCalibration/)</big>
+
+    [:octicons-tag-24: C++, Robotics, Computer Vision](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-HandEyeCalibration)</small>
+
 -  <big>__Deep Learning Best Practices__</big>
     <br>Antoni Bigata Casademunt
 
