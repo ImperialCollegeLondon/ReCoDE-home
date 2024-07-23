@@ -11,6 +11,19 @@ search:
 <div class="grid cards" markdown>
 
 
+-  <big>__Cracking Time's Code:<br>Survival Analysis of Large Datasets__</big>
+    <br>Valentina Quintero Santofimio
+
+    ---
+    
+    ![Cracking Time](../assets/img/exemplars/crackingtime.png)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-SurvivalAnalysis/)</big>
+
+    [:octicons-tag-24: R, Epidemiology, Statistics](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-SurvivalAnalysis/)</small>
+
 -  <big>__Deep Learning Best Practices__</big>
     <br>Antoni Bigata Casademunt
 
