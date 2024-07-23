@@ -30,6 +30,15 @@ search:
 
         __:octicons-beaker-24: Deep Learning Best Practices__
 
+    -  __Zejian Cui__
+        [:octicons-mail-24:](mailto: zejian.cui19@imperial.ac.uk)
+
+        ---
+        
+        ![Zejian](../assets/img/authors/zcui.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Hand-eye Coordination for Medical Robots__
+
     -  __Bethan C Daniels__
         [:octicons-mail-24:](mailto: bethan.cracknell-daniels19@imperial.ac.uk)
 
