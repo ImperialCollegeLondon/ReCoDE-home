@@ -27,11 +27,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
     ---
     A C++ exploration of the Mandelbrot set and the use of scientific visualisation tools
 
--  __Zeijan Cui__ :octicons-beaker-24:
-
-    ---
-    Hand eye calibration of medical robots in C++
-
 -  __Tycho van der Ouderaa__ :octicons-beaker-24:
 
     ---
