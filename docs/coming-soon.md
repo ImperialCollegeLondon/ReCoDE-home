@@ -22,11 +22,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
     ---
     Predicting colitis using penalised regression
 
--  __Valentina Quintero Santofimio__ :octicons-beaker-24:
-
-    ---
-    Cracking time's code - survival analysis using left-truncated and right-censored data
-
 -  __Juan Carlos Bilbao-Ludena__ :octicons-beaker-24:
 
     ---

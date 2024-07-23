@@ -93,6 +93,15 @@ search:
 
         __:octicons-beaker-24: AI for Patents__
 
+    -  __Valentina Quintero Santofimio__
+        [:octicons-mail-24:](mailto: valentina.quintero-santofimio20@imperial.ac.uk)
+
+        ---
+        
+        ![Valentina](../assets/img/authors/vquintero-santofimio.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Cracking Time's Code__
+
     -  __Benjamin Scharpf__
         [:octicons-mail-24:](mailto: b.scharpf19@imperial.ac.uk)
 
