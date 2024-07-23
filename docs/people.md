@@ -269,7 +269,7 @@ search:
 
         ---
         
-        ![Saranjeet](../assets/img/rse/saranjeet.png){: style="max-height:225px;"}
+        ![Saranjeet](../assets/img/rse/saranjeet.jpg){: style="max-height:225px;"}
 
     -  __Ryan Smith__
         [:octicons-mail-24:](mailto: ryan.smith@imperial.ac.uk)
