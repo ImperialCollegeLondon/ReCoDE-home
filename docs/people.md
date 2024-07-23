@@ -35,7 +35,7 @@ search:
 
         ---
         
-        ![Zejian](../assets/img/authors/zcui.png){: style="max-height:225px;"}
+        ![Zejian](../assets/img/authors/zcui.jpg){: style="max-height:225px;"}
 
         __:octicons-beaker-24: Hand-eye Coordination for Medical Robots__
 
