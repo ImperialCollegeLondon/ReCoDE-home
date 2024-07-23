@@ -254,13 +254,13 @@ search:
         
         ![Dewar](../assets/img/rse/dewar.png){: style="max-height:225px;"}
 
-    -  __James Turner__
-        [:octicons-mail-24:](mailto: james.turner@imperial.ac.uk)
-        [:octicons-organization-24:](https://www.imperial.ac.uk/people/james.turner)
+    -  __Saranjeet Kaur Bhogal__
+        [:octicons-mail-24:](mailto: s.bhogal@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/s.bhogal)
 
         ---
         
-        ![James](../assets/img/rse/james.png){: style="max-height:225px;"}
+        ![Saranjeet](../assets/img/rse/saranjeet.png){: style="max-height:225px;"}
 
     -  __Ryan Smith__
         [:octicons-mail-24:](mailto: ryan.smith@imperial.ac.uk)
@@ -269,5 +269,14 @@ search:
         ---
         
         ![Ryan](../assets/img/rse/ryan.png){: style="max-height:225px;"}
+
+    -  __James Turner__
+        [:octicons-mail-24:](mailto: james.turner@imperial.ac.uk)
+        [:octicons-organization-24:](https://www.imperial.ac.uk/people/james.turner)
+
+        ---
+        
+        ![James](../assets/img/rse/james.png){: style="max-height:225px;"}
+
 
     </div>
