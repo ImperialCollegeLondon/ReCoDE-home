@@ -12,6 +12,15 @@ search:
 
     <div class="grid cards" markdown>
 
+    -  __Elliot James Badcock__
+        [:octicons-mail-24:](mailto: e.badcock21@imperial.ac.uk)
+
+        ---
+        
+        ![Elliot James](../assets/img/authors/ejbadcock.jpeg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Turing Patterns__
+
     -  __Laurence Blackhurst__
         [:octicons-mail-24:](mailto: l.blackhurst19@imperial.ac.uk)
 

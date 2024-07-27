@@ -37,6 +37,19 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-HandEyeCalibration)</small>
 
+-  <big>__Turing Patterns & Partial Differential Equations__</big>
+    <br>Elliot James Badcock
+
+    ---
+    
+    ![Turing Patterns](../assets/img/exemplars/turingpatterns.gif)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-Turing-Patterns-and-Partial-Differential-Equations/)</big>
+
+    [:octicons-tag-24: Fortran, Fortran Package Manager, Partial Differential Equations](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-Turing-Patterns-and-Partial-Differential-Equations)</small>
+
 -  <big>__Deep Learning Best Practices__</big>
     <br>Antoni Bigata Casademunt
 

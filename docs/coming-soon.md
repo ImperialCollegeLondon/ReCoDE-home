@@ -11,12 +11,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
 
 <div class="grid cards" markdown>
 
-
--  __Eliot James Badcock__ :octicons-beaker-24:
-
-    ---
-    Marching heat equation type partial differential equations through boundary layers
-
 -  __Fabio Feser__ :octicons-beaker-24:
 
     ---
