@@ -10,6 +10,18 @@ search:
 
 <div class="grid cards" markdown>
 
+-  <big>__Environmental Literature Analysis<br>with BERTopic & RoBERTa__</big>
+    <br>Yurong Yu
+
+    ---
+    
+    ![Environmental lit](../assets/img/exemplars/environmentlit.png)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-Analysis-of-environmental-literature-with-BERTopic-and-RoBERTa/)</big>
+
+    [:octicons-tag-24: Topic Modelling, BERTopic, RoBERTa](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-Analysis-of-environmental-literature-with-BERTopic-and-RoBERTa)</small>
 
 -  <big>__Cracking Time's Code:<br>Survival Analysis of Large Datasets__</big>
     <br>Valentina Quintero Santofimio

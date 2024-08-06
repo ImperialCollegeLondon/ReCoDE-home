@@ -31,11 +31,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
     ---
     Gene network analysis
 
--  __Yurong Yu__ :octicons-beaker-24:
-
-    ---
-    Analysis of environmental literature with BERTipic and RoBERTa
-
 -  __Ekin Öztürk__ :octicons-beaker-24:
 
     ---
