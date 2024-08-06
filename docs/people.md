@@ -156,6 +156,15 @@ search:
 
         __:octicons-beaker-24: Multi-channel Python GUI__
       
+    -  __Yurong Yu__
+        [:octicons-mail-24:](mailto: y.yu19@imperial.ac.uk)
+
+        ---
+        
+        ![Yurong](../assets/img/authors/yyu.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Literature with BERTopic & RoBERTa__
+
     </div>
 
 === "Student Shapers"
