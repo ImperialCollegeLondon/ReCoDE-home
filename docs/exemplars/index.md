@@ -10,6 +10,19 @@ search:
 
 <div class="grid cards" markdown>
 
+-  <big>__Neural Ordinary Differential Equations__</big>
+    <br>Ekin Ozturk
+
+    ---
+    
+    ![Neural ODEs](../assets/img/exemplars/neuralodes.gif)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-NeuralODEs/)</big>
+
+    [:octicons-tag-24: Python, Machine Learning, PyTorch, Ordinary Differential Equations](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-NeuralODEs)</small>
+
 -  <big>__Environmental Literature Analysis<br>with BERTopic & RoBERTa__</big>
     <br>Yurong Yu
 
