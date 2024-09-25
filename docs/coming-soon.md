@@ -31,9 +31,4 @@ ReCoDE is growing! The following exemplars are currently under development and w
     ---
     Gene network analysis
 
--  __Ekin Öztürk__ :octicons-beaker-24:
-
-    ---
-    Neural ODEs from scratch
-
 </div>
