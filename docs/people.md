@@ -111,6 +111,15 @@ search:
 
         __:octicons-beaker-24: AI for Patents__
 
+    -  __Ekin Ozturk__
+        [:octicons-mail-24:](mailto: ekin.ozturk17@imperial.ac.uk)
+
+        ---
+        
+        ![Ekin](../assets/img/authors/eozturk.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Neural ODEs__
+
     -  __Valentina Quintero Santofimio__
         [:octicons-mail-24:](mailto: valentina.quintero-santofimio20@imperial.ac.uk)
 
