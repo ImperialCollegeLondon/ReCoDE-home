@@ -23,6 +23,19 @@ search:
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-NeuralODEs)</small>
 
+-  <big>__Predicting Colitis<br>with Penalised Regression__</big>
+    <br>Fabio Feser
+
+    ---
+    
+    ![Neural ODEs](../assets/img/exemplars/penalisedreg.png)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-penalised-reg/)</big>
+
+    [:octicons-tag-24: R, Statistics, Logistic Regression](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-penalised-reg/)</small>
+
 -  <big>__Environmental Literature Analysis<br>with BERTopic & RoBERTa__</big>
     <br>Yurong Yu
 
