@@ -11,7 +11,7 @@ tags:
   </div>
 </div>
 
-<meta http-equiv="refresh" content="0; url=https://github.com/ImperialCollegeLondon/ReCoDE-penalised-reg/" />
+<meta http-equiv="refresh" content="0; url=https://imperialcollegelondon.github.io/ReCoDE-penalised-reg/" />
 
 --8<--
 "https://raw.githubusercontent.com/ImperialCollegeLondon/ReCoDE-penalised-reg/main/README.md"
