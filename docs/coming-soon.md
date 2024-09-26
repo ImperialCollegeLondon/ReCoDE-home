@@ -11,11 +11,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
 
 <div class="grid cards" markdown>
 
--  __Fabio Feser__ :octicons-beaker-24:
-
-    ---
-    Predicting colitis using penalised regression
-
 -  __Juan Carlos Bilbao-Ludena__ :octicons-beaker-24:
 
     ---
