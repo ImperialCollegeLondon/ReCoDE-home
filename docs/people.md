@@ -21,6 +21,15 @@ search:
 
         __:octicons-beaker-24: Turing Patterns__
 
+    -  __Juan Carlos Bilbao-Ludena__
+        [:octicons-mail-24:](mailto: j.bilbao-ludena17@imperial.ac.uk)
+
+        ---
+        
+        ![Juan Carlos](../assets/img/authors/jbilbao.jpg){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Mandelbrot Set__
+
     -  __Laurence Blackhurst__
         [:octicons-mail-24:](mailto: l.blackhurst19@imperial.ac.uk)
 
