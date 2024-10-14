@@ -10,6 +10,19 @@ search:
 
 <div class="grid cards" markdown>
 
+-  <big>__Mathematics of the Mandlebrot Set__</big>
+    <br>Juan Carlos Bilbao-Ludena
+
+    ---
+    
+    ![Mandlebrot](../assets/img/exemplars/mandelbrot.png)
+
+    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-Exploration-Mandelbrot-Set/)</big>
+
+    [:octicons-tag-24: C++, Parallel Computing, Visualisation](../tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-Exploration-Mandelbrot-Set)</small>
+
 -  <big>__Neural Ordinary Differential Equations__</big>
     <br>Ekin Ozturk
 
