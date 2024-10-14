@@ -17,7 +17,7 @@ search:
     
     ![Mandlebrot](../assets/img/exemplars/mandelbrot.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-Exploration-Mandelbrot-Set/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](mandelbrot)</big>
 
     [:octicons-tag-24: C++, Parallel Computing, Visualisation](../tags)
     
@@ -30,7 +30,7 @@ search:
     
     ![Neural ODEs](../assets/img/exemplars/neuralodes.gif)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-NeuralODEs/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](neuralodes)</big>
 
     [:octicons-tag-24: Python, Machine Learning, PyTorch, Ordinary Differential Equations](../tags)
     
@@ -43,7 +43,7 @@ search:
     
     ![Neural ODEs](../assets/img/exemplars/penalisedreg.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-penalised-reg/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](penalisedreg)</big>
 
     [:octicons-tag-24: R, Statistics, Logistic Regression](../tags)
     
@@ -56,7 +56,7 @@ search:
     
     ![Environmental lit](../assets/img/exemplars/environmentlit.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-Analysis-of-environmental-literature-with-BERTopic-and-RoBERTa/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](environmentlit)</big>
 
     [:octicons-tag-24: Topic Modelling, BERTopic, RoBERTa](../tags)
     
@@ -69,7 +69,7 @@ search:
     
     ![Cracking Time](../assets/img/exemplars/crackingtime.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-SurvivalAnalysis/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](crackingtime)</big>
 
     [:octicons-tag-24: R, Epidemiology, Statistics](../tags)
     
@@ -82,7 +82,7 @@ search:
     
     ![Hand-eye Calibration](../assets/img/exemplars/handeyecalib.jpeg)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-HandEyeCalibration/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](handeyecalib)</big>
 
     [:octicons-tag-24: C++, Robotics, Computer Vision](../tags)
     
@@ -95,7 +95,7 @@ search:
     
     ![Turing Patterns](../assets/img/exemplars/turingpatterns.gif)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-Turing-Patterns-and-Partial-Differential-Equations/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](turingpatterns)</big>
 
     [:octicons-tag-24: Fortran, Fortran Package Manager, Partial Differential Equations](../tags)
     
@@ -108,7 +108,7 @@ search:
     
     ![Deep Learning](../assets/img/exemplars/deeplearning.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-DeepLearning-Best-Practices/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](deeplearning)</big>
 
     [:octicons-tag-24: Python, PyTorch, Machine Learning](../tags)
     
@@ -121,7 +121,7 @@ search:
     
     ![SPH Navier-Stokes](../assets/img/exemplars/sphnavierstokes.gif)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-SPH-solver-2D-NS/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](sphnavierstokes)</big>
 
     [:octicons-tag-24: Python, C++, Boost](../tags)
     
@@ -134,7 +134,7 @@ search:
     
     ![Hidden Markov](../assets/img/exemplars/hiddenmarkov.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-HMMs-for-the-discovery-of-behavioural-states)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](hiddenmarkov)</big>
 
     [:octicons-tag-24: Python, Pandas, Machine Learning](../tags)
     
@@ -147,7 +147,7 @@ search:
     
     ![Decoding Market Signals](../assets/img/exemplars/decodingmarketsignals.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-DecodingMarketSignals)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](decodingmarketsignals)</big>
 
     [:octicons-tag-24: Finance, Pandas, Logistic Regression](../tags)
     
@@ -160,7 +160,7 @@ search:
     
     ![AI for Patents](../assets/img/exemplars/aiforpatents.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-AIForPatents)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](aiforpatents)</big>
 
     [:octicons-tag-24: Python, Tensorflow, Sci-kit Learn](../tags)
     
@@ -173,7 +173,7 @@ search:
     
     ![Cosmic Dawn](../assets/img/exemplars/cosmicdawn.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-FirstDawn)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](cosmicdawn)</big>
 
     [:octicons-tag-24: Python, Tensorflow, Sci-kit Learn](../tags)
     
@@ -187,7 +187,7 @@ search:
     
     ![Euler-Maruyama](../assets/img/exemplars/eulermaruyama.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](eulermaruyama)</big>
 
     [:octicons-tag-24: Python, NumPy, Matplotlib](../tags)
     
@@ -200,7 +200,7 @@ search:
     
     ![Python GUI](../assets/img/exemplars/pythongui.jpg)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE-PythonGUI)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](pythongui)</big>
 
     [:octicons-tag-24: Python, NumPy, GUI](../tags)
     
@@ -213,7 +213,7 @@ search:
     
     ![RNA Sequencing](../assets/img/exemplars/rnaseq.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE_rnaseq_pipeline)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](rnaseq)</big>
 
     [:octicons-tag-24: R, bash, Conda, Nextflow](../tags)
     
@@ -226,7 +226,7 @@ search:
     
     ![IDMS](../assets/img/exemplars/idms.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE_IDMS)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](idms)</big>
 
     [:octicons-tag-24: R, Stan](../tags)
     
@@ -239,7 +239,7 @@ search:
     
     ![Neutron Diffusion](../assets/img/exemplars/diffusion.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/ReCoDE_Diffusion_Code)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](diffusion)</big>
 
     [:octicons-tag-24: Fortran, OOP](../tags)
     
@@ -253,7 +253,7 @@ search:
     
     ![MCMC](../assets/img/exemplars/mcmc.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://recode-mcmcff.readthedocs.io/en/latest/)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](mcmc)</big>
 
     [:octicons-tag-24: Python, TDD, Optimisation](../tags)
     
@@ -266,7 +266,7 @@ search:
     
     ![Perceptions](../assets/img/exemplars/perceptions.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](https://imperialcollegelondon.github.io/recode-perceptions)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](perceptions)</big>
 
     [:octicons-tag-24: Python, pyTorch, Machine Learning](../tags)
     
