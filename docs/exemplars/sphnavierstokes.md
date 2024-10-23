@@ -4,6 +4,13 @@ tags:
   - Python
   - C++
   - Boost
+  - Fluid Dynamics
+  - Optimisation
+  - Object-Oriented Programming
+  - Profiling
+  - Visualisation
+  - Matplotlib
+  - CMake
 ---
 <div id="overlay">
   <div id="overlay-text">

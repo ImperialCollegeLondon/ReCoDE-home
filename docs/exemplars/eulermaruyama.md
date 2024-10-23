@@ -4,6 +4,10 @@ tags:
   - Python
   - Object Oriented Programming
   - NumPy
+  - Stochastic Differential Equations
+  - Uncertainty Quantification
+  - Probability Distributions
+  - Matplotlib
 ---
 <div id="overlay">
   <div id="overlay-text">

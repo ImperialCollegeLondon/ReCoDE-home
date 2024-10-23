@@ -6,6 +6,11 @@ tags:
   - Object Oriented Programming
   - CMake
   - PETSc
+  - Visualisation
+  - Optimisation
+  - Physics
+  - Paraview
+  - Finite Difference Method
 ---
 <div id="overlay">
   <div id="overlay-text">
