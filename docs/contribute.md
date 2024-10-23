@@ -37,7 +37,7 @@ search:
 
 # Contribute an exemplar to ReCoDE
 
-<img class="gs-about" src="../assets/img/gs_banner.png"/>
+<img class="gs-about" src="../assets/img/ecri_logo.png"/>
 
 ## Who can contribute 
 Doctoral or experienced master's students who are eligible to work as GTAs at Imperial. If you are a fellow or staff, please contact us directly.
