@@ -6,7 +6,7 @@ tags:
   - Partial Differential Equations
   - LAPACK
   - Finite Difference Method
-  - Unite Testing
+  - Unit Testing
 ---
 <div id="overlay">
   <div id="overlay-text">
