@@ -6,7 +6,7 @@ tags:
   - Boost
   - Fluid Dynamics
   - Optimisation
-  - Object-Oriented Programming
+  - Object Oriented Programming
   - Profiling
   - Visualisation
   - Matplotlib
