@@ -60,7 +60,7 @@ You will work as a GTA receiving the higher rate pay (£35.78/hour including hol
 
 ### RSE Role
 
-A Research Software Engineer will support you with the code-related aspects of your exemplar. They aim to drive best practices both in the way you develop your code, and in the final codebase. The RSE will undertake code reviews and will lead on technical project management to support you in building a timeline for development, with a plan to follow and milestones to achieve.
+An RSE will support you with the code-related aspects of your exemplar. They aim to drive best practices both in the way you develop your code, and in the final codebase. The RSE will undertake code reviews and will lead on technical project management to support you in building a timeline for development, with a plan to follow and milestones to achieve.
 
 ### RCDS Role
 
