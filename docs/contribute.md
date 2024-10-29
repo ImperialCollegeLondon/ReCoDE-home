@@ -56,7 +56,7 @@ Think back to when you were a new postgraduate student. You were embarking on yo
 
 ## Working with [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/imperial-community-courses/) and [RSEs](https://www.imperial.ac.uk/research-software-engineering/)
 
-You will work as a GTA receiving the higher rate pay (£35.78/hour including holiday pay). The project is to be completed within 45 hours evenly spread over three months. You will be supported by a member of the RCDS Team (Research Computing and Data Science) and a Research Software Engineer.
+You will work as a GTA receiving the higher rate pay (£35.78/hour including holiday pay). The project is to be completed within 45 hours evenly spread over three months. You will be supported by a member of the Research Computing and Data Science (RCDS) Team and a Research Software Engineer (RSE).
 
 ### RSE Role
 
