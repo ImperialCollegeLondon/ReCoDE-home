@@ -39,18 +39,32 @@ search:
 
 <img class="gs-about" src="../assets/img/gs_banner.png"/>
 
-## Who can contribute 
-Doctoral or experienced master's students who are eligible to work as GTAs at Imperial. If you are a fellow or staff, please contact us directly.
+## Who can contribute
+
+Doctoral or experienced Master's students who are eligible to work as GTAs at Imperial. If you are a fellow or staff, please contact us directly.
 
 
 ## What is a ReCoDE exemplar
+
 Think back to when you were a new postgraduate student. You were embarking on your MSc, MRes or PhD studies that were going to involve the use of research computing and data science. Your undergraduate study programme included some programming and you may have taken a few extra courses here and there. At this point, it was also very unlikely that you had completed a larger programming project. You were about to embark on one as part of your degree - an undertaking that would involve synthesis of your programming, data science and general computing knowledge plus the fundamentals of good software engineering practice... and many other skills that you did not even know about.
 
 !!! info 
 
-    ReCoDE aims to bridge the gap between classroom education and tackling a large degree project with research computing components. ReCoDE exemplars are reasonably-sized end-to-end research computing or data science projects that contain programming code accompanied by a rich annotation for learning. The annotation explains common practices behind solving a particular task, decision-making broken into digestible steps, and good software engineering practices.
+    ReCoDE aims to bridge the gap between classroom education and tackling a large degree project with research computing components. ReCoDE exemplars are reasonably-sized end-to-end research software or data science projects that contain programming code accompanied by a rich annotation for learning. The annotation may be in the form of tutorial-led documentation, a frontend of code notebooks or a GUI, or a report, and will explain common practices behind solving a particular task, show decision-making broken into digestible steps, and identify good software engineering practices.
 
     **Think about what would have helped you when you were at this point of your learning trajectory!**
+
+## Working with [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/imperial-community-courses/) and [RSEs](https://www.imperial.ac.uk/research-software-engineering/)
+
+You will work as a GTA receiving the higher rate pay (£35.78/hour including holiday pay). The project is to be completed within 45 hours evenly spread over three months. You will be supported by a member of the RCDS Team (Research Computing and Data Science) and a Research Software Engineer.
+
+### RSE Role
+
+A Research Software Engineer will support you with the code-related aspects of your exemplar. They aim to drive best practices both in the way you develop your code, and in the final codebase. The RSE will undertake code reviews and will lead on technical project management to support you in building a timeline for development, with a plan to follow and milestones to achieve.
+
+### RCDS Role
+
+An Research Computing and Data Science tutor, from the Early Career Researcher Institute teamW, will support you with the teaching and learning aspects of your exemplar. They will support you in determining learning outcomes and ensure that learning activities align with these. With an eye on pedagogy, the RCDS tutor will review the non-technical annotation for learning, be it in the form of a report, notebook, GUI or tutorial-led documentation.
 
 ## Good exemplars
 
@@ -60,16 +74,23 @@ ReCoDE covers all disciplines that are taught at Imperial. Exemplars should be e
 We reserve the right to decide if your suggestion fits into what we are trying to accomplish with ReCoDE - a variety of representative projects and also a variety of programming languages and tools. Please have a look at the existing [Exemplars](https://imperialcollegelondon.github.io/ReCoDE-home/exemplars/) to get inspired.
 
 ### Size
-We are looking for fairly concise projects. The code should not exceed several hundred lines. We have found out the hard way that creating a comprehensive annotation for a large project can get out of hand quickly. A new student should be able to get through the exemplar in one week - anything longer may be somewhat daunting and demotivating.
+
+We are looking for fairly concise projects. The code should not exceed 500 lines of code. We have found out the hard way that creating a comprehensive annotation for a large project can get out of hand quickly. A new student should be able to get through the exemplar in one week - anything longer may be somewhat daunting and demotivating.
+
+!!! example "New vs existing code "
+
+    Students may pitch a project that they have already worked on before. That is absolutely fine - you can reuse an existing code if the license permits. You will use the allocated time to refactor, annotate and experiment with media.
+
+    Other students may be pitching with just an idea. This can be more difficult, so the size of the codebase should be scaled appropriately.
 
 ## Essential elements of an exemplar
 
-* code in a comprehensive GitHub repository
-* annotation in markdown including:
-  * step-by-step explanations
-  * reasoning including good and bad decisions
-  * links to suitable external materials
-  * images/videos/storyboards... and anything creative
+1. Code in a comprehensive GitHub repository
+2. Annotation in Markdown or a code notebook including:
+  * Step-by-step explanations
+  * Reasoning including good and bad decisions
+  * Links to suitable external materials
+  * Images/videos/storyboards... and anything creative
 
 !!! abstract ""
 
@@ -77,14 +98,6 @@ We are looking for fairly concise projects. The code should not exceed several h
     
     **Do not be afraid to be personal - this will make ReCoDE more relatable.**
 
-## Terms of collaboration with [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/)
-You will work as a GTA receiving the higher rate pay (£35.78/hour including holiday pay). The project has to be completed within 45 hours evenly spread over three months. You will have regular meetings with the RCDS staff (who will oversee the overall progress and learning annotation) and [research software engineers](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) (RSEs - who will oversee the technical quality of the code). The software engineering oversight may sound a bit intimidating - do not worry the engineers are here to help and this will be a great personalised learning opportunity for you.
-
-It is very important that you complete your work at an even pace. The RCDS staff and RSEs will not be able to accommodate last-minute contributions.
-
-!!! example "A commmon scenario"
-
-    Often, students pitch a project that they have already worked on before. That is absolutely fine - you can reuse an existing code if the license permits. You will use the allocated time to refactor, annotate and experiment with media.
 
 ## Register your interest
 

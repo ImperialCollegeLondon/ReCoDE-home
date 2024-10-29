@@ -41,13 +41,42 @@ search:
 
 ## Background
 
-If selected to [contribute to ReCoDE](contribute.md), you will develop your exemplar in a GitHub repository within the Imperial College organisation. The name will follow the convention: *ReCoDE-name-of-project*. We usually present the repository using [MkDocs](https://www.mkdocs.org/), so you will start with a templated repository that is MkDocs-ready.
+If selected to contribute to ReCoDE, you will develop your exemplar in a GitHub repository within the Imperial College organisation. You will work with an RSE and RCDS tutor, the details of which can be found on the [Contributing](contribute.md) page.
 
-## Register on the Imperial GitHub
+## Timeline
+
+Before diving into coding, it is important that you meet the team, establish a plan of work, and learn to work with GitHub. The sections below establish some high-level priorities that all exemplar development teams should focus on. You and your team will establish more specific goals and milestones to work towards in addition to the points below.
+
+### Week 0: Community Meetup
+
+The ReCoDE coordinators will set up a initial meeting of the current ReCoDE community. You will be asked to fill out and bring along a project proposal plan, which will contain more details about your proposed exemplar. At this meetup, there will be a short session on using GitHub to collaborate with a development team.
+
+### Week 1: Team Kick-off
+
+You, your RSE and RCDS tutor should aim to meet soon after the community meetup. In this call, you can schedule a weekly recurring meeting, establish a project timeline and set weekly goals. Between holidays and conferences, it will be difficult to meet every week, but schedule yourselves as best you can and try to touch base with the team often.
+
+### Week 2: README
+
+In week 2, aim to open a Pull Request that adds content to the README in your GitHub repository, in following with the template. You can request reviews from both the RSE and RCDS on this item, and once your changes are approved and merged, check the GitHub Pages site to see how your published content appears.
+
+### Weeks 3 - 6: Minimum Working Example
+
+Aim to produce a minimum working example of your exemplar by the midway point of the timeline. At this point your GitHub repository will contain a minimal but working codebase, and your GitHub Pages site will have at least an introduction and one other page or notebook.
+
+### Weeks 6 - 12: Finalising
+
+During the latter half of the project continue to work to the timeline you established with your team to complete, finalise and share your exemplar with the world!
+
+
+## Preparing the repository
+
+The steps below will guide you to create a new repository in the Imperial College London GitHub organisation. You will need a short but meaningful name for the repostiory, which should follow the convention: `ReCoDE-name-of-my-exemplar`. You should determine a structure for your code with your RSE. For the learning annotation, we suggest presenting this using [MkDocs](https://www.mkdocs.org/), so will start you off with a templated repository that is MkDocs-ready. If you wish to use a different approach (e.g. Sphinx, Quarto) please discuss this with your team.
+
+### Register on the Imperial GitHub
 
 Please follow the steps at the [following link](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/) to gain access to the Imperial GitHub organisation. There are also instructions on creating a new GitHub account, in case you do not already have one.
 
-## Use the template
+### Use the template
 
 Navigate to the [following GitHub repository](https://github.com/ImperialCollegeLondon/ReCoDE-exemplar-template), which contains the template for all ReCoDE projects. Click the big green **Use this template** button to set up your own repository.
 
@@ -63,7 +92,7 @@ Complete the fields in the window that appears, and click **Create repository**.
 
 ![Create the repo](assets/img/github/create-repo.png)
 
-## Add collaborators
+### Add collaborators
 
 In a few moments, your new repository will be ready. There are a few things to setup, so click the **Settings** button along the horizontal menu bar.
 
@@ -73,7 +102,7 @@ Click the **Collaborators and teams** button on the left side bar. In the new fr
 
 ![Collaborators frame](assets/img/github/collaborators.png)
 
-## GitHub Pages Configuration
+### Configure GitHub Pages
 
 Also in settings, find and click the **Pages** button down the left side bar. In this new frame, set **GitHub Pages visibility** to **Public** and confirm the change.
 
@@ -83,7 +112,7 @@ Head back to the **Code** section of the repository using the menu bar. On the r
 
 ![Repository details](assets/img/github/repo-details.png)
 
-## MkDocs Settings
+### Adjust MkDocs settings
 
 MkDocs is a static site generator that is particularly well suited to creating rich documentation. It works by rendering Markdown files and Jupyter Notebooks into HTML and wrapping the site up into a nice theme with responsive navigation and a search.
 
@@ -93,17 +122,17 @@ Edit `mkdocs.yml`, changing the **site_name** to **ReCoDE *Your Exemplar Name***
 
 ![MkDocs settings](assets/img/github/mkdocs-yml.png)
 
-## Populating the repository
+### Populate the repository
 
 You are now ready to start developing your exemplar. The template includes the following directories, and the structure should be left as is.
 
 ![Files and directories listing](assets/img/github/dir-listing.png)
 
-### Jupyter Notebooks
+#### Jupyter Notebooks
 
 If your exemplar includes Jupyter Notebooks, place these in the `notebooks/` directory. If additional packages are required, please add these to `requirements.txt`, below the requirements already there. If your Notebooks contain images, please place them in a new directory in `notebooks/` for example at `notebooks/img/my_image.png`.
 
-### Markdown
+#### Markdown
 
 Any other files should be authored in Markdown and placed into `docs/`. Your site is themed by [Mkdocs Material](https://squidfunk.github.io/mkdocs-material/).
 The [documentation](https://squidfunk.github.io/mkdocs-material/reference/) is
@@ -115,7 +144,7 @@ excellent and should provide a good starting point for enchancing your Markdown.
     your Markdown and Notebook files. (e.g. `01-Intro.md`, `02-FirstSteps.ipynb`)
 
 
-## Local MkDocs Development
+### Local MkDocs Development
 
 After cloning your repository, you can install all the necessary dependencies into your environment
 (preferably a virtual one) and serve the site locally at http://127.0.0.1:8000 with these two commands:
