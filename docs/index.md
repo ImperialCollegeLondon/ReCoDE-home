@@ -32,8 +32,8 @@ search:
 
   <p>
     This resource was created by doctoral students,
-    <a href="https://www.imperial.ac.uk/students/studentshapers/">StudentShapers</a> in collaboration with staff from the
-    <a href="https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/">Graduate School</a>,
+    <a href="https://www.imperial.ac.uk/students/studentshapers/">StudentShapers</a> in collaboration with staff from
+    <a href="https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/">ECRI</a>,
     <a href="https://www.imperial.ac.uk/computing">Department of Computing</a>, and
     <a href="https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/">Research Software Engineering central team</a>.
   </p>

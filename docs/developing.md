@@ -37,7 +37,7 @@ search:
 
 # Developing your exemplar
 
-<img class="gs-about" src="../assets/img/gs_banner.png"/>
+<img class="gs-about" src="../assets/img/ecri_logo.png"/>
 
 ## Background
 
