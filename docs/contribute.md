@@ -64,7 +64,7 @@ An RSE will support you with the code-related aspects of your exemplar. They aim
 
 ### RCDS Role
 
-An Research Computing and Data Science tutor, from the Early Career Researcher Institute teamW, will support you with the teaching and learning aspects of your exemplar. They will support you in determining learning outcomes and ensure that learning activities align with these. With an eye on pedagogy, the RCDS tutor will review the non-technical annotation for learning, be it in the form of a report, notebook, GUI or tutorial-led documentation.
+An RCDS tutor, from the Early Career Researcher Institute team, will support you with the teaching and learning aspects of your exemplar. They will support you in determining learning outcomes and ensure that learning activities align with these. With an eye on pedagogy, the RCDS tutor will review the non-technical annotation for learning, be it in the form of a report, notebook, GUI or tutorial-led documentation.
 
 ## Good exemplars
 
