@@ -58,7 +58,7 @@ Think back to when you were a new postgraduate student. You were embarking on yo
 
 You will work as a GTA receiving the higher rate pay (£35.78/hour including holiday pay). The project is to be completed within 45 hours evenly spread over three months. You will be supported by a member of the Research Computing and Data Science (RCDS) Team and a Research Software Engineer (RSE).
 
-### RSE Role
+### Support from the RSE Mentor
 
 An RSE will support you with the code-related aspects of your exemplar. They aim to drive best practices both in the way you develop your code, and in the final codebase. The RSE will undertake code reviews and will lead on technical project management to support you in building a timeline for development, with a plan to follow and milestones to achieve.
 
