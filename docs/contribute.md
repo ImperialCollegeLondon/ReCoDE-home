@@ -75,7 +75,7 @@ We reserve the right to decide if your suggestion fits into what we are trying t
 
 ### Size
 
-We are looking for fairly concise projects. The code should not exceed 500 lines of code. We have found out the hard way that creating a comprehensive annotation for a large project can get out of hand quickly. A new student should be able to get through the exemplar in one week - anything longer may be somewhat daunting and demotivating.
+We are looking for fairly concise projects. We have found out the hard way that creating a comprehensive annotation for a large project can get out of hand quickly. A new student should be able to get through the exemplar in one week - anything longer may be somewhat daunting and demotivating.
 
 !!! example "New vs existing code "
 
