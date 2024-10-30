@@ -124,7 +124,7 @@ Edit `mkdocs.yml`, changing the **site_name** to **ReCoDE *Your Exemplar Name***
 
 ### Populate the repository
 
-You are now ready to start developing your exemplar. The template includes the following directories, and the structure should be left as is.
+You are now ready to start developing your exemplar. The template includes the following directories, and if you have decided to use MkDocs, the structure should be left as is. For other publishing formats, this structure may change - please discuss with the team.
 
 ![Files and directories listing](assets/img/github/dir-listing.png)
 
