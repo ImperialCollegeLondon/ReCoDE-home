@@ -70,7 +70,7 @@ During the latter half of the project continue to work to the timeline you estab
 
 ## Preparing the repository
 
-The steps below will guide you to create a new repository in the Imperial College London GitHub organisation. You will need a short but meaningful name for the repostiory, which should follow the convention: `ReCoDE-name-of-my-exemplar`. You should determine a structure for your code with your RSE. For the learning annotation, we suggest presenting this using [MkDocs](https://www.mkdocs.org/), so will start you off with a templated repository that is MkDocs-ready. If you wish to use a different approach (e.g. Sphinx, Quarto) please discuss this with your team.
+The steps below will guide you to create a new repository in the Imperial College London GitHub organisation. You will need a short but meaningful name for the repostiory, which should follow the convention: `ReCoDE-name-of-my-exemplar`. You should determine a structure for your code with your RSE mentor. For the learning annotation, we suggest presenting this using [MkDocs](https://www.mkdocs.org/), so that it will start you off with a templated repository that is MkDocs-ready. If you wish to use a different approach (e.g. Sphinx, Quarto) please discuss this with your team.
 
 ### Register on the Imperial GitHub
 
