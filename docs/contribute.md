@@ -62,7 +62,7 @@ You will work as a GTA receiving the higher rate pay (£35.78/hour including hol
 
 An RSE will support you with the code-related aspects of your exemplar. They aim to drive best practices both in the way you develop your code, and in the final codebase. The RSE will undertake code reviews and will lead on technical project management to support you in building a timeline for development, with a plan to follow and milestones to achieve.
 
-### RCDS Role
+### Support from the RCDS Mentor
 
 An RCDS tutor, from the Early Career Researcher Institute team, will support you with the teaching and learning aspects of your exemplar. They will support you in determining learning outcomes and ensure that learning activities align with these. With an eye on pedagogy, the RCDS tutor will review the non-technical annotation for learning, be it in the form of a report, notebook, GUI or tutorial-led documentation.
 
