@@ -57,7 +57,7 @@ You, your RSE and RCDS tutor should aim to meet soon after the community meetup.
 
 ### Week 2: README
 
-In week 2, aim to open a Pull Request that adds content to the README in your GitHub repository, in following with the template. You can request reviews from both the RSE and RCDS on this item, and once your changes are approved and merged, check the GitHub Pages site to see how your published content appears.
+In week 2, aim to open a Pull Request that adds content to the README in your GitHub repository, following the template. You can request reviews from both the RSE and RCDS on this item, and once your changes are approved and merged, check the GitHub Pages site to see how your published content appears.
 
 ### Weeks 3 - 6: Minimum Working Example
 
