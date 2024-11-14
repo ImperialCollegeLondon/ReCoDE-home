@@ -80,12 +80,9 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Exemplars: index.md
   - About: about.md
   - Getting started: getting-started.md
-  - Exemplars: 
-    - exemplars/index.md
-    - exemplars/*.md
   - Topics: tags.md
   - Coming Soon: coming-soon.md
   - People: people.md
