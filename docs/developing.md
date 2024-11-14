@@ -45,7 +45,7 @@ If selected to [contribute to ReCoDE](contribute.md), you will develop your exem
 
 ## Register on the Imperial GitHub
 
-Please follow the steps at the [following link](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/) to gain access to the Imperial GitHub organisation. There are also instructions on creating a new GitHub account, in case you do not already have one.
+Please read *How do I gain access to GitHub Enterprise Cloud* near the bottom of the [following link](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/) to gain access to the Imperial GitHub organisation. There are also instructions on creating a new GitHub account, in case you do not already have one.
 
 ## Use the template
 

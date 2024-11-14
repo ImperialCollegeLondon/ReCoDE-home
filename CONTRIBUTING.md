@@ -4,7 +4,7 @@ Home to the ReCoDE project that is a collection of high-quality research computi
 
 ## About
 
-ReCoDE is a Vice-Provost for Education [funded project](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-education/funding-opportunities-for-learning-and-teaching-innovation/funded-projects-funding-opportunities-for-learning-and-teaching-innovation/) for Learning & Teaching Innovation.
+ReCoDE is a Vice-Provost for Education [funded project](https://www.imperial.ac.uk/about/education/get-involved/funding-opportunities-for-learning-and-teaching-innovation/funded-projects-funding-opportunities-for-learning-and-teaching-innovation/) for Learning & Teaching Innovation.
 
 ## Mkdocs Material
 
