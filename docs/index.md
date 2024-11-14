@@ -37,6 +37,14 @@ search:
     z-index: 1; /* Stack above background overlay */
     padding: 20px;
   }
+
+  .grid.cards {
+    background-color: rgba(255, 255, 255, 0.4); /* Match opacity with content div */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+
+  }
 </style>
 
 <div class="background-overlay" id="backgroundOverlay"></div>
@@ -55,8 +63,8 @@ search:
 <script>
   window.addEventListener("scroll", function() {
     const scrollPosition = window.scrollY;
-    const fadeStart = 100; // Starting point for fade effect
-    const fadeEnd = 300;   // End point for fade effect
+    const fadeStart = 0; // Starting point for fade effect
+    const fadeEnd = 400;   // End point for fade effect
     const fadeDistance = fadeEnd - fadeStart;
 
     // Calculate opacity based on scroll position
