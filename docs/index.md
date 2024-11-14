@@ -21,7 +21,7 @@ search:
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/img/group_computing.png');
+    background-image: url('./assets/img/group_computing.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -48,8 +48,12 @@ search:
 
     <p><strong>A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.</strong></p>
 
+        <div style="text-align: center;">
+        <a href="bycategory" class="md-button md-button--primary">Browse the exemplars by category</a>
+        </div>
 
-    <p>Keep scrolling to see all of our exemplars...</p>
+
+    <p>Or keep scrolling to see all of our exemplars...</p>
     </div>
 </div>
 
