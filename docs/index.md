@@ -48,12 +48,7 @@ search:
 
     <p><strong>A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.</strong></p>
 
-        <div style="text-align: center;">
-        <a href="bycategory" class="md-button md-button--primary">Browse the exemplars by category</a>
-        </div>
-
-
-    <p>Or keep scrolling to see all of our exemplars...</p>
+    <p>Keep scrolling to see all of our exemplars...</p>
     </div>
 </div>
 
@@ -87,11 +82,11 @@ search:
 
     ---
     
-    ![Mandlebrot](/assets/img/exemplars/mandelbrot.png)
+    ![Mandlebrot](./assets/img/exemplars/mandelbrot.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](mandelbrot)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/mandelbrot)</big>
 
-    [:octicons-tag-24: C++, Parallel Computing, Visualisation](/tags)
+    [:octicons-tag-24: C++, Parallel Computing, Visualisation](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-Exploration-Mandelbrot-Set)</small>
 
@@ -100,11 +95,11 @@ search:
 
     ---
     
-    ![Neural ODEs](/assets/img/exemplars/neuralodes.gif)
+    ![Neural ODEs](./assets/img/exemplars/neuralodes.gif)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](neuralodes)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/neuralodes)</big>
 
-    [:octicons-tag-24: Python, Machine Learning, PyTorch, Ordinary Differential Equations](/tags)
+    [:octicons-tag-24: Python, Machine Learning, PyTorch, Ordinary Differential Equations](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-NeuralODEs)</small>
 
@@ -113,11 +108,11 @@ search:
 
     ---
     
-    ![Neural ODEs](/assets/img/exemplars/penalisedreg.png)
+    ![Neural ODEs](./assets/img/exemplars/penalisedreg.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](penalisedreg)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/penalisedreg)</big>
 
-    [:octicons-tag-24: R, Statistics, Logistic Regression](/tags)
+    [:octicons-tag-24: R, Statistics, Logistic Regression](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-penalised-reg/)</small>
 
@@ -126,11 +121,11 @@ search:
 
     ---
     
-    ![Environmental lit](/assets/img/exemplars/environmentlit.png)
+    ![Environmental lit](./assets/img/exemplars/environmentlit.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](environmentlit)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/environmentlit)</big>
 
-    [:octicons-tag-24: Topic Modelling, BERTopic, RoBERTa](/tags)
+    [:octicons-tag-24: Topic Modelling, BERTopic, RoBERTa](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-Analysis-of-environmental-literature-with-BERTopic-and-RoBERTa)</small>
 
@@ -139,11 +134,11 @@ search:
 
     ---
     
-    ![Cracking Time](/assets/img/exemplars/crackingtime.png)
+    ![Cracking Time](./assets/img/exemplars/crackingtime.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](crackingtime)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/crackingtime)</big>
 
-    [:octicons-tag-24: R, Epidemiology, Statistics](/tags)
+    [:octicons-tag-24: R, Epidemiology, Statistics](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-SurvivalAnalysis/)</small>
 
@@ -152,11 +147,11 @@ search:
 
     ---
     
-    ![Hand-eye Calibration](/assets/img/exemplars/handeyecalib.jpeg)
+    ![Hand-eye Calibration](./assets/img/exemplars/handeyecalib.jpeg)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](handeyecalib)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/handeyecalib)</big>
 
-    [:octicons-tag-24: C++, Robotics, Computer Vision](/tags)
+    [:octicons-tag-24: C++, Robotics, Computer Vision](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-HandEyeCalibration)</small>
 
@@ -165,11 +160,11 @@ search:
 
     ---
     
-    ![Turing Patterns](/assets/img/exemplars/turingpatterns.gif)
+    ![Turing Patterns](./assets/img/exemplars/turingpatterns.gif)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](turingpatterns)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/turingpatterns)</big>
 
-    [:octicons-tag-24: Fortran, Fortran Package Manager, Partial Differential Equations](/tags)
+    [:octicons-tag-24: Fortran, Fortran Package Manager, Partial Differential Equations](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-Turing-Patterns-and-Partial-Differential-Equations)</small>
 
@@ -178,11 +173,11 @@ search:
 
     ---
     
-    ![Deep Learning](/assets/img/exemplars/deeplearning.png)
+    ![Deep Learning](./assets/img/exemplars/deeplearning.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](deeplearning)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/deeplearning)</big>
 
-    [:octicons-tag-24: Python, PyTorch, Machine Learning](/tags)
+    [:octicons-tag-24: Python, PyTorch, Machine Learning](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-DeepLearning-Best-Practices)</small>
 
@@ -191,11 +186,11 @@ search:
 
     ---
     
-    ![SPH Navier-Stokes](/assets/img/exemplars/sphnavierstokes.gif)
+    ![SPH Navier-Stokes](./assets/img/exemplars/sphnavierstokes.gif)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](sphnavierstokes)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/sphnavierstokes)</big>
 
-    [:octicons-tag-24: Python, C++, Boost](/tags)
+    [:octicons-tag-24: Python, C++, Boost](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-SPH-solver-2D-NS/)</small>
 
@@ -204,11 +199,11 @@ search:
 
     ---
     
-    ![Hidden Markov](/assets/img/exemplars/hiddenmarkov.png)
+    ![Hidden Markov](./assets/img/exemplars/hiddenmarkov.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](hiddenmarkov)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/hiddenmarkov)</big>
 
-    [:octicons-tag-24: Python, Pandas, Machine Learning](/tags)
+    [:octicons-tag-24: Python, Pandas, Machine Learning](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-HMMs-for-the-discovery-of-behavioural-states)</small>
 
@@ -217,11 +212,11 @@ search:
 
     ---
     
-    ![Decoding Market Signals](/assets/img/exemplars/decodingmarketsignals.png)
+    ![Decoding Market Signals](./assets/img/exemplars/decodingmarketsignals.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](decodingmarketsignals)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/decodingmarketsignals)</big>
 
-    [:octicons-tag-24: Finance, Pandas, Logistic Regression](/tags)
+    [:octicons-tag-24: Finance, Pandas, Logistic Regression](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-DecodingMarketSignals)</small>
 
@@ -230,11 +225,11 @@ search:
 
     ---
     
-    ![AI for Patents](/assets/img/exemplars/aiforpatents.png)
+    ![AI for Patents](./assets/img/exemplars/aiforpatents.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](aiforpatents)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/aiforpatents)</big>
 
-    [:octicons-tag-24: Python, Tensorflow, Sci-kit Learn](/tags)
+    [:octicons-tag-24: Python, Tensorflow, Sci-kit Learn](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-AIForPatents)</small>
 
@@ -243,11 +238,11 @@ search:
 
     ---
     
-    ![Cosmic Dawn](/assets/img/exemplars/cosmicdawn.png)
+    ![Cosmic Dawn](./assets/img/exemplars/cosmicdawn.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](cosmicdawn)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/cosmicdawn)</big>
 
-    [:octicons-tag-24: Python, Tensorflow, Sci-kit Learn](/tags)
+    [:octicons-tag-24: Python, Tensorflow, Sci-kit Learn](./tags)
     
 
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-FirstDawn)</small>
@@ -257,11 +252,11 @@ search:
 
     ---
     
-    ![Euler-Maruyama](/assets/img/exemplars/eulermaruyama.png)
+    ![Euler-Maruyama](./assets/img/exemplars/eulermaruyama.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](eulermaruyama)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/eulermaruyama)</big>
 
-    [:octicons-tag-24: Python, NumPy, Matplotlib](/tags)
+    [:octicons-tag-24: Python, NumPy, Matplotlib](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDe-Euler-Maruyama)</small>
 
@@ -270,11 +265,11 @@ search:
 
     ---
     
-    ![Python GUI](/assets/img/exemplars/pythongui.jpg)
+    ![Python GUI](./assets/img/exemplars/pythongui.jpg)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](pythongui)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/pythongui)</big>
 
-    [:octicons-tag-24: Python, NumPy, GUI](/tags)
+    [:octicons-tag-24: Python, NumPy, GUI](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE-PythonGUI)</small>
 
@@ -283,11 +278,11 @@ search:
 
     ---
     
-    ![RNA Sequencing](/assets/img/exemplars/rnaseq.png)
+    ![RNA Sequencing](./assets/img/exemplars/rnaseq.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](rnaseq)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/rnaseq)</big>
 
-    [:octicons-tag-24: R, bash, Conda, Nextflow](/tags)
+    [:octicons-tag-24: R, bash, Conda, Nextflow](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline)</small>
 
@@ -296,11 +291,11 @@ search:
 
     ---
     
-    ![IDMS](/assets/img/exemplars/idms.png)
+    ![IDMS](./assets/img/exemplars/idms.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](idms)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/idms)</big>
 
-    [:octicons-tag-24: R, Stan](/tags)
+    [:octicons-tag-24: R, Stan](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_IDMS)</small>
 
@@ -309,11 +304,11 @@ search:
 
     ---
     
-    ![Neutron Diffusion](/assets/img/exemplars/diffusion.png)
+    ![Neutron Diffusion](./assets/img/exemplars/diffusion.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](diffusion)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/diffusion)</big>
 
-    [:octicons-tag-24: Fortran, OOP](/tags)
+    [:octicons-tag-24: Fortran, OOP](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_Diffusion_Code)</small>
 
@@ -323,11 +318,11 @@ search:
 
     ---
     
-    ![MCMC](/assets/img/exemplars/mcmc.png)
+    ![MCMC](./assets/img/exemplars/mcmc.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](mcmc)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/mcmc)</big>
 
-    [:octicons-tag-24: Python, TDD, Optimisation](/tags)
+    [:octicons-tag-24: Python, TDD, Optimisation](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/ReCoDE_MCMCFF)</small>
 
@@ -336,11 +331,11 @@ search:
 
     ---
     
-    ![Perceptions](/assets/img/exemplars/perceptions.png)
+    ![Perceptions](./assets/img/exemplars/perceptions.png)
 
-    <big>[__:octicons-arrow-right-24: Get Started__](perceptions)</big>
+    <big>[__:octicons-arrow-right-24: Get Started__](./exemplars/perceptions)</big>
 
-    [:octicons-tag-24: Python, pyTorch, Machine Learning](/tags)
+    [:octicons-tag-24: Python, pyTorch, Machine Learning](./tags)
     
     <small>:fontawesome-brands-github: [See it on GitHub](https://github.com/ImperialCollegeLondon/recode-perceptions)</small>
 
