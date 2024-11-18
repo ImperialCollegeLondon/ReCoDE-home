@@ -1,2 +1,5 @@
 .venv
 **/.DS_Store
+docs/filter/**
+docs/exemplars/**
+docs/index.md
