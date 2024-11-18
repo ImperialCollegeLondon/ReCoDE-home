@@ -57,7 +57,7 @@ Think back to when you were a new postgraduate student. You were embarking on yo
 ### Topic
 ReCoDE covers all disciplines that are taught at Imperial. Exemplars should be either centered around a method (deep learning, solving ODEs, implementing a mathematical mode etc.) or solving a problem (variant calling using single-cell sequencing or dataset analysis). Whatever it is, it should be something representative of a discipline - for example, it was taught during your undergraduate studies or it pops up in many postgraduate projects. Another way to think about this is to imagine a project that every new doctoral student in your lab should study before they start on their own.
 
-We reserve the right to decide if your suggestion fits into what we are trying to accomplish with ReCoDE - a variety of representative projects and also a variety of programming languages and tools. Please have a look at the existing [Exemplars](https://imperialcollegelondon.github.io/ReCoDE-home/exemplars/) to get inspired.
+We reserve the right to decide if your suggestion fits into what we are trying to accomplish with ReCoDE - a variety of representative projects and also a variety of programming languages and tools. Please have a look at the existing [Exemplars](index.md) to get inspired.
 
 ### Size
 We are looking for fairly concise projects. The code should not exceed several hundred lines. We have found out the hard way that creating a comprehensive annotation for a large project can get out of hand quickly. A new student should be able to get through the exemplar in one week - anything longer may be somewhat daunting and demotivating.
