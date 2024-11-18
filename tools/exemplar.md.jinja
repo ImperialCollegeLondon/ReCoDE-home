@@ -1,0 +1,14 @@
+---
+title: {{ exemplar.title }}
+tags:
+{% for tag in exemplar.tags %}  - {{ tag }}
+{% endfor %}---
+<div id="overlay">
+  <div id="overlay-text">
+  Redirecting to exemplar docs...
+  </div>
+</div>
+
+<meta http-equiv="refresh" content="0; url={{ exemplar.github|replace('github.com', 'github.io') }}" />
+
+--8<-- "{{ exemplar.github|replace('https://github.com', 'https://raw.githubusercontent.com')}}/main/README.md"

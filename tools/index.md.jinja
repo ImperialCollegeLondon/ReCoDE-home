@@ -1,0 +1,103 @@
+---
+title: {% if is_main_index %}ReCoDE Exemplars{% elif is_filter_index %}All exemplars{% else %}{{ current_filter_value }}{% endif %}
+hide:
+  - toc
+{% if is_main_index %}
+  - navigation
+{% endif %}
+search:
+  exclude: true
+---
+
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+{% if is_main_index %}
+  .background-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/img/group_computing.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 1;
+    transition: opacity 0.2s ease-out;
+    z-index: -1;
+  }
+{% endif %}
+
+  .content {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+  }
+
+  .grid.cards {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+  }
+</style>
+
+{% if is_main_index %}
+<div class="background-overlay" id="backgroundOverlay"></div>
+
+<div class="content">
+    <div style="background-color: rgba(250, 250, 250, 0.80); padding: 20px; margin: 20px; border-radius: 10px;">
+    <h1 style="text-align: center;"><strong>Welcome to ReCoDE</strong></h1>
+    <h2 style="text-align: center;">Research Computing and Data Science Exemplars for Learning and Teaching</h2>
+    <p><strong>A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.</strong></p>
+    <div style="text-align: center;">
+    <a href="filter" class="md-button md-button--primary">Browse the exemplars by category</a>
+    </div>
+    <p>Or keep scrolling to see all of our exemplars...</p>
+    </div>
+</div>
+
+<script>
+  window.addEventListener("scroll", function() {
+    const scrollPosition = window.scrollY;
+    const fadeStart = 0;
+    const fadeEnd = 400;
+    const fadeDistance = fadeEnd - fadeStart;
+    let opacity = 1 - Math.min(Math.max((scrollPosition - fadeStart) / fadeDistance, 0), 1);
+    document.getElementById("backgroundOverlay").style.opacity = opacity;
+  });
+</script>
+{% elif is_filter_index %}
+<div class="content">
+    <p><strong>A set of research computing exemplars with rich learning annotation for doctoral students and researchers who are working on projects with significant computational aspects.</strong></p>
+    <p>Use the navigation bar to filter exemplars by category...</p>
+</div>
+{% else %}
+<div class="content">
+    Now browsing by <strong>{{ current_filter_type }}</strong>, filtering for projects tagged <strong>{{ current_filter_value }}</strong>.
+</div>
+{% endif %}
+
+<div class="grid cards" markdown>
+
+{% for exemplar in exemplars %}
+-  <big>__{{ exemplar.title }}__</big>
+    <br>{{ exemplar.author }}
+
+    ---
+    
+    ![{{ exemplar.title }}]({{ paths.images }}/{{ exemplar.image }})
+
+    <big>[__:octicons-arrow-right-24: Get Started__]({{ paths.links }}/{{ exemplar.link }})</big>
+
+    [:octicons-tag-24: {{ exemplar.tags|join(', ') }}](/tags)
+    
+    <small>:fontawesome-brands-github: [See it on GitHub]({{ exemplar.github }})</small>
+
+{% endfor %}
+</div>

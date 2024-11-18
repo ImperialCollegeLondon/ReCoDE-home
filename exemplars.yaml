@@ -1,0 +1,313 @@
+paths:
+  images: /assets/img/exemplars
+  links: /exemplars
+  
+exemplars:
+  - title: Mathematics of the Mandlebrot Set
+    author: Juan Carlos Bilbao-Ludena
+    image: mandelbrot.png
+    link: mandelbrot
+    tags:
+    - C++
+    - Parallel Computing
+    - Visualisation
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Exploration-Mandelbrot-Set
+    language: C++
+    discipline: Mathematics
+    method: Numerical Computing
+
+  - title: Neural Ordinary Differential Equations
+    author: Ekin Ozturk
+    image: neuralodes.gif
+    link: neuralodes
+    tags:
+    - Python
+    - Machine Learning
+    - PyTorch
+    - Ordinary Differential Equations
+    - Nonlinear Feedback Control
+    - Optimisation
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-NeuralODEs
+    language: Python
+    discipline: Machine Learning
+    method: Deep Learning
+
+  - title: Predicting Colitis with Penalised Regression
+    author: Fabio Feser
+    image: penalisedreg.png
+    link: penalisedreg
+    tags:
+      - R
+      - Statistics
+      - Logistic Regression
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-penalised-reg
+    language: R
+    discipline: Medicine
+    method: Statistical Analysis
+
+  - title: Environmental Literature Analysis with BERTopic & RoBERTa
+    author: Yurong Yu
+    image: environmentlit.png
+    link: environmentlit
+    tags:
+    - Topic Modelling
+    - BERTopic
+    - RoBERTa
+    - Natural Language Processing
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Analysis-of-environmental-literature-with-BERTopic-and-RoBERTa
+    language: Python
+    discipline: Environmental Science
+    method: Natural Language Processing
+
+  - title: "Cracking Time's Code: Survival Analysis of Large Datasets"
+    author: Valentina Quintero Santofimio
+    image: crackingtime.png
+    link: crackingtime
+    tags:
+      - R
+      - Epidemiology
+      - Statistics
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-SurvivalAnalysis
+    language: R
+    discipline: Epidemiology
+    method: Survival Analysis
+
+  - title: Hand-eye Calibration of Medical Robots
+    author: Zejian Cui
+    image: handeyecalib.jpeg
+    link: handeyecalib
+    tags:
+      - C++
+      - Robotics
+      - Computer Vision
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-HandEyeCalibration
+    language: C++
+    discipline: Robotics
+    method: Computer Vision
+
+  - title: Turing Patterns & Partial Differential Equations
+    author: Elliot James Badcock
+    image: turingpatterns.gif
+    link: turingpatterns
+    tags:
+    - Fortran
+    - Fortran Package Manager
+    - Partial Differential Equations
+    - LAPACK
+    - Finite Difference Method
+    - Unit Testing
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Turing-Patterns-and-Partial-Differential-Equations
+    language: Fortran
+    discipline: Mathematics
+    method: Numerical Methods
+
+  - title: Deep Learning Best Practices
+    author: Antoni Bigata Casademunt
+    image: deeplearning.png
+    link: deeplearning
+    tags:
+    - Python
+    - PyTorch
+    - Machine Learning
+    - Best practices
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-DeepLearning-Best-Practices
+    language: Python
+    discipline: Software Engineering
+    method: Deep Learning
+
+  - title: SPH Solver for 2D Navier-Stokes
+    author: Georgios Efstathiou
+    image: sphnavierstokes.gif
+    link: sphnavierstokes
+    tags:
+    - Python
+    - C++
+    - Boost
+    - Fluid Dynamics
+    - Optimisation
+    - Object Oriented Programming
+    - Profiling
+    - Visualisation
+    - Matplotlib
+    - CMake
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-SPH-solver-2D-NS
+    language: Python, C++
+    discipline: Fluid Dynamics
+    method: Numerical Methods
+
+  - title: Hidden Markov Models for behavioural states
+    author: Laurence Blackhurst
+    image: hiddenmarkov.png
+    link: hiddenmarkov
+    tags:
+      - Python
+      - Pandas
+      - Machine Learning
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-HMMs-for-the-discovery-of-behavioural-states
+    language: Python
+    discipline: Behavioral Science
+    method: Machine Learning
+
+  - title: Decoding Market Signals
+    author: Benjamin Scharpf
+    image: decodingmarketsignals.png
+    link: decodingmarketsignals
+    tags:
+    - Python
+    - Pandas
+    - Finance
+    - Logistic Regression
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-DecodingMarketSignals
+    language: Python
+    discipline: Finance
+    method: Statistical Analysis
+
+  - title: Binary Classification of Patent Texts
+    author: Egheosa Ogbomo
+    image: aiforpatents.png
+    link: aiforpatents
+    tags:
+    - Python
+    - NumPy
+    - Tensorflow
+    - Scikit Learn
+    - Object Oriented Programming
+    - Data Analysis
+    - Machine Learning
+    - NLTK
+    - Natural Language Processing
+    - Patents
+    - Statistics
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-AIForPatents
+    language: Python
+    discipline: Patent Analysis
+    method: Machine Learning
+
+  - title: CNNs for the Cosmic Dawn
+    author: Kimeel Sooknunan
+    image: cosmicdawn.png
+    link: cosmicdawn
+    tags:
+    - Python
+    - NumPy
+    - Tensorflow
+    - Scikit Learn
+    - Pandas
+    - Convolutional Neural Networks
+    - Machine Learning
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-FirstDawn
+    language: Python
+    discipline: Astrophysics
+    method: Deep Learning
+
+  - title: Solving SDEs with Euler-Maruyama
+    author: Antonio Malpica-Morales
+    image: eulermaruyama.png
+    link: eulermaruyama
+    tags:
+    - Python
+    - Object Oriented Programming
+    - NumPy
+    - Stochastic Differential Equations
+    - Uncertainty Quantification
+    - Probability Distributions
+    - Matplotlib
+    github: https://github.com/ImperialCollegeLondon/ReCoDe-Euler-Maruyama
+    language: Python
+    discipline: Mathematics
+    method: Numerical Methods
+
+  - title: Multi-channel Python GUI
+    author: Shuaixun Wang
+    image: pythongui.jpg
+    link: pythongui
+    tags:
+    - Python
+    - NumPy
+    - GUI
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-PythonGUI
+    language: Python
+    discipline: Software Engineering
+    method: GUI Development
+
+  - title: RNA Sequencing Analysis
+    author: Jack Gisby
+    image: rnaseq.png
+    link: rnaseq
+    tags:
+    - Python
+    - R
+    - HPC
+    - bash
+    - Conda
+    - Nextflow
+    - Docker
+    github: https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline
+    language: R, bash
+    discipline: Bioinformatics
+    method: Sequence Analysis
+
+  - title: Bayesian Inference for SARS-CoV-2 Transmission
+    author: Bethan C Daniels
+    image: idms.png
+    link: idms
+    tags:
+    - R
+    - Stan
+    - Unit Testing
+    - Epidemiology
+    github: https://github.com/ImperialCollegeLondon/ReCoDE_IDMS
+    language: R
+    discipline: Epidemiology
+    method: Bayesian Inference
+
+  - title: 1-Dimensional Neutron Diffusion Solver
+    author: Jack Trainor
+    image: diffusion.png
+    link: diffusion
+    tags:
+    - Nuclear Physics
+    - Fortran
+    - Object Oriented Programming
+    - CMake
+    - PETSc
+    - Visualisation
+    - Optimisation
+    - Physics
+    - Paraview
+    - Finite Difference Method
+    github: https://github.com/ImperialCollegeLondon/ReCoDE_Diffusion_Code
+    language: Fortran
+    discipline: Nuclear Engineering
+    method: Numerical Methods
+
+  - title: Markov Chain Monte Carlo for fun and profit
+    author: Tom Hodson
+    image: mcmc.png
+    link: mcmc
+    tags:
+    - Python
+    - Unit Testing
+    - Optimisation
+    - Statistics
+    - Physics
+    github: https://github.com/ImperialCollegeLondon/ReCoDE_MCMCFF
+    language: Python
+    discipline: Physics
+    method: Statistical Analysis
+
+  - title: PyTorch for end-to-end deep learning
+    author: Emily Muller
+    image: perceptions.png
+    link: perceptions
+    tags:
+    - Python
+    - pyTorch
+    - Tensorflow
+    - Computer Vision
+    - Machine Learning
+    - HPC
+    github: https://github.com/ImperialCollegeLondon/recode-perceptions
+    language: Python
+    discipline: Machine Learning
+    method: Deep Learning
