@@ -80,7 +80,16 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Exemplars: index.md
+  - Exemplars:
+    - index.md
+    - All exemplars:
+      - filter/index.md
+      - Language:
+        - filter/language/*.md
+      - Discipline:
+        - filter/discipline/*.md
+      - Method:
+        - filter/method/*.md
   - About: about.md
   - Getting started: getting-started.md
   - Topics: tags.md
