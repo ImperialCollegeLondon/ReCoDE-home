@@ -95,7 +95,13 @@ search:
 
     <big>[__:octicons-arrow-right-24: Get Started__]({{ paths.links }}/{{ exemplar.link }})</big>
 
+{% if is_main_index %}
+    [:octicons-tag-24: {{ exemplar.tags|join(', ') }}](tags)
+{% elif is_filter_index %}
+    [:octicons-tag-24: {{ exemplar.tags|join(', ') }}](../tags)
+{% else %}
     [:octicons-tag-24: {{ exemplar.tags|join(', ') }}](../../../tags)
+{% endif %}
     
     <small>:fontawesome-brands-github: [See it on GitHub]({{ exemplar.github }})</small>
 
