@@ -1,6 +1,6 @@
 paths:
-  images: /assets/img/exemplars
-  links: /exemplars
+  images: assets/img/exemplars
+  links: exemplars
   
 exemplars:
   - title: Mathematics of the Mandlebrot Set

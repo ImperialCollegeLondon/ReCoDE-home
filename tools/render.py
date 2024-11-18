@@ -26,6 +26,15 @@ def filter_exemplars(data, field, value):
         'current_filter_value': value
     }
 
+def adjust_paths(data, depth):
+   """Adjust paths based on depth: 0 for main, 1 for filter, 2 for categories"""
+   new_data = data.copy()
+   if depth == 0:
+       return new_data
+   relative_base = '../' * depth
+   new_data['paths'] = {k: f"{relative_base}{v.lstrip('./')}" for k, v in data['paths'].items()}
+   return new_data
+
 def render_template():
     # Load YAML data
     with open('exemplars.yaml', 'r') as f:
@@ -41,20 +50,22 @@ def render_template():
         Path(f'{BASE_PATH}/{dir_name}').mkdir(parents=True, exist_ok=True)
     Path('docs/exemplars').mkdir(parents=True, exist_ok=True)
 
-    # Generate main index
-    main_data = {**data, 'is_main_index': True}
+    # Generate main index (depth 0)
+    main_data = adjust_paths(data, 0)
+    main_data['is_main_index'] = True
     with open('docs/index.md', 'w') as f:
         f.write(template.render(**main_data))
 
-    # Generate filter index
-    filter_data = {**data, 'is_filter_index': True}
+    # Generate filter index (depth 1)
+    filter_data = adjust_paths(data, 1)
+    filter_data['is_filter_index'] = True
     with open('docs/filter/index.md', 'w') as f:
         f.write(template.render(**filter_data))
-    
-    # Generate filtered versions
+
+    # Generate filtered versions (depth 2)
     for field in ['language', 'discipline', 'method']:
         for value in get_unique_values(data, field):
-            filtered_data = filter_exemplars(data, field, value)
+            filtered_data = adjust_paths(filter_exemplars(data, field, value), 3)
             filename = f"{BASE_PATH}/{field}/{value.lower().replace(' ', '_')}.md"
             with open(filename, 'w') as f:
                 f.write(template.render(**filtered_data))
