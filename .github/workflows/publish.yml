@@ -16,6 +16,8 @@ jobs:
           python-version: 3.x
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Render exemplar pages
+        run: python tools/render.py
       - name: Deploy Mkdocs
         run: mkdocs gh-deploy --force
 env:
