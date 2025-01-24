@@ -272,6 +272,14 @@ search:
         
         ![John](../assets/img/organisers/jpinney.jpeg){: style="max-height:225px;"}
 
+    -  __Jesús Urtasun Elizari__
+        [:octicons-mail-24:](mailto: jesus.urtasun@lms.mrc.ac.uk)
+        :octicons-organization-24:
+
+        ---
+        
+        ![Jesús](../assets/img/organisers/jurtasun.png){: style="max-height:225px;"}
+
     </div>
 
 === "Research Software Engineers"
