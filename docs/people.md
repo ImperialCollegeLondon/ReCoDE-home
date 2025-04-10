@@ -48,6 +48,16 @@ search:
 
         __:octicons-beaker-24: Deep Learning Best Practices__
 
+    -  __Zhao Chua Khoo__
+        [:octicons-mail-24:](mailto: wee.chua-khoo15@imperial.ac.uk)
+
+        ---
+        
+        ![Zhao](../assets/img/authors/zchuakhoo.png){: style="max-height:225px;"}
+
+        __:octicons-beaker-24: Navier Stokes Propagator__
+
+
     -  __Zejian Cui__
         [:octicons-mail-24:](mailto: zejian.cui19@imperial.ac.uk)
 
