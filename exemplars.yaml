@@ -3,6 +3,19 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Navier-Stokes Propagator
+    author: Zhao Chua Khoo
+    image: nsprop.png
+    link: nsprop
+    tags:
+    - Julia
+    - Object-Oriented Programming
+    - Unit Testing
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-NavierStokesPropagator
+    language: Julia
+    discipline: Fluid Dynamics
+    method: Numerical Computing
+
   - title: Mathematics of the Mandlebrot Set
     author: Juan Carlos Bilbao-Ludena
     image: mandelbrot.png
