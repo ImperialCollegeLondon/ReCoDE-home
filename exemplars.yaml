@@ -3,6 +3,21 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Stochastic Population Dynamics in Changing Environments
+    author: Hanchun Wang
+    email: hanchun.wang21@imperial.ac.uk
+    author_image: hwang.jpg
+    image: stocpopulation.png
+    link: stockpopulation
+    tags:
+    - Python
+    - Stochastic Differential Equations
+    - Ordinary Differential Equations
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Stochastic-Population-Dynamics-in-Changing-Environments
+    language: Python
+    discipline: Population Dynamics
+    method: Numerical Computing
+
   - title: Navier-Stokes Propagator
     author: Zhao Chua Khoo
     email: wee.chua-khoo15@imperial.ac.uk
