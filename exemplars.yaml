@@ -4,6 +4,22 @@ paths:
   
 exemplars:
   - title: Stochastic Population Dynamics in Changing Environments
+    author: Lucy Hart
+    email: lucy.hart18@imperial.ac.uk
+    author_image: lhart.jpg
+    image: lattice.gif
+    link: lattice
+    tags:
+    - Python
+    - Parallel Computing
+    - Visualisation
+    - Seaborn
+    github: https://github.com/ImperialCollegeLondon/ReCoDE_Lattice_Hamiltonian
+    language: Python
+    discipline: Quantum Mechanics
+    method: Numerical Computing
+    
+  - title: Stochastic Population Dynamics in Changing Environments
     author: Hanchun Wang
     email: hanchun.wang21@imperial.ac.uk
     author_image: hwang.jpg
