@@ -44,6 +44,7 @@ def render_template():
     env = Environment(loader=FileSystemLoader('.'))
     template = env.get_template('tools/index.md.jinja')
     exemplar_template = env.get_template('tools/exemplar.md.jinja')
+    people_template = env.get_template('tools/people.md.jinja')
     
     # Create directories
     for dir_name in ['language', 'discipline', 'method']:
@@ -75,6 +76,10 @@ def render_template():
         filename = f"docs/exemplars/{exemplar['link']}.md"
         with open(filename, 'w') as f:
             f.write(exemplar_template.render(exemplar=exemplar))
+            
+    # Generate people page
+    with open('docs/people.md', 'w') as f:
+        f.write(people_template.render(exemplars=data['exemplars']))
 
 if __name__ == '__main__':
     render_template()

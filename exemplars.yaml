@@ -5,6 +5,8 @@ paths:
 exemplars:
   - title: Navier-Stokes Propagator
     author: Zhao Chua Khoo
+    email: wee.chua-khoo15@imperial.ac.uk
+    author_image: zchuakhoo.png
     image: nsprop.png
     link: nsprop
     tags:
@@ -18,6 +20,8 @@ exemplars:
 
   - title: Mathematics of the Mandlebrot Set
     author: Juan Carlos Bilbao-Ludena
+    email: j.bilbao-ludena17@imperial.ac.uk
+    author_image: jbilbao.jpg
     image: mandelbrot.png
     link: mandelbrot
     tags:
@@ -31,6 +35,8 @@ exemplars:
 
   - title: Neural Ordinary Differential Equations
     author: Ekin Ozturk
+    email: ekin.ozturk17@imperial.ac.uk
+    author_image: eozturk.jpg
     image: neuralodes.gif
     link: neuralodes
     tags:
@@ -47,6 +53,8 @@ exemplars:
 
   - title: Predicting Colitis with Penalised Regression
     author: Fabio Feser
+    email: fabio.feser20@imperial.ac.uk
+    author_image: ffeser.jpeg
     image: penalisedreg.png
     link: penalisedreg
     tags:
@@ -60,6 +68,8 @@ exemplars:
 
   - title: Environmental Literature Analysis with BERTopic & RoBERTa
     author: Yurong Yu
+    email: y.yu19@imperial.ac.uk
+    author_image: yyu.jpg
     image: environmentlit.png
     link: environmentlit
     tags:
@@ -74,6 +84,8 @@ exemplars:
 
   - title: "Cracking Time's Code: Survival Analysis of Large Datasets"
     author: Valentina Quintero Santofimio
+    email: valentina.quintero-santofimio20@imperial.ac.uk
+    author_image: vquintero-santofimio.jpg
     image: crackingtime.png
     link: crackingtime
     tags:
@@ -87,6 +99,8 @@ exemplars:
 
   - title: Hand-eye Calibration of Medical Robots
     author: Zejian Cui
+    email: zejian.cui19@imperial.ac.uk
+    author_image: zcui.jpg
     image: handeyecalib.jpeg
     link: handeyecalib
     tags:
@@ -100,6 +114,8 @@ exemplars:
 
   - title: Turing Patterns & Partial Differential Equations
     author: Elliot James Badcock
+    email: e.badcock21@imperial.ac.uk
+    author_image: ejbadcock.jpeg
     image: turingpatterns.gif
     link: turingpatterns
     tags:
@@ -116,6 +132,8 @@ exemplars:
 
   - title: Deep Learning Best Practices
     author: Antoni Bigata Casademunt
+    email: a.bigata-casademunt22@imperial.ac.uk
+    author_image: abigata.png
     image: deeplearning.png
     link: deeplearning
     tags:
@@ -130,6 +148,8 @@ exemplars:
 
   - title: SPH Solver for 2D Navier-Stokes
     author: Georgios Efstathiou
+    email: georgios.efstathiou20@imperial.ac.uk
+    author_image: gefstathiou.png
     image: sphnavierstokes.gif
     link: sphnavierstokes
     tags:
@@ -150,6 +170,8 @@ exemplars:
 
   - title: Hidden Markov Models for behavioural states
     author: Laurence Blackhurst
+    email: l.blackhurst19@imperial.ac.uk
+    author_image: lblackhurst.jpeg
     image: hiddenmarkov.png
     link: hiddenmarkov
     tags:
@@ -163,6 +185,8 @@ exemplars:
 
   - title: Decoding Market Signals
     author: Benjamin Scharpf
+    email: b.scharpf19@imperial.ac.uk
+    author_image: bscharpf.jpg
     image: decodingmarketsignals.png
     link: decodingmarketsignals
     tags:
@@ -177,6 +201,8 @@ exemplars:
 
   - title: Binary Classification of Patent Texts
     author: Egheosa Ogbomo
+    email: e.ogbomo21@imperial.ac.uk
+    author_image: eogbomo.jpg
     image: aiforpatents.png
     link: aiforpatents
     tags:
@@ -198,6 +224,8 @@ exemplars:
 
   - title: CNNs for the Cosmic Dawn
     author: Kimeel Sooknunan
+    email: k.sooknunan19@imperial.ac.uk
+    author_image: ksooknunan.png
     image: cosmicdawn.png
     link: cosmicdawn
     tags:
@@ -215,6 +243,8 @@ exemplars:
 
   - title: Solving SDEs with Euler-Maruyama
     author: Antonio Malpica-Morales
+    email: a.malpica-morales21@imperial.ac.uk
+    author_image: amalpica-morales.jpg
     image: eulermaruyama.png
     link: eulermaruyama
     tags:
@@ -232,6 +262,8 @@ exemplars:
 
   - title: Multi-channel Python GUI
     author: Shuaixun Wang
+    email: shuaixun.wang20@imperial.ac.uk
+    author_image: swang.png
     image: pythongui.jpg
     link: pythongui
     tags:
@@ -245,6 +277,8 @@ exemplars:
 
   - title: RNA Sequencing Analysis
     author: Jack Gisby
+    email: j.gisby20@imperial.ac.uk
+    author_image: jgisby.jpg
     image: rnaseq.png
     link: rnaseq
     tags:
@@ -262,6 +296,8 @@ exemplars:
 
   - title: Bayesian Inference for SARS-CoV-2 Transmission
     author: Bethan C Daniels
+    email: bethan.cracknell-daniels19@imperial.ac.uk
+    author_image: bdaniels.png
     image: idms.png
     link: idms
     tags:
@@ -276,6 +312,8 @@ exemplars:
 
   - title: 1-Dimensional Neutron Diffusion Solver
     author: Jack Trainor
+    email: j.trainor20@imperial.ac.uk
+    author_image: jtrainor.jpg
     image: diffusion.png
     link: diffusion
     tags:
@@ -296,6 +334,8 @@ exemplars:
 
   - title: Markov Chain Monte Carlo for fun and profit
     author: Tom Hodson
+    email: t.hodson18@imperial.ac.uk
+    author_image: thodson.jpeg
     image: mcmc.png
     link: mcmc
     tags:
@@ -311,6 +351,8 @@ exemplars:
 
   - title: PyTorch for end-to-end deep learning
     author: Emily Muller
+    email: emily.muller@imperial.ac.uk
+    author_image: emuller.jpg
     image: perceptions.png
     link: perceptions
     tags:
