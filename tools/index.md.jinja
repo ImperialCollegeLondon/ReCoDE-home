@@ -85,9 +85,33 @@ search:
 
 <div class="grid cards" markdown>
 
+{% set lang_icons = {
+    'python': ':simple-python:',
+    'r': ':simple-r:',
+    'julia': ':simple-julia:',
+    'fortran': ':simple-fortran:',
+    'c++': ':simple-cplusplus:',
+    'c': ':simple-c:',
+    'matlab': ':simple-mathworks:',
+    'nextcloud': ':simple-nextcloud:',
+    'bash': ':simple-gnubash:'
+} %}
+
 {% for exemplar in exemplars %}
 -  <big>__{{ exemplar.title }}__</big>
     <br>{{ exemplar.author }}
+
+    {% if exemplar.language -%}
+      {% set languages = exemplar.language.split(',') -%}
+      <small>
+        {%- for lang in languages -%}
+          {%- set lang_trimmed = lang.strip() -%}
+          {%- set lang_key = lang_trimmed | lower -%}
+          {{ lang_icons.get(lang_key, '') }} {{ lang_trimmed }}{% if not loop.last %}  {% endif %}
+        {%- endfor %}
+      </small>
+    {%- endif %}
+
 
     ---
     

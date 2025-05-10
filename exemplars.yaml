@@ -28,7 +28,6 @@ exemplars:
     image: lattice.gif
     link: lattice
     tags:
-    - Python
     - Parallel Computing
     - Visualisation
     - Seaborn
@@ -44,7 +43,6 @@ exemplars:
     image: stocpopulation.png
     link: stockpopulation
     tags:
-    - Python
     - Stochastic Differential Equations
     - Ordinary Differential Equations
     github: https://github.com/ImperialCollegeLondon/ReCoDE-Stochastic-Population-Dynamics-in-Changing-Environments
@@ -59,7 +57,6 @@ exemplars:
     image: nsprop.png
     link: nsprop
     tags:
-    - Julia
     - Object-Oriented Programming
     - Unit Testing
     github: https://github.com/ImperialCollegeLondon/ReCoDE-NavierStokesPropagator
@@ -74,7 +71,6 @@ exemplars:
     image: mandelbrot.png
     link: mandelbrot
     tags:
-    - C++
     - Parallel Computing
     - Visualisation
     github: https://github.com/ImperialCollegeLondon/ReCoDE-Exploration-Mandelbrot-Set
@@ -89,7 +85,6 @@ exemplars:
     image: neuralodes.gif
     link: neuralodes
     tags:
-    - Python
     - Machine Learning
     - PyTorch
     - Ordinary Differential Equations
@@ -107,7 +102,6 @@ exemplars:
     image: penalisedreg.png
     link: penalisedreg
     tags:
-      - R
       - Statistics
       - Logistic Regression
     github: https://github.com/ImperialCollegeLondon/ReCoDE-penalised-reg
@@ -138,7 +132,6 @@ exemplars:
     image: crackingtime.png
     link: crackingtime
     tags:
-      - R
       - Epidemiology
       - Statistics
     github: https://github.com/ImperialCollegeLondon/ReCoDE-SurvivalAnalysis
@@ -153,7 +146,6 @@ exemplars:
     image: handeyecalib.jpeg
     link: handeyecalib
     tags:
-      - C++
       - Robotics
       - Computer Vision
     github: https://github.com/ImperialCollegeLondon/ReCoDE-HandEyeCalibration
@@ -168,7 +160,6 @@ exemplars:
     image: turingpatterns.gif
     link: turingpatterns
     tags:
-    - Fortran
     - Fortran Package Manager
     - Partial Differential Equations
     - LAPACK
@@ -186,7 +177,6 @@ exemplars:
     image: deeplearning.png
     link: deeplearning
     tags:
-    - Python
     - PyTorch
     - Machine Learning
     - Best practices
@@ -202,8 +192,6 @@ exemplars:
     image: sphnavierstokes.gif
     link: sphnavierstokes
     tags:
-    - Python
-    - C++
     - Boost
     - Fluid Dynamics
     - Optimisation
@@ -224,7 +212,6 @@ exemplars:
     image: hiddenmarkov.png
     link: hiddenmarkov
     tags:
-      - Python
       - Pandas
       - Machine Learning
     github: https://github.com/ImperialCollegeLondon/ReCoDE-HMMs-for-the-discovery-of-behavioural-states
@@ -239,7 +226,6 @@ exemplars:
     image: decodingmarketsignals.png
     link: decodingmarketsignals
     tags:
-    - Python
     - Pandas
     - Finance
     - Logistic Regression
@@ -255,7 +241,6 @@ exemplars:
     image: aiforpatents.png
     link: aiforpatents
     tags:
-    - Python
     - NumPy
     - Tensorflow
     - Scikit Learn
@@ -278,7 +263,6 @@ exemplars:
     image: cosmicdawn.png
     link: cosmicdawn
     tags:
-    - Python
     - NumPy
     - Tensorflow
     - Scikit Learn
@@ -297,7 +281,6 @@ exemplars:
     image: eulermaruyama.png
     link: eulermaruyama
     tags:
-    - Python
     - Object Oriented Programming
     - NumPy
     - Stochastic Differential Equations
@@ -316,7 +299,6 @@ exemplars:
     image: pythongui.jpg
     link: pythongui
     tags:
-    - Python
     - NumPy
     - GUI
     github: https://github.com/ImperialCollegeLondon/ReCoDE-PythonGUI
@@ -331,15 +313,12 @@ exemplars:
     image: rnaseq.png
     link: rnaseq
     tags:
-    - Python
-    - R
     - HPC
-    - bash
     - Conda
     - Nextflow
     - Docker
     github: https://github.com/ImperialCollegeLondon/ReCoDE_rnaseq_pipeline
-    language: R, bash
+    language: Python, R, bash
     discipline: Bioinformatics
     method: Sequence Analysis
 
@@ -350,7 +329,6 @@ exemplars:
     image: idms.png
     link: idms
     tags:
-    - R
     - Stan
     - Unit Testing
     - Epidemiology
@@ -367,7 +345,6 @@ exemplars:
     link: diffusion
     tags:
     - Nuclear Physics
-    - Fortran
     - Object Oriented Programming
     - CMake
     - PETSc
@@ -388,7 +365,6 @@ exemplars:
     image: mcmc.png
     link: mcmc
     tags:
-    - Python
     - Unit Testing
     - Optimisation
     - Statistics
@@ -405,7 +381,6 @@ exemplars:
     image: perceptions.png
     link: perceptions
     tags:
-    - Python
     - pyTorch
     - Tensorflow
     - Computer Vision
