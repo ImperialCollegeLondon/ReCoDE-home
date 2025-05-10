@@ -3,6 +3,24 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Gene Network Analysis
+    author: Anjali Golding
+    email: anjali.golding20@imperial.ac.uk
+    author_image: agolding.jpg
+    image: geneanalysis.pdf
+    link: geneanalysis
+    tags:
+    - Single-Cell RNA Sequencing
+    - Methods for Single-Cell Gene Network Analysis
+    - Gene Set Enrichment Analysis
+    - Visualisation
+    - Natural language processing
+    - Data analysis
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Gene-Network-Analysis
+    language: Python
+    discipline: Genetics
+    method: Data Analysis
+
   - title: Modelling Organic Crystals Using a Lattice Hamiltonian
     author: Lucy Hart
     email: lucy.hart18@imperial.ac.uk
