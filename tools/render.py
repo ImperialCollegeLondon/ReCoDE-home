@@ -8,10 +8,10 @@ BASE_PATH = "docs/filter"
 def get_unique_values(data, field):
     values = set()
     for exemplar in data['exemplars']:
-        if ',' in str(exemplar[field]):
+        if isinstance(exemplar[field], str):
             values.update(v.strip() for v in exemplar[field].split(','))
         else:
-            values.add(exemplar[field])
+            values.add(str(exemplar[field]).strip())
     return sorted(values)
 
 def filter_exemplars(data, field, value):
@@ -19,7 +19,7 @@ def filter_exemplars(data, field, value):
         'paths': data['paths'],
         'exemplars': [
             e for e in data['exemplars'] 
-            if value in str(e[field]).split(', ')
+            if value in [v.strip() for v in str(e[field]).split(',')]
         ],
         'is_main_index': False,
         'current_filter_type': field,
