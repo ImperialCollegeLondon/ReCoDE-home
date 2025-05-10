@@ -16,9 +16,29 @@ ReCoDE is growing! The following exemplars are currently under development and w
     ---
     Simulating Hamiltonian systems from scratch
 
--  __Anjali Golding__ :octicons-beaker-24:
+-  __Duke T J Ludera__ :octicons-beaker-24:
 
     ---
-    Gene network analysis
+    Data-Scarce behavioural anomaly detection
+
+-  __Elizaveta Sheremetyeva__ :octicons-beaker-24:
+
+    ---
+    Graph-based visualisation of mathematical knots
+
+-  __Sabrina Wang__ :octicons-beaker-24:
+
+    ---
+    A BLE neighbour discovery protocol on nRF52
+
+-  __Sara Patti__ :octicons-beaker-24:
+
+    ---
+    Developing an analysis pipeline
+
+-  __Omar Adalat__ :octicons-beaker-24:
+
+    ---
+    Safe and verifiable multi-agent reinforcement learning
 
 </div>
