@@ -26,7 +26,7 @@ search:
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: scroll;
     opacity: 1;
     transition: opacity 0.2s ease-out;
     z-index: -1;
@@ -127,7 +127,7 @@ search:
     [:octicons-tag-24: {{ exemplar.tags|join(', ') }}](../../../tags)
 {% endif %}
     
-    <small>:fontawesome-brands-github: [See it on GitHub]({{ exemplar.github }})</small>
+    <small>:fontawesome-brands-github: [See it on GitHub]({{ exemplar.github }})</small><br>
 
 {% endfor %}
 </div>
