@@ -3,6 +3,21 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Time Lag Analysis
+    author: Louis Nguyen
+    email: s.nguyen21@imperial.ac.uk
+    author_image: lnguyen.jpg
+    image: permeation.png
+    link: permeation
+    tags:
+    - GUI
+    - Partial Differential Equations
+    - Diffusion
+    github: https://github.com/ImperialCollegeLondon/ReCoDe-permeation-analysis-app/
+    language: Python
+    discipline: Chemical Engineering
+    method: Numerical Computing
+
   - title: Gene Network Analysis
     author: Anjali Golding
     email: anjali.golding20@imperial.ac.uk
