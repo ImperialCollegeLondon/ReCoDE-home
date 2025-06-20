@@ -112,13 +112,7 @@ search:
       </small>
     {%- endif %}
 
-
-    ---
-    
-    ![{{ exemplar.title }}]({{ paths.images }}/{{ exemplar.image }})
-
-    <big>[__:octicons-arrow-right-24: Get Started__]({{ paths.links }}/{{ exemplar.link }})</big>
-
+      <small>
 {% if is_main_index %}
     [:octicons-tag-24: {{ exemplar.tags|join(', ') }}](tags)
 {% elif is_filter_index %}
@@ -126,6 +120,13 @@ search:
 {% else %}
     [:octicons-tag-24: {{ exemplar.tags|join(', ') }}](../../../tags)
 {% endif %}
+      </small>
+
+    ---
+    
+    ![{{ exemplar.title }}]({{ paths.images }}/{{ exemplar.image }})
+
+    <big>[__:octicons-arrow-right-24: Get Started__]({{ paths.links }}/{{ exemplar.link }})</big>
     
     <small>:fontawesome-brands-github: [See it on GitHub]({{ exemplar.github }})</small><br>
 
