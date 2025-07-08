@@ -210,7 +210,7 @@ exemplars:
     - Boost
     - Fluid Dynamics
     - Optimisation
-    - Object Oriented Programming
+    - Object-Oriented Programming
     - Profiling
     - Visualisation
     - Matplotlib
@@ -259,7 +259,7 @@ exemplars:
     - NumPy
     - Tensorflow
     - Scikit Learn
-    - Object Oriented Programming
+    - Object-Oriented Programming
     - Data Analysis
     - Machine Learning
     - NLTK
@@ -296,7 +296,7 @@ exemplars:
     image: eulermaruyama.png
     link: eulermaruyama
     tags:
-    - Object Oriented Programming
+    - Object-Oriented Programming
     - NumPy
     - Stochastic Differential Equations
     - Uncertainty Quantification
@@ -360,7 +360,7 @@ exemplars:
     link: diffusion
     tags:
     - Nuclear Physics
-    - Object Oriented Programming
+    - Object-Oriented Programming
     - CMake
     - PETSc
     - Visualisation
