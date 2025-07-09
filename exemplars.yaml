@@ -3,6 +3,23 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Hamiltonian Systems in JAX
+    author: Tycho van der Ouderaa
+    email: t.van-der-ouderaa21@imperial.ac.uk
+    author_image: tvanderouderaa.jpeg
+    image: hamiltonianjax.png
+    link: hamiltonianjax
+    tags:
+    - JAX
+    - Object Oriented Programming
+    - Ordinary Differential Equations
+    - Matplotlib
+    - Dynamic Systems
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Hamiltonian-Systems-Jax
+    language: Python
+    discipline: Physics
+    method: Numerical Computing
+
   - title: Time Lag Analysis
     author: Louis Nguyen
     email: s.nguyen21@imperial.ac.uk
