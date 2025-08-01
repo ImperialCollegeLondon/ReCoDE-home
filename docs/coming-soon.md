@@ -11,11 +11,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
 
 <div class="grid cards" markdown>
 
--  __Tycho van der Ouderaa__ :octicons-beaker-24:
-
-    ---
-    Simulating Hamiltonian systems from scratch
-
 -  __Duke T J Ludera__ :octicons-beaker-24:
 
     ---
