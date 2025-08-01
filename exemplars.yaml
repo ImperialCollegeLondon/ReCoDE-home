@@ -3,6 +3,23 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Finite Element Method
+    author: Ellya Kanimova
+    email: elmira.kanimova21@imperial.ac.uk
+    author_image: ekanimova.jpeg
+    image: finiteelement.gif
+    link: finiteelement
+    tags:
+    - Finite Element Analysis
+    - Partial Differential Equations
+    - Mesh
+    - Boundary Conditions
+    - Convergence Analysis
+    github: https://github.com/ImperialCollegeLondon/ReCoDe-Finite-Element-Method
+    language: Python
+    discipline: Physics
+    method: Numerical Computing
+
   - title: Hamiltonian Systems in JAX
     author: Tycho van der Ouderaa
     email: t.van-der-ouderaa21@imperial.ac.uk
