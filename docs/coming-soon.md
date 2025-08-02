@@ -31,9 +31,4 @@ ReCoDE is growing! The following exemplars are currently under development and w
     ---
     Developing an analysis pipeline
 
--  __Omar Adalat__ :octicons-beaker-24:
-
-    ---
-    Safe and verifiable multi-agent reinforcement learning
-
 </div>
