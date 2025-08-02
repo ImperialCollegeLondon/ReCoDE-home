@@ -3,6 +3,21 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Combinatorial Problems with Reinforcement Learning
+    author: Omar Adalat
+    email: o.adalat24@imperial.ac.uk
+    author_image: oadalat.png
+    image: combinatorial.png
+    link: combinatorial
+    tags:
+    - Reinforcement Learning
+    - Machine Learning
+    - Optimisation
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Solving-Combinatorial-Problems-using-Reinforcement-Learning/
+    language: Python
+    discipline: Computer Science
+    method: Machine Learning
+
   - title: Finite Element Method
     author: Ellya Kanimova
     email: elmira.kanimova21@imperial.ac.uk
