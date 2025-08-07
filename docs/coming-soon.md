@@ -11,11 +11,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
 
 <div class="grid cards" markdown>
 
--  __Duke T J Ludera__ :octicons-beaker-24:
-
-    ---
-    Data-Scarce behavioural anomaly detection
-
 -  __Elizaveta Sheremetyeva__ :octicons-beaker-24:
 
     ---

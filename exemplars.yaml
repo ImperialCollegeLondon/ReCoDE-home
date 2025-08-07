@@ -3,6 +3,24 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: Data-Scarce Anomaly Detection
+    author: Duke Ludera
+    email: d.ludera21@imperial.ac.uk
+    author_image: dludera.png
+    image: scarceanomaly.png
+    link: scarceanomaly
+    tags:
+    - Behavioural Anomaly Detection
+    - Unsupervised Learning
+    - Data Scarcity
+    - AI Ethics
+    - Pandas
+    - Scikit Learn
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Data-Scarce-Behavioural-Anomaly-Detection
+    language: Python
+    discipline: Physiology
+    method: Machine Learning
+
   - title: Combinatorial Problems with Reinforcement Learning
     author: Omar Adalat
     email: o.adalat24@imperial.ac.uk
