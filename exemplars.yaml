@@ -3,6 +3,22 @@ paths:
   links: exemplars
   
 exemplars:
+  - title: BLE Neighbour Discovery Protocol
+    author: Sabrina Wang
+    email: sabrina.wang22@imperial.ac.uk
+    author_image: swang.jpg
+    image: bleneighbour.jpg
+    link: bleneighbour
+    tags:
+    - Wireless Communication
+    - Bluetooth
+    - nRF52
+    - VS Code
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-BLE-Neighbour-Discovery-Protocol-nRF52/
+    language: C
+    discipline: Electrical Engineering
+    method: Embedded Systems
+
   - title: Data-Scarce Anomaly Detection
     author: Duke Ludera
     email: d.ludera21@imperial.ac.uk
