@@ -11,16 +11,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
 
 <div class="grid cards" markdown>
 
--  __Elizaveta Sheremetyeva__ :octicons-beaker-24:
-
-    ---
-    Graph-based visualisation of mathematical knots
-
--  __Sabrina Wang__ :octicons-beaker-24:
-
-    ---
-    A BLE neighbour discovery protocol on nRF52
-
 -  __Sara Patti__ :octicons-beaker-24:
 
     ---
