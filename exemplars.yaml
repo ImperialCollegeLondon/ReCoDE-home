@@ -1,8 +1,25 @@
 paths:
   images: assets/img/exemplars
   links: exemplars
-  
+
 exemplars:
+  - title: Reproducible Spatial Transcriptomics
+    author: Sara Patti
+    email: s.patti22@imperial.ac.uk
+    author_image: spatti.png
+    image: transcriptomics.png
+    link: transcriptomics
+    tags:
+    - Single-cell
+    - Spatial statistics
+    - scanpy
+    - squidpy
+    - Pipeline
+    github: https://github.com/ImperialCollegeLondon/ReCoDe-spatial-transcriptomics/
+    language: Python
+    discipline: Bioinformatics
+    method: Data Analysis
+
   - title: BLE Neighbour Discovery Protocol
     author: Sabrina Wang
     email: sabrina.wang22@imperial.ac.uk

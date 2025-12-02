@@ -11,9 +11,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
 
 <div class="grid cards" markdown>
 
--  __Sara Patti__ :octicons-beaker-24:
 
-    ---
-    Developing an analysis pipeline
 
 </div>
