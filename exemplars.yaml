@@ -3,6 +3,21 @@ paths:
   links: exemplars
 
 exemplars:
+  - title: Imperial PhD Thesis in LaTeX
+    author: João Graça Gomes
+    email: j.graca-gomes24@imperial.ac.uk
+    author_image: jgracagomes.jpg
+    image: latex.png
+    link: latex
+    tags:
+    - LaTeX
+    - PhD Thesis
+    - Academic Writing
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-LaTeX-PhD-Template/
+    language: LaTeX
+    discipline: Imperial PhD
+    method: Academic Writing
+
   - title: Reproducible Spatial Transcriptomics
     author: Sara Patti
     email: s.patti22@imperial.ac.uk
