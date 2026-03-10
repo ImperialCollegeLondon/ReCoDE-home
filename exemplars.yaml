@@ -3,6 +3,24 @@ paths:
   links: exemplars
 
 exemplars:
+  - title: Neural Operators Learning
+    author: Alain Xavier
+    email: a.xavier23@imperial.ac.uk
+    author_image: axavier.jpeg
+    image: neuraloperators.png
+    link: neuraloperators
+    tags:
+    - Partial Differential Equations
+    - Neural Networks
+    - JAX
+    - Dynamic Systems
+    - Diffusion
+    - Numerical Methods
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Neural-Operators/
+    language: Python
+    discipline: Mathematics
+    method: Machine Learning
+
   - title: Imperial PhD Thesis in LaTeX
     author: João Graça Gomes
     email: j.graca-gomes24@imperial.ac.uk
