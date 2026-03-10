@@ -3,6 +3,21 @@ paths:
   links: exemplars
 
 exemplars:
+  - title: Segmentation Lab
+    author: David Büchner
+    email: david.buchner21@imperial.ac.uk
+    author_image: dbuechner.jpg
+    image: segmentationlab.png
+    link: segmentationlab
+    tags:
+    - Image Processing
+    - 3D Segmentation
+    - scikit-image
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-Segmentation-Lab/
+    language: Python
+    discipline: Chemical Engineering
+    method: Data Analysis
+
   - title: Neural Operators Learning
     author: Alain Xavier
     email: a.xavier23@imperial.ac.uk
