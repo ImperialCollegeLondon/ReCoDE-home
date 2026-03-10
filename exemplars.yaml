@@ -222,7 +222,7 @@ exemplars:
     - Optimisation
     github: https://github.com/ImperialCollegeLondon/ReCoDE-NeuralODEs
     language: Python
-    discipline: Machine Learning
+    discipline: Mathematics
     method: Deep Learning
 
   - title: Predicting Colitis with Penalised Regression
@@ -518,5 +518,5 @@ exemplars:
     - HPC
     github: https://github.com/ImperialCollegeLondon/recode-perceptions
     language: Python
-    discipline: Machine Learning
+    discipline: Environmental Science
     method: Deep Learning
