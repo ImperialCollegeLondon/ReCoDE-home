@@ -12,7 +12,7 @@ exemplars:
     - Mixed-Effect Models
     - Plotting
     - Analysis
-    github: https://github.com/ImperialCollegeLondon/The-Random-Side-A-Mixed-Model-Adventure/
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-The-Random-Side-A-Mixed-Model-Adventure/
     language: R
     discipline: Epidemiology
     method: Statistical Analysis
