@@ -3,6 +3,20 @@ paths:
   links: exemplars
 
 exemplars:
+  - title: "The Random Side of R: A Mixed Model Adventure"
+    author: Valentina Quintero Santofimio
+    email: valentina.quintero-santofimio20@imperial.ac.uk
+    image: randomside.png
+    link: randomside
+    tags:
+    - Mixed-Effect Models
+    - Plotting
+    - Analysis
+    github: https://github.com/ImperialCollegeLondon/The-Random-Side-A-Mixed-Model-Adventure/
+    language: R
+    discipline: Epidemiology
+    method: Statistical Analysis
+
   - title: Segmentation Lab
     author: David Büchner
     email: david.buchner21@imperial.ac.uk
