@@ -35,6 +35,29 @@ def adjust_paths(data, depth):
    new_data['paths'] = {k: f"{relative_base}{v.lstrip('./')}" for k, v in data['paths'].items()}
    return new_data
 
+
+def build_author_cards(exemplars):
+    """Build one author card per author, sorted alphabetically by surname."""
+    grouped = {}
+
+    for exemplar in exemplars:
+        author = exemplar['author']
+        card = grouped.setdefault(author, {
+            'author': author,
+            'email': exemplar.get('email', ''),
+            'author_image': None,
+            'titles': []
+        })
+
+        if exemplar.get('author_image') and not card['author_image']:
+            card['author_image'] = exemplar['author_image']
+
+        card['titles'].append(exemplar['title'])
+
+    cards = [card for card in grouped.values() if card['author_image']]
+    cards.sort(key=lambda card: card['author'].split()[-1].lower())
+    return cards
+
 def render_template():
     # Load YAML data
     with open('exemplars.yaml', 'r') as f:
@@ -79,7 +102,9 @@ def render_template():
             
     # Generate people page
     with open('docs/people.md', 'w') as f:
-        f.write(people_template.render(exemplars=data['exemplars']))
+        f.write(people_template.render(
+            author_cards=build_author_cards(data['exemplars'])
+        ))
 
 if __name__ == '__main__':
     render_template()

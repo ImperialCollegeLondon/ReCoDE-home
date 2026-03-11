@@ -12,18 +12,18 @@ search:
 
     <div class="grid cards" markdown>
 
-    {% for exemplar in exemplars %}
-    {% if exemplar.author_image is defined and exemplar.author_image %}
-    -  __{{ exemplar.author }}__
-        [:octicons-mail-24:](mailto: {{ exemplar.email }})
+    {% for author in author_cards %}
+    -  __{{ author.author }}__
+        [:octicons-mail-24:](mailto: {{ author.email }})
 
         ---
 
-        ![{{ exemplar.author.split()[0] }}](../assets/img/authors/{{ exemplar.author_image }}){: style="max-height:225px;"}
+        ![{{ author.author.split()[0] }}](../assets/img/authors/{{ author.author_image }}){: style="max-height:225px;"}
 
-        __:octicons-beaker-24: {{ exemplar.title }}__
+        {% for title in author.titles %}
+        __:octicons-beaker-24: {{ title }}__
 
-    {% endif %}
+        {% endfor %}
     {% endfor %}
     </div>
 
