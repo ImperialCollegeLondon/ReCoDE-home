@@ -3,6 +3,21 @@ paths:
   links: exemplars
 
 exemplars:
+  - title: "From Spaghetti to Structure: Writing Approachable Code"
+    author: Jonathan Holt
+    author_image: jholt.jpg
+    email: j.holt23@imperial.ac.uk
+    image: approachablecode.png
+    link: approachablecode
+    tags:
+    - Data Analysis
+    - Objected-Oriented Programming
+    - Best practices
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-The-Random-Side-A-Mixed-Model-Adventure/
+    language: MATLAB
+    discipline: Software Engineering
+    method: Best Practice
+
   - title: "The Random Side of R: A Mixed Model Adventure"
     author: Valentina Quintero Santofimio
     email: valentina.quintero-santofimio20@imperial.ac.uk
