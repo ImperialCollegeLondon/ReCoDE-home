@@ -6,6 +6,7 @@ exemplars:
   - title: "The Random Side of R: A Mixed Model Adventure"
     author: Valentina Quintero Santofimio
     email: valentina.quintero-santofimio20@imperial.ac.uk
+    author_image: vquintero-santofimio.jpg
     image: randomside.png
     link: randomside
     tags:
@@ -481,7 +482,7 @@ exemplars:
     github: https://github.com/ImperialCollegeLondon/ReCoDE-PythonGUI
     language: Python
     discipline: Software Engineering
-    method: GUI Development
+    method: Best Practice
 
   - title: RNA Sequencing Analysis
     author: Jack Gisby

@@ -45,16 +45,13 @@ def build_author_cards(exemplars):
         card = grouped.setdefault(author, {
             'author': author,
             'email': exemplar.get('email', ''),
-            'author_image': None,
+            'author_image': exemplar.get('author_image', ''),
             'titles': []
         })
 
-        if exemplar.get('author_image') and not card['author_image']:
-            card['author_image'] = exemplar['author_image']
-
         card['titles'].append(exemplar['title'])
 
-    cards = [card for card in grouped.values() if card['author_image']]
+    cards = [card for card in grouped.values()]
     cards.sort(key=lambda card: card['author'].split()[-1].lower())
     return cards
 
