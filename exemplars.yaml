@@ -13,7 +13,7 @@ exemplars:
     - Data Analysis
     - Objected-Oriented Programming
     - Best practices
-    github: https://github.com/ImperialCollegeLondon/ReCoDE-The-Random-Side-A-Mixed-Model-Adventure/
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-writing-approachable-code/
     language: MATLAB
     discipline: Software Engineering
     method: Best Practice
