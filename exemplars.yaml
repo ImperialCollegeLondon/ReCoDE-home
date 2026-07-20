@@ -3,6 +3,23 @@ paths:
   links: exemplars
 
 exemplars:
+  - title: Research Python Patterns
+    author: Hui Ling Wong
+    author_image: hlwong.jpg
+    email: hui.wong16@imperial.ac.uk
+    image: researchpypatterns.gif
+    link: researchpypatterns
+    tags:
+    - Best practices
+    - Objected-Oriented Programming
+    - uv
+    - Type hinting
+    - Software Architecture
+    github: https://github.com/ImperialCollegeLondon/ReCoDE-research-python-patterns
+    language: Python
+    discipline: Software Engineering
+    method: Best Practice
+
   - title: "From Spaghetti to Structure: Writing Approachable Code"
     author: Jonathan Holt
     author_image: jholt.jpg
