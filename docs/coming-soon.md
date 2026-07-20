@@ -16,11 +16,6 @@ ReCoDE is growing! The following exemplars are currently under development and w
     ---
     Subject-specific brain finite element mesh creation pipeline
 
--  __Hui Ling__ :octicons-beaker-24:
-
-    ---
-    Building maintainable and scalable typed python projects
-
 -  __Isabela Fons__ :octicons-beaker-24:
 
     ---
